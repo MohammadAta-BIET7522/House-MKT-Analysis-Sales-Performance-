@@ -7,15 +7,15 @@ The dashboard provides a clear, interactive view of market behavior, helping sta
 
 🎯 Objectives
 
-1. Analyze house sales performance across regions
+* Analyze house sales performance across regions
 
-2. Compare Offer Price vs Purchase Price
+* Compare Offer Price vs Purchase Price
 
-3. Track YoY sales growth by sales type
+* Track YoY sales growth by sales type
 
-4. Evaluate price per square meter (SQM) by region and house type
+* Evaluate price per square meter (SQM) by region and house type
 
-5. Understand market stability using Key Influencer analysis
+* Understand market stability using Key Influencer analysis
 
 🧩 Dashboard Pages
 
