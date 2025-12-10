@@ -1,0 +1,1001 @@
+date,quarter,house_id,house_type,sales_type,year_build,purchase_price,%_change_between_offer_and_purchase,no_rooms,sqm,sqm_price,address,zip_code,city,area,region,nom_interest_rate%,dk_ann_infl_rate%,yield_on_mortgage_credit_bonds%
+2012-05-10,Q4,H100000,Condo,Resale,1990,499076,-1.82,6,168,2970.69,90 Sample Street,71914,Copenhagen,Suburban,Hovedstaden,1.87,1.51,1.08
+2020-04-30,Q4,H100001,Apartment,Resale,2011,112507,-0.33,3,223,504.52,453 Sample Street,73888,Copenhagen,Rural,Nordjylland,4.39,1.39,2.07
+2018-06-20,Q2,H100002,Villa,New Sale,1959,107134,-2.5,5,215,498.3,60 Sample Street,89286,Copenhagen,Urban,Midtjylland,4.02,1.66,0.27
+2011-04-12,Q2,H100003,Townhouse,New Sale,1970,183172,-1.34,5,247,741.59,311 Sample Street,71293,Odense,Urban,Hovedstaden,4.69,1.44,2.79
+2022-02-13,Q4,H100004,Villa,Resale,1985,291225,-0.99,5,193,1508.94,528 Sample Street,92524,Copenhagen,Suburban,Midtjylland,1.61,2.29,0.75
+2019-06-07,Q1,H100005,Villa,New Sale,1961,243069,0.04,8,190,1279.31,227 Sample Street,78515,Aarhus,Suburban,Midtjylland,3.1,2.04,3.0
+2018-09-07,Q1,H100006,Townhouse,Resale,1951,864604,6.24,9,42,20585.81,474 Sample Street,33524,Copenhagen,Suburban,Nordjylland,1.74,2.29,0.6
+2017-12-29,Q2,H100007,Villa,Resale,1962,856564,3.58,9,118,7259.02,978 Sample Street,17065,Aarhus,Urban,Nordjylland,4.21,2.85,2.34
+2010-05-11,Q2,H100008,Townhouse,Resale,2002,823221,9.79,6,71,11594.66,541 Sample Street,47684,Copenhagen,Rural,Midtjylland,0.52,1.85,0.75
+2014-08-13,Q4,H100009,Villa,Resale,1981,854631,1.22,6,239,3575.86,663 Sample Street,98720,Odense,Rural,Hovedstaden,3.04,1.38,0.33
+2012-02-09,Q2,H100010,Townhouse,New Sale,1965,610897,6.31,9,258,2367.82,757 Sample Street,43365,Aalborg,Suburban,Nordjylland,2.03,1.08,2.64
+2016-07-19,Q2,H100011,Apartment,Resale,1981,224037,8.07,4,280,800.13,782 Sample Street,68876,Copenhagen,Rural,Midtjylland,1.95,1.72,2.59
+2016-08-30,Q4,H100012,Condo,New Sale,1981,713376,5.18,6,237,3010.03,79 Sample Street,33704,Copenhagen,Rural,Syddanmark,3.4,3.1,1.27
+2013-03-30,Q2,H100013,Townhouse,New Sale,1960,482995,1.18,4,169,2857.96,433 Sample Street,67857,Odense,Suburban,Syddanmark,4.33,3.15,2.14
+2022-06-22,Q4,H100014,Townhouse,New Sale,1959,546013,6.3,1,63,8666.87,801 Sample Street,15622,Copenhagen,Suburban,Nordjylland,3.24,2.83,1.72
+2019-04-09,Q4,H100015,Condo,New Sale,1964,344025,-1.94,7,47,7319.68,153 Sample Street,93797,Aarhus,Urban,Hovedstaden,4.34,1.32,2.57
+2021-04-10,Q2,H100016,Townhouse,Resale,1966,787954,-0.09,6,86,9162.26,789 Sample Street,97700,Copenhagen,Urban,Syddanmark,1.69,2.56,1.01
+2023-04-06,Q2,H100017,Townhouse,New Sale,1989,860904,3.2,9,141,6105.7,401 Sample Street,89332,Copenhagen,Urban,Syddanmark,2.84,2.5,1.62
+2017-12-14,Q1,H100018,Villa,Resale,1967,550098,3.63,7,34,16179.35,279 Sample Street,76201,Aalborg,Urban,Syddanmark,2.53,2.19,1.51
+2011-04-20,Q1,H100019,Condo,New Sale,2004,757173,-4.67,7,211,3588.5,57 Sample Street,42694,Aalborg,Rural,Hovedstaden,0.55,2.42,1.13
+2012-12-18,Q2,H100020,Apartment,New Sale,2022,805728,9.18,2,42,19184.0,977 Sample Street,99766,Copenhagen,Rural,Hovedstaden,3.01,2.22,2.69
+2017-01-02,Q4,H100021,Townhouse,Resale,1974,307803,5.45,9,288,1068.76,186 Sample Street,32995,Odense,Urban,Nordjylland,3.48,2.48,0.58
+2015-08-10,Q3,H100022,Condo,Resale,2008,741381,2.44,9,119,6230.09,398 Sample Street,90141,Aalborg,Urban,Nordjylland,3.16,3.0,0.53
+2017-07-10,Q4,H100023,Villa,Resale,1971,366275,9.0,6,133,2753.95,605 Sample Street,92999,Copenhagen,Suburban,Syddanmark,3.81,0.88,1.77
+2012-09-02,Q3,H100024,Apartment,New Sale,1979,729447,1.59,3,215,3392.78,788 Sample Street,18419,Aalborg,Rural,Hovedstaden,3.07,3.12,2.01
+2014-12-12,Q1,H100025,Condo,New Sale,1993,62828,9.71,1,279,225.19,158 Sample Street,57952,Copenhagen,Rural,Midtjylland,0.8,0.98,0.66
+2010-07-09,Q4,H100026,Apartment,Resale,1981,933096,2.68,4,284,3285.55,787 Sample Street,43837,Aalborg,Urban,Syddanmark,1.02,0.73,1.23
+2017-06-27,Q2,H100027,Apartment,Resale,2000,566835,-3.29,3,105,5398.43,693 Sample Street,80799,Aalborg,Rural,Nordjylland,3.18,3.92,2.85
+2018-03-25,Q4,H100028,Apartment,Resale,1995,706761,6.47,1,137,5158.84,359 Sample Street,58877,Aarhus,Suburban,Hovedstaden,1.74,3.85,0.82
+2022-10-03,Q3,H100029,Townhouse,Resale,1970,851625,5.18,3,185,4603.38,440 Sample Street,55687,Copenhagen,Suburban,Nordjylland,0.86,0.71,2.04
+2015-03-15,Q1,H100030,Townhouse,New Sale,1981,273461,6.59,4,111,2463.61,589 Sample Street,47276,Copenhagen,Rural,Nordjylland,2.43,2.05,2.25
+2013-06-21,Q3,H100031,Villa,Resale,1988,488080,9.27,8,106,4604.53,466 Sample Street,44523,Copenhagen,Urban,Hovedstaden,2.99,1.15,1.4
+2014-03-09,Q4,H100032,Villa,Resale,1961,463523,6.65,9,287,1615.06,663 Sample Street,76055,Copenhagen,Rural,Syddanmark,1.98,2.2,2.82
+2018-10-08,Q4,H100033,Condo,Resale,1996,414662,4.17,3,156,2658.09,446 Sample Street,64615,Aalborg,Suburban,Hovedstaden,3.74,3.41,2.24
+2019-09-27,Q2,H100034,Villa,Resale,1967,331755,7.86,6,117,2835.51,750 Sample Street,20514,Aarhus,Urban,Syddanmark,3.4,3.83,1.43
+2020-08-26,Q1,H100035,Apartment,New Sale,1970,749151,5.1,5,233,3215.24,801 Sample Street,57456,Aarhus,Rural,Nordjylland,2.0,2.72,1.75
+2011-10-09,Q1,H100036,Apartment,Resale,1962,979454,1.12,6,45,21765.64,743 Sample Street,17233,Odense,Urban,Hovedstaden,3.9,1.74,2.11
+2017-11-28,Q3,H100037,Townhouse,New Sale,1970,388384,8.28,4,180,2157.69,488 Sample Street,11102,Copenhagen,Urban,Midtjylland,3.42,2.61,1.82
+2016-09-01,Q2,H100038,Apartment,Resale,1957,289719,-1.67,6,283,1023.74,530 Sample Street,76133,Odense,Suburban,Syddanmark,3.37,1.59,2.65
+2011-08-24,Q1,H100039,Condo,Resale,1995,782763,5.72,7,217,3607.2,73 Sample Street,56715,Aalborg,Urban,Midtjylland,2.99,3.68,1.13
+2016-06-21,Q2,H100040,Apartment,New Sale,1956,839177,8.22,9,61,13757.0,929 Sample Street,95193,Odense,Rural,Syddanmark,0.55,3.55,0.97
+2015-08-24,Q1,H100041,Apartment,Resale,1972,891675,5.97,7,34,26225.74,928 Sample Street,16256,Copenhagen,Urban,Hovedstaden,3.63,2.45,0.72
+2010-08-30,Q2,H100042,Condo,New Sale,1971,316010,5.46,6,198,1596.01,701 Sample Street,74800,Aarhus,Urban,Midtjylland,2.19,1.64,0.21
+2015-08-04,Q2,H100043,Villa,New Sale,1971,737605,6.29,1,210,3512.4,950 Sample Street,51548,Aarhus,Rural,Hovedstaden,4.74,1.53,0.22
+2017-09-25,Q3,H100044,Villa,Resale,1978,487940,1.98,2,207,2357.2,17 Sample Street,82090,Copenhagen,Suburban,Syddanmark,4.18,0.62,2.62
+2017-02-25,Q4,H100045,Condo,New Sale,1962,965113,8.11,1,172,5611.12,531 Sample Street,88200,Aalborg,Suburban,Syddanmark,3.14,3.36,2.07
+2013-09-25,Q3,H100046,Townhouse,New Sale,1951,645642,-1.95,9,277,2330.84,731 Sample Street,52367,Copenhagen,Rural,Syddanmark,1.63,2.08,2.02
+2014-01-18,Q2,H100047,Apartment,New Sale,1978,101374,-3.09,9,156,649.83,326 Sample Street,99922,Aalborg,Rural,Syddanmark,1.42,1.64,1.88
+2016-12-31,Q1,H100048,Condo,New Sale,2001,164397,-0.72,7,292,563.0,995 Sample Street,80382,Aarhus,Suburban,Nordjylland,2.03,2.15,2.56
+2012-02-15,Q2,H100049,Apartment,New Sale,1976,298552,2.97,2,69,4326.84,632 Sample Street,36205,Aalborg,Urban,Syddanmark,2.64,3.37,1.49
+2020-12-28,Q2,H100050,Townhouse,New Sale,1999,436721,2.66,6,284,1537.75,613 Sample Street,35570,Copenhagen,Rural,Midtjylland,1.83,0.94,2.62
+2010-02-04,Q1,H100051,Apartment,New Sale,1972,473332,7.31,4,172,2751.93,546 Sample Street,40255,Copenhagen,Urban,Syddanmark,2.82,3.5,1.14
+2018-08-19,Q1,H100052,Condo,New Sale,1993,917461,1.07,1,269,3410.64,596 Sample Street,31182,Copenhagen,Rural,Hovedstaden,1.24,3.64,2.79
+2015-05-10,Q3,H100053,Apartment,Resale,1971,930006,2.27,1,257,3618.7,921 Sample Street,49373,Aalborg,Suburban,Nordjylland,4.9,3.81,2.13
+2014-05-05,Q2,H100054,Villa,Resale,1992,987951,-4.8,5,227,4352.21,708 Sample Street,53019,Aalborg,Urban,Midtjylland,0.99,1.89,0.85
+2020-10-18,Q4,H100055,Townhouse,New Sale,1986,342575,1.15,2,94,3644.41,842 Sample Street,72619,Aalborg,Urban,Nordjylland,4.69,1.26,1.74
+2018-06-01,Q3,H100056,Townhouse,Resale,2010,461124,4.72,4,40,11528.1,202 Sample Street,26043,Aarhus,Rural,Nordjylland,4.61,1.81,1.65
+2012-10-18,Q2,H100057,Townhouse,New Sale,2005,79336,-4.77,1,137,579.09,344 Sample Street,55532,Odense,Urban,Nordjylland,2.86,1.67,0.5
+2019-06-24,Q3,H100058,Condo,New Sale,1952,877424,-0.79,4,55,15953.16,853 Sample Street,75936,Odense,Rural,Hovedstaden,3.76,1.12,1.81
+2017-02-26,Q2,H100059,Townhouse,Resale,2012,105350,-1.88,6,180,585.28,523 Sample Street,29239,Copenhagen,Suburban,Nordjylland,2.46,2.63,1.01
+2020-07-10,Q3,H100060,Villa,New Sale,1968,643849,-4.37,4,250,2575.4,859 Sample Street,20416,Aarhus,Urban,Nordjylland,3.34,2.17,0.25
+2014-02-09,Q1,H100061,Condo,New Sale,1972,560470,2.19,1,266,2107.03,400 Sample Street,13412,Aalborg,Rural,Syddanmark,2.03,3.53,2.85
+2023-02-20,Q4,H100062,Villa,New Sale,1978,888387,-2.27,7,266,3339.8,218 Sample Street,91976,Copenhagen,Urban,Hovedstaden,1.86,0.61,1.96
+2010-06-11,Q4,H100063,Apartment,New Sale,1979,111240,6.15,2,248,448.55,445 Sample Street,34406,Aarhus,Rural,Midtjylland,3.1,2.75,2.64
+2021-10-07,Q1,H100064,Apartment,Resale,1988,725453,7.72,9,180,4030.29,765 Sample Street,11875,Copenhagen,Rural,Midtjylland,2.74,3.17,2.06
+2015-06-05,Q2,H100065,Apartment,New Sale,1974,449371,3.18,3,152,2956.39,222 Sample Street,47066,Aarhus,Rural,Midtjylland,3.11,3.16,1.14
+2012-09-22,Q4,H100066,Apartment,New Sale,1957,620895,9.73,8,173,3588.99,383 Sample Street,15752,Aarhus,Suburban,Hovedstaden,1.79,3.6,1.59
+2023-06-13,Q1,H100067,Villa,New Sale,2007,761028,1.76,8,218,3490.95,881 Sample Street,96753,Odense,Urban,Midtjylland,2.15,3.05,2.06
+2019-02-25,Q4,H100068,Condo,Resale,1965,988467,2.7,3,284,3480.52,592 Sample Street,88025,Copenhagen,Suburban,Hovedstaden,0.88,3.75,2.88
+2022-06-18,Q3,H100069,Condo,New Sale,2021,231196,9.84,4,97,2383.46,7 Sample Street,11353,Aalborg,Rural,Syddanmark,0.74,1.66,0.84
+2020-05-26,Q4,H100070,Townhouse,Resale,1950,365014,-1.53,2,133,2744.47,272 Sample Street,36986,Odense,Rural,Syddanmark,1.64,2.26,2.64
+2013-06-29,Q2,H100071,Villa,Resale,1954,499763,9.14,4,188,2658.31,739 Sample Street,96907,Odense,Suburban,Hovedstaden,0.83,0.55,2.78
+2012-10-13,Q4,H100072,Apartment,New Sale,1952,638398,-4.36,9,119,5364.69,16 Sample Street,24691,Aalborg,Suburban,Midtjylland,0.97,0.52,2.04
+2010-12-04,Q3,H100073,Villa,New Sale,2014,234626,1.7,2,285,823.25,424 Sample Street,79847,Aarhus,Urban,Hovedstaden,4.16,1.34,2.8
+2012-05-28,Q1,H100074,Townhouse,Resale,1953,726296,-3.95,3,249,2916.85,524 Sample Street,58075,Aalborg,Rural,Hovedstaden,0.67,0.85,1.25
+2012-12-12,Q4,H100075,Townhouse,New Sale,2013,429039,5.94,4,38,11290.5,803 Sample Street,20794,Copenhagen,Suburban,Nordjylland,3.47,1.41,2.86
+2023-05-20,Q3,H100076,Villa,Resale,1959,578714,4.13,5,41,14114.98,753 Sample Street,78470,Aalborg,Rural,Hovedstaden,1.73,1.12,2.14
+2020-12-07,Q2,H100077,Villa,Resale,1970,794199,5.6,1,273,2909.15,21 Sample Street,26406,Aarhus,Rural,Nordjylland,4.42,0.6,0.22
+2023-04-22,Q4,H100078,Villa,New Sale,1995,864038,0.62,7,211,4094.97,690 Sample Street,85930,Aalborg,Urban,Syddanmark,2.68,3.68,2.73
+2011-01-15,Q3,H100079,Condo,New Sale,1976,491048,0.54,7,128,3836.31,939 Sample Street,36872,Aarhus,Urban,Nordjylland,1.88,0.53,1.5
+2011-05-08,Q1,H100080,Apartment,Resale,2015,602439,-4.32,9,226,2665.66,228 Sample Street,51708,Aarhus,Urban,Hovedstaden,2.83,3.08,1.43
+2015-08-25,Q2,H100081,Villa,Resale,1990,323452,0.25,4,255,1268.44,785 Sample Street,30800,Copenhagen,Suburban,Syddanmark,2.22,1.03,1.74
+2020-08-20,Q4,H100082,Villa,Resale,1962,290853,8.94,6,132,2203.43,288 Sample Street,53397,Aalborg,Rural,Nordjylland,3.04,3.69,0.53
+2010-03-06,Q1,H100083,Villa,Resale,1958,828883,0.69,2,135,6139.87,809 Sample Street,47909,Aalborg,Suburban,Hovedstaden,1.02,3.62,1.46
+2017-01-12,Q3,H100084,Townhouse,New Sale,1985,226743,7.47,4,87,2606.24,134 Sample Street,31352,Copenhagen,Suburban,Syddanmark,4.99,2.79,2.51
+2015-07-21,Q2,H100085,Townhouse,New Sale,2007,140306,7.63,2,107,1311.27,984 Sample Street,25438,Aarhus,Urban,Nordjylland,2.42,2.85,0.14
+2017-05-19,Q4,H100086,Condo,New Sale,2003,799468,0.6,5,104,7687.19,283 Sample Street,98921,Aalborg,Rural,Hovedstaden,2.07,0.52,0.89
+2014-02-04,Q2,H100087,Apartment,New Sale,1961,943416,4.48,7,71,13287.55,404 Sample Street,54999,Copenhagen,Rural,Hovedstaden,3.7,3.95,0.11
+2011-01-27,Q1,H100088,Condo,New Sale,1963,576492,-3.57,1,210,2745.2,665 Sample Street,28482,Aarhus,Urban,Midtjylland,2.14,3.57,1.31
+2022-05-12,Q2,H100089,Apartment,Resale,1983,142769,-3.44,7,62,2302.73,66 Sample Street,42471,Copenhagen,Rural,Midtjylland,4.25,3.63,2.21
+2022-04-02,Q3,H100090,Townhouse,New Sale,2002,137265,-4.27,6,100,1372.65,649 Sample Street,57279,Aalborg,Urban,Nordjylland,2.54,2.81,2.42
+2019-10-02,Q4,H100091,Townhouse,New Sale,1969,867563,3.72,6,85,10206.62,604 Sample Street,64213,Copenhagen,Suburban,Nordjylland,3.74,1.71,2.84
+2016-03-28,Q4,H100092,Townhouse,New Sale,1965,102428,1.39,8,134,764.39,437 Sample Street,23026,Odense,Suburban,Nordjylland,0.98,3.63,1.86
+2018-06-27,Q4,H100093,Condo,New Sale,2019,608158,3.22,8,229,2655.71,829 Sample Street,95184,Aarhus,Urban,Hovedstaden,4.31,1.52,0.84
+2010-07-20,Q1,H100094,Villa,New Sale,2005,677835,2.82,6,130,5214.12,934 Sample Street,15435,Odense,Suburban,Nordjylland,3.81,2.47,2.78
+2023-05-08,Q2,H100095,Villa,Resale,2007,810278,0.25,3,285,2843.08,259 Sample Street,18493,Odense,Suburban,Hovedstaden,1.45,0.85,2.35
+2018-07-02,Q4,H100096,Townhouse,Resale,1953,99067,5.16,5,103,961.82,980 Sample Street,82227,Aarhus,Urban,Nordjylland,1.15,3.73,1.77
+2022-08-04,Q4,H100097,Villa,Resale,1953,812371,6.38,2,200,4061.86,966 Sample Street,69321,Aarhus,Suburban,Hovedstaden,1.92,0.99,2.12
+2016-09-20,Q4,H100098,Villa,New Sale,1969,162217,-4.78,5,172,943.12,103 Sample Street,12763,Copenhagen,Rural,Hovedstaden,4.89,1.29,2.78
+2019-12-25,Q1,H100099,Condo,Resale,1959,989111,-1.89,9,195,5072.36,993 Sample Street,30389,Aarhus,Suburban,Midtjylland,1.66,2.45,2.17
+2012-03-15,Q3,H100100,Apartment,Resale,1973,468184,5.7,1,290,1614.43,567 Sample Street,41498,Odense,Urban,Syddanmark,2.55,3.17,1.17
+2017-06-24,Q4,H100101,Townhouse,New Sale,1975,673222,0.8,5,250,2692.89,769 Sample Street,73755,Odense,Rural,Hovedstaden,0.64,2.67,2.17
+2017-08-05,Q1,H100102,Townhouse,New Sale,1986,192980,4.94,6,112,1723.04,101 Sample Street,45825,Aalborg,Rural,Nordjylland,2.29,1.31,0.22
+2014-04-20,Q4,H100103,Condo,New Sale,2003,993927,0.2,7,211,4710.55,198 Sample Street,26934,Aarhus,Suburban,Midtjylland,3.07,0.5,1.22
+2017-05-14,Q4,H100104,Condo,Resale,1970,552367,0.86,9,39,14163.26,813 Sample Street,15574,Odense,Rural,Nordjylland,4.79,3.15,1.28
+2020-07-07,Q3,H100105,Villa,Resale,1987,386851,-2.62,6,33,11722.76,226 Sample Street,48179,Aalborg,Urban,Nordjylland,2.83,3.95,0.58
+2012-10-25,Q4,H100106,Townhouse,New Sale,1995,259329,-1.13,5,244,1062.82,943 Sample Street,11587,Aalborg,Rural,Hovedstaden,4.19,3.33,0.17
+2011-05-18,Q1,H100107,Apartment,New Sale,1953,307354,4.08,7,127,2420.11,463 Sample Street,52782,Copenhagen,Suburban,Hovedstaden,2.96,2.11,0.49
+2022-04-21,Q3,H100108,Condo,Resale,2009,573406,1.5,1,130,4410.82,237 Sample Street,64412,Odense,Suburban,Syddanmark,0.68,3.66,2.0
+2012-05-20,Q4,H100109,Apartment,Resale,2006,111215,6.61,5,38,2926.71,26 Sample Street,70561,Copenhagen,Rural,Hovedstaden,1.92,1.93,2.43
+2022-04-16,Q2,H100110,Apartment,New Sale,1994,761195,7.79,2,90,8457.72,121 Sample Street,87224,Odense,Urban,Hovedstaden,3.09,2.34,2.97
+2010-07-26,Q4,H100111,Townhouse,New Sale,1969,361573,3.12,4,175,2066.13,910 Sample Street,14409,Copenhagen,Urban,Syddanmark,4.78,2.17,1.1
+2014-01-24,Q2,H100112,Townhouse,Resale,1966,918584,6.37,7,92,9984.61,506 Sample Street,81319,Copenhagen,Suburban,Nordjylland,4.37,2.07,1.84
+2012-05-13,Q4,H100113,Condo,New Sale,2020,682336,-0.4,5,150,4548.91,182 Sample Street,36751,Aarhus,Suburban,Syddanmark,1.53,3.21,2.82
+2017-08-22,Q4,H100114,Townhouse,Resale,1953,219530,1.22,6,255,860.9,711 Sample Street,48174,Copenhagen,Urban,Syddanmark,1.49,2.34,0.58
+2011-07-18,Q4,H100115,Townhouse,Resale,1963,227241,5.69,2,134,1695.83,814 Sample Street,66572,Aarhus,Rural,Syddanmark,1.41,1.61,2.18
+2021-06-23,Q3,H100116,Townhouse,Resale,1952,188731,0.79,3,289,653.05,767 Sample Street,71416,Aalborg,Rural,Midtjylland,4.65,1.4,2.29
+2014-10-24,Q4,H100117,Apartment,Resale,2007,503830,3.83,7,284,1774.05,634 Sample Street,22041,Odense,Rural,Nordjylland,4.34,0.63,0.36
+2014-08-06,Q3,H100118,Condo,New Sale,2004,814265,-2.22,2,236,3450.28,543 Sample Street,33227,Aalborg,Rural,Midtjylland,3.99,2.54,2.6
+2018-11-17,Q1,H100119,Villa,New Sale,1953,389384,4.0,6,57,6831.3,984 Sample Street,45201,Odense,Urban,Midtjylland,2.27,1.3,2.46
+2022-09-11,Q4,H100120,Apartment,Resale,1973,476009,7.92,5,199,2392.01,315 Sample Street,46069,Aalborg,Suburban,Hovedstaden,2.77,1.02,0.2
+2012-11-25,Q1,H100121,Townhouse,Resale,1983,163688,8.03,1,105,1558.93,991 Sample Street,92190,Odense,Suburban,Syddanmark,2.59,2.79,0.36
+2014-09-19,Q4,H100122,Apartment,Resale,1979,358617,5.87,4,145,2473.22,797 Sample Street,36370,Copenhagen,Rural,Syddanmark,1.64,2.88,0.24
+2019-01-28,Q3,H100123,Townhouse,Resale,1968,933194,6.19,2,98,9522.39,618 Sample Street,21586,Odense,Urban,Midtjylland,2.77,3.13,1.07
+2018-08-24,Q4,H100124,Townhouse,Resale,1980,794748,3.37,4,263,3021.86,736 Sample Street,60231,Odense,Urban,Hovedstaden,0.64,2.26,1.58
+2017-03-10,Q3,H100125,Apartment,New Sale,2009,540834,3.77,1,30,18027.8,273 Sample Street,15322,Aalborg,Rural,Hovedstaden,1.09,3.63,1.64
+2017-06-22,Q2,H100126,Condo,New Sale,2009,943388,-3.0,2,196,4813.2,910 Sample Street,75294,Aalborg,Rural,Hovedstaden,4.49,3.78,0.88
+2014-05-17,Q1,H100127,Townhouse,New Sale,1968,430596,1.66,8,247,1743.3,232 Sample Street,89468,Aalborg,Rural,Nordjylland,3.88,3.33,2.74
+2018-05-19,Q1,H100128,Condo,New Sale,1998,761111,1.76,6,280,2718.25,420 Sample Street,39299,Aarhus,Suburban,Midtjylland,2.4,2.72,1.17
+2017-05-17,Q2,H100129,Villa,Resale,2012,962743,9.38,2,203,4742.58,768 Sample Street,80793,Aarhus,Rural,Nordjylland,2.83,1.56,0.23
+2023-05-24,Q2,H100130,Townhouse,Resale,1971,784275,1.47,6,199,3941.08,442 Sample Street,56501,Odense,Suburban,Hovedstaden,2.16,3.94,0.97
+2019-12-07,Q3,H100131,Condo,Resale,1973,319150,3.24,9,275,1160.55,496 Sample Street,67134,Odense,Urban,Hovedstaden,3.83,1.46,1.64
+2013-09-25,Q2,H100132,Condo,Resale,1979,299243,3.0,7,119,2514.65,24 Sample Street,19777,Copenhagen,Urban,Hovedstaden,4.03,1.21,1.28
+2015-06-05,Q2,H100133,Villa,Resale,2007,648506,4.55,9,78,8314.18,109 Sample Street,21249,Copenhagen,Suburban,Syddanmark,3.93,2.05,0.89
+2014-07-22,Q4,H100134,Condo,New Sale,1980,246416,6.22,5,179,1376.63,703 Sample Street,31390,Odense,Suburban,Midtjylland,3.75,0.7,0.48
+2014-03-10,Q2,H100135,Condo,Resale,2013,606718,-1.62,7,161,3768.43,502 Sample Street,30369,Aarhus,Suburban,Syddanmark,1.42,3.92,2.48
+2015-08-01,Q1,H100136,Villa,New Sale,1968,73091,2.93,7,88,830.58,859 Sample Street,22881,Odense,Suburban,Nordjylland,2.02,2.56,2.99
+2019-01-16,Q4,H100137,Townhouse,New Sale,1997,831413,7.39,3,228,3646.55,25 Sample Street,19587,Copenhagen,Rural,Syddanmark,2.61,2.45,1.06
+2016-02-16,Q4,H100138,Condo,New Sale,1994,598277,1.95,7,244,2451.95,187 Sample Street,84327,Aarhus,Urban,Midtjylland,1.99,2.8,1.21
+2013-07-30,Q3,H100139,Condo,New Sale,2004,125451,-0.82,1,78,1608.35,288 Sample Street,97911,Aarhus,Rural,Syddanmark,3.9,2.24,1.89
+2021-01-12,Q3,H100140,Condo,Resale,2004,68990,4.82,9,261,264.33,628 Sample Street,98147,Copenhagen,Suburban,Hovedstaden,1.98,0.61,2.18
+2017-04-29,Q3,H100141,Apartment,New Sale,1967,402414,7.36,6,276,1458.02,338 Sample Street,17833,Odense,Rural,Nordjylland,1.12,2.64,1.24
+2013-07-06,Q3,H100142,Villa,New Sale,2012,916792,-4.05,5,268,3420.87,878 Sample Street,57013,Aalborg,Rural,Nordjylland,2.3,3.01,2.72
+2011-12-11,Q1,H100143,Apartment,New Sale,1996,300541,6.65,7,197,1525.59,914 Sample Street,73620,Odense,Urban,Hovedstaden,4.91,1.96,1.72
+2022-12-28,Q4,H100144,Villa,Resale,2006,872513,7.32,5,77,11331.34,37 Sample Street,25754,Odense,Rural,Hovedstaden,1.52,3.15,1.41
+2022-01-31,Q1,H100145,Townhouse,Resale,1994,716393,1.92,5,80,8954.91,794 Sample Street,88113,Copenhagen,Urban,Hovedstaden,3.25,1.29,1.98
+2020-04-06,Q1,H100146,Townhouse,Resale,1982,420416,9.75,7,127,3310.36,137 Sample Street,96784,Aarhus,Suburban,Midtjylland,2.45,1.27,2.86
+2023-02-01,Q1,H100147,Condo,New Sale,1966,852673,6.8,7,245,3480.3,508 Sample Street,45282,Copenhagen,Rural,Syddanmark,0.82,1.06,2.4
+2011-10-26,Q3,H100148,Villa,New Sale,2019,174932,6.6,3,206,849.18,227 Sample Street,46737,Odense,Suburban,Nordjylland,2.7,1.8,0.22
+2015-06-22,Q2,H100149,Townhouse,Resale,1953,318083,6.22,3,109,2918.19,320 Sample Street,34124,Aalborg,Urban,Syddanmark,3.66,3.46,1.06
+2019-06-08,Q2,H100150,Villa,New Sale,1969,163000,-2.74,3,214,761.68,840 Sample Street,80102,Aalborg,Suburban,Hovedstaden,2.81,3.4,1.46
+2020-04-01,Q1,H100151,Townhouse,Resale,1996,752922,-1.74,6,56,13445.04,916 Sample Street,12196,Aalborg,Suburban,Hovedstaden,4.42,1.84,1.01
+2014-02-04,Q2,H100152,Apartment,Resale,1964,609351,1.96,6,224,2720.32,182 Sample Street,71527,Copenhagen,Urban,Syddanmark,1.8,2.56,2.13
+2019-01-18,Q3,H100153,Townhouse,New Sale,2019,543216,-1.04,3,243,2235.46,874 Sample Street,95395,Aarhus,Suburban,Nordjylland,0.89,3.02,2.5
+2020-04-21,Q2,H100154,Apartment,New Sale,1996,782081,1.23,3,143,5469.1,86 Sample Street,21345,Copenhagen,Suburban,Midtjylland,4.71,1.34,2.22
+2015-01-28,Q4,H100155,Townhouse,New Sale,1958,732405,8.33,8,271,2702.6,467 Sample Street,44077,Aalborg,Suburban,Syddanmark,2.2,1.09,2.97
+2022-10-04,Q3,H100156,Condo,New Sale,1965,559850,7.36,8,153,3659.15,926 Sample Street,76400,Odense,Rural,Hovedstaden,3.09,3.9,0.89
+2013-07-15,Q3,H100157,Apartment,Resale,2018,487985,4.45,7,105,4647.48,53 Sample Street,22055,Aarhus,Suburban,Hovedstaden,4.06,2.66,2.64
+2019-10-22,Q1,H100158,Townhouse,Resale,2010,883550,7.87,4,225,3926.89,860 Sample Street,95283,Copenhagen,Urban,Midtjylland,1.96,3.93,2.32
+2019-06-20,Q2,H100159,Condo,Resale,1959,134703,6.76,4,73,1845.25,867 Sample Street,54484,Copenhagen,Rural,Syddanmark,3.72,1.68,1.15
+2014-06-25,Q2,H100160,Apartment,Resale,1999,545164,1.43,3,215,2535.65,235 Sample Street,87514,Aarhus,Rural,Midtjylland,1.11,2.96,2.23
+2020-02-14,Q4,H100161,Condo,Resale,1952,464841,-1.98,5,275,1690.33,959 Sample Street,45771,Aarhus,Urban,Midtjylland,1.81,1.28,0.4
+2018-03-19,Q2,H100162,Villa,New Sale,2019,810084,2.71,3,113,7168.88,779 Sample Street,67654,Odense,Suburban,Nordjylland,1.15,1.41,2.39
+2018-08-19,Q3,H100163,Villa,Resale,2000,702845,6.04,8,236,2978.16,799 Sample Street,56540,Aarhus,Rural,Nordjylland,4.15,2.29,1.64
+2011-11-30,Q4,H100164,Apartment,Resale,1968,339220,1.55,7,180,1884.56,433 Sample Street,93151,Odense,Rural,Hovedstaden,1.5,1.62,0.95
+2015-12-01,Q2,H100165,Townhouse,Resale,1991,303317,5.0,3,185,1639.55,496 Sample Street,39377,Aalborg,Rural,Syddanmark,3.73,1.09,2.0
+2021-03-21,Q3,H100166,Apartment,New Sale,1984,245877,-3.59,9,45,5463.93,100 Sample Street,59573,Aalborg,Suburban,Nordjylland,4.74,1.42,1.96
+2022-12-21,Q4,H100167,Condo,New Sale,1995,881037,6.22,5,194,4541.43,990 Sample Street,52733,Copenhagen,Rural,Hovedstaden,2.87,0.63,0.71
+2012-05-04,Q4,H100168,Townhouse,New Sale,1975,396709,7.19,9,174,2279.94,599 Sample Street,21760,Aalborg,Urban,Syddanmark,2.93,2.97,0.19
+2019-07-07,Q1,H100169,Villa,New Sale,2018,531725,5.6,7,66,8056.44,403 Sample Street,35762,Aalborg,Suburban,Hovedstaden,2.57,2.22,1.36
+2014-09-04,Q1,H100170,Townhouse,Resale,2013,875553,9.51,7,74,11831.8,396 Sample Street,60986,Odense,Urban,Nordjylland,1.97,0.83,1.75
+2017-08-09,Q4,H100171,Villa,Resale,1986,867865,7.4,6,235,3693.04,527 Sample Street,44332,Copenhagen,Urban,Hovedstaden,2.64,1.1,2.64
+2014-09-30,Q2,H100172,Townhouse,New Sale,1998,617597,8.55,2,91,6786.78,415 Sample Street,50100,Aarhus,Rural,Syddanmark,3.21,0.86,2.79
+2023-07-03,Q2,H100173,Townhouse,New Sale,1970,903900,9.0,9,48,18831.25,939 Sample Street,14944,Copenhagen,Rural,Syddanmark,4.94,2.64,1.63
+2019-08-12,Q1,H100174,Townhouse,Resale,2013,487470,7.02,6,36,13540.83,613 Sample Street,58825,Aalborg,Rural,Hovedstaden,4.72,0.83,2.29
+2010-07-22,Q1,H100175,Condo,Resale,1954,903725,5.11,8,278,3250.81,677 Sample Street,23877,Aarhus,Urban,Syddanmark,4.38,3.14,1.37
+2018-11-30,Q4,H100176,Condo,New Sale,2019,408402,-4.91,1,146,2797.27,463 Sample Street,39990,Copenhagen,Suburban,Hovedstaden,4.5,0.57,2.26
+2021-07-20,Q2,H100177,Apartment,New Sale,1953,874837,1.99,5,97,9018.94,541 Sample Street,65283,Copenhagen,Rural,Syddanmark,2.61,1.37,0.69
+2022-04-24,Q3,H100178,Apartment,New Sale,1988,617815,3.57,1,63,9806.59,626 Sample Street,13258,Copenhagen,Rural,Hovedstaden,3.46,3.62,1.18
+2012-02-06,Q1,H100179,Villa,New Sale,1984,913659,-0.44,8,223,4097.13,619 Sample Street,41629,Copenhagen,Urban,Hovedstaden,4.53,3.01,1.94
+2022-01-07,Q4,H100180,Condo,Resale,1950,967996,-0.23,8,84,11523.76,922 Sample Street,47579,Odense,Suburban,Hovedstaden,2.27,0.76,0.15
+2016-05-16,Q3,H100181,Villa,Resale,1973,798778,9.42,1,295,2707.72,364 Sample Street,32958,Copenhagen,Urban,Midtjylland,4.83,3.37,2.2
+2018-01-10,Q2,H100182,Apartment,Resale,2006,189883,8.38,9,71,2674.41,130 Sample Street,49465,Aalborg,Rural,Syddanmark,2.37,2.23,2.52
+2010-07-17,Q2,H100183,Villa,New Sale,2019,667632,7.74,2,260,2567.82,84 Sample Street,95853,Aalborg,Urban,Nordjylland,3.2,3.46,1.26
+2015-04-15,Q3,H100184,Apartment,New Sale,1990,205344,1.09,9,39,5265.23,271 Sample Street,25775,Odense,Rural,Hovedstaden,3.69,2.6,1.4
+2019-10-23,Q3,H100185,Condo,Resale,2003,515226,-4.79,1,157,3281.69,244 Sample Street,86575,Aarhus,Suburban,Midtjylland,4.78,2.89,2.57
+2011-09-01,Q3,H100186,Townhouse,Resale,1995,797852,-3.8,9,208,3835.83,388 Sample Street,44207,Aarhus,Urban,Nordjylland,1.6,3.98,2.35
+2018-12-17,Q3,H100187,Condo,Resale,2009,621441,-0.32,4,222,2799.28,214 Sample Street,32553,Aalborg,Rural,Hovedstaden,3.86,1.31,0.94
+2013-02-21,Q3,H100188,Villa,Resale,2009,158042,-4.76,9,121,1306.13,818 Sample Street,63632,Aalborg,Rural,Nordjylland,2.84,2.68,1.04
+2021-09-22,Q2,H100189,Villa,New Sale,2006,104110,-4.74,7,260,400.42,166 Sample Street,10055,Odense,Rural,Midtjylland,1.71,2.11,2.07
+2019-04-21,Q3,H100190,Condo,Resale,1980,195051,8.75,6,107,1822.91,791 Sample Street,98697,Aarhus,Rural,Nordjylland,3.99,0.64,1.73
+2016-11-16,Q1,H100191,Condo,Resale,1973,815419,5.59,5,114,7152.8,59 Sample Street,42873,Aarhus,Urban,Hovedstaden,2.99,0.55,0.57
+2014-11-30,Q3,H100192,Apartment,Resale,1985,813461,-0.37,9,59,13787.47,602 Sample Street,90720,Copenhagen,Rural,Nordjylland,3.47,0.92,1.0
+2011-10-22,Q2,H100193,Villa,Resale,1979,78328,-3.01,2,242,323.67,883 Sample Street,76205,Copenhagen,Urban,Nordjylland,1.95,2.77,2.71
+2017-09-12,Q2,H100194,Villa,Resale,1973,687199,2.67,2,78,8810.24,843 Sample Street,88199,Copenhagen,Rural,Hovedstaden,2.67,2.49,2.1
+2013-10-01,Q1,H100195,Condo,Resale,1979,325011,-4.92,9,294,1105.48,924 Sample Street,35318,Odense,Urban,Midtjylland,3.28,2.44,2.96
+2015-06-10,Q4,H100196,Townhouse,Resale,1956,109234,9.08,3,174,627.78,504 Sample Street,43734,Aalborg,Urban,Midtjylland,2.32,0.61,2.32
+2010-05-27,Q2,H100197,Villa,New Sale,1984,862283,1.22,8,98,8798.81,706 Sample Street,92227,Odense,Rural,Nordjylland,1.39,2.14,2.83
+2018-10-25,Q1,H100198,Townhouse,New Sale,2004,867711,1.04,9,87,9973.69,123 Sample Street,28522,Aarhus,Rural,Syddanmark,4.83,3.74,0.73
+2017-12-21,Q3,H100199,Condo,New Sale,1963,822791,0.86,8,214,3844.82,648 Sample Street,21656,Aalborg,Rural,Nordjylland,2.8,1.89,2.34
+2014-10-01,Q4,H100200,Condo,New Sale,1959,277135,-3.96,4,91,3045.44,413 Sample Street,25893,Copenhagen,Rural,Syddanmark,3.8,2.69,0.16
+2015-01-18,Q1,H100201,Apartment,Resale,1965,647690,4.57,1,195,3321.49,139 Sample Street,26493,Odense,Suburban,Nordjylland,2.35,3.23,2.05
+2011-05-04,Q2,H100202,Villa,New Sale,2003,851881,6.0,4,200,4259.4,229 Sample Street,13632,Odense,Rural,Midtjylland,2.1,3.24,1.46
+2018-02-24,Q1,H100203,Townhouse,New Sale,2019,388365,5.14,9,92,4221.36,274 Sample Street,98648,Copenhagen,Rural,Nordjylland,2.33,2.32,1.11
+2015-05-14,Q2,H100204,Apartment,Resale,1993,925512,-2.92,2,176,5258.59,439 Sample Street,71779,Odense,Rural,Nordjylland,2.34,3.5,2.6
+2016-07-13,Q4,H100205,Villa,Resale,2022,579739,3.68,3,190,3051.26,562 Sample Street,48452,Copenhagen,Urban,Syddanmark,2.95,1.87,2.58
+2017-12-29,Q1,H100206,Apartment,New Sale,1994,137178,3.54,8,170,806.93,910 Sample Street,23266,Aarhus,Rural,Midtjylland,2.95,3.61,0.16
+2022-12-20,Q3,H100207,Condo,New Sale,2005,900193,8.03,6,126,7144.39,118 Sample Street,71607,Aalborg,Urban,Syddanmark,2.74,1.34,1.87
+2014-12-08,Q2,H100208,Villa,Resale,2006,286562,0.69,8,250,1146.25,714 Sample Street,26940,Aarhus,Urban,Nordjylland,1.11,1.48,1.17
+2021-02-13,Q2,H100209,Apartment,New Sale,1970,351014,0.57,7,72,4875.19,995 Sample Street,34003,Aarhus,Urban,Hovedstaden,2.73,0.69,1.31
+2019-03-24,Q4,H100210,Apartment,Resale,2017,408710,4.28,5,137,2983.28,905 Sample Street,44815,Copenhagen,Urban,Nordjylland,1.26,3.28,2.51
+2010-09-20,Q2,H100211,Townhouse,Resale,1999,435893,4.5,9,295,1477.6,483 Sample Street,40869,Odense,Suburban,Nordjylland,1.07,1.96,1.0
+2011-09-16,Q3,H100212,Apartment,Resale,1982,173765,2.04,4,124,1401.33,395 Sample Street,59297,Aarhus,Rural,Syddanmark,4.7,1.3,2.83
+2012-10-13,Q1,H100213,Villa,Resale,1956,437025,1.65,6,291,1501.8,703 Sample Street,70107,Aarhus,Urban,Hovedstaden,3.22,1.31,0.62
+2019-12-23,Q4,H100214,Villa,New Sale,2019,998377,2.41,2,100,9983.77,876 Sample Street,92793,Aarhus,Rural,Hovedstaden,3.47,3.65,2.02
+2023-08-17,Q4,H100215,Townhouse,Resale,1964,178389,7.92,2,248,719.31,460 Sample Street,26682,Odense,Urban,Syddanmark,2.31,3.42,2.05
+2015-08-12,Q4,H100216,Villa,Resale,1981,763987,1.92,2,50,15279.74,835 Sample Street,29622,Odense,Suburban,Midtjylland,4.59,2.44,0.83
+2020-03-12,Q3,H100217,Condo,New Sale,1969,247227,9.1,7,121,2043.2,693 Sample Street,40408,Copenhagen,Urban,Hovedstaden,3.37,2.66,1.04
+2022-06-15,Q3,H100218,Villa,Resale,1964,542402,2.56,2,156,3476.94,935 Sample Street,18837,Aarhus,Rural,Hovedstaden,3.96,2.16,2.52
+2018-07-06,Q2,H100219,Villa,New Sale,1997,861804,9.24,2,109,7906.46,78 Sample Street,74210,Aalborg,Rural,Syddanmark,2.16,1.87,2.31
+2021-03-14,Q2,H100220,Apartment,New Sale,2020,840074,7.49,9,267,3146.34,952 Sample Street,25407,Odense,Suburban,Midtjylland,4.82,3.7,1.05
+2015-08-19,Q1,H100221,Apartment,New Sale,1970,310220,0.44,7,211,1470.24,412 Sample Street,39309,Copenhagen,Rural,Midtjylland,4.19,0.94,1.65
+2018-09-06,Q3,H100222,Villa,Resale,1991,471217,7.95,3,54,8726.24,75 Sample Street,81918,Aarhus,Rural,Nordjylland,4.34,1.96,0.28
+2014-08-10,Q4,H100223,Townhouse,New Sale,1975,346208,-3.35,3,185,1871.39,295 Sample Street,28895,Aalborg,Urban,Nordjylland,1.27,1.71,0.71
+2016-03-05,Q3,H100224,Apartment,New Sale,1963,800186,8.88,7,34,23534.88,793 Sample Street,96912,Odense,Rural,Syddanmark,1.72,2.24,1.51
+2013-02-28,Q2,H100225,Townhouse,Resale,2006,850554,4.47,5,149,5708.42,21 Sample Street,10370,Aalborg,Urban,Midtjylland,1.79,2.1,0.35
+2022-04-27,Q1,H100226,Villa,New Sale,1986,992324,-4.18,6,47,21113.28,906 Sample Street,10486,Odense,Suburban,Syddanmark,1.72,2.32,2.55
+2018-09-27,Q2,H100227,Villa,New Sale,2007,118431,4.66,8,227,521.72,171 Sample Street,33762,Copenhagen,Rural,Nordjylland,4.35,0.99,2.18
+2014-08-24,Q1,H100228,Condo,New Sale,1970,105745,9.61,9,86,1229.59,15 Sample Street,36613,Aalborg,Urban,Syddanmark,0.64,2.3,2.84
+2020-12-05,Q1,H100229,Apartment,New Sale,2018,100081,-3.95,1,122,820.34,211 Sample Street,13196,Aarhus,Rural,Syddanmark,0.84,1.35,2.11
+2022-12-07,Q3,H100230,Villa,New Sale,1952,976215,3.32,3,48,20337.81,560 Sample Street,86349,Aarhus,Urban,Hovedstaden,1.73,1.15,2.83
+2022-10-27,Q2,H100231,Condo,Resale,1986,266204,6.22,7,222,1199.12,86 Sample Street,74839,Odense,Suburban,Hovedstaden,1.4,0.73,1.71
+2014-07-07,Q2,H100232,Apartment,New Sale,1998,986297,7.15,6,266,3707.88,149 Sample Street,51916,Aarhus,Urban,Hovedstaden,1.54,3.17,1.84
+2013-12-16,Q3,H100233,Villa,New Sale,1968,451415,1.21,7,256,1763.34,700 Sample Street,18572,Aalborg,Rural,Nordjylland,4.09,2.0,2.93
+2021-07-01,Q3,H100234,Villa,Resale,1961,650541,-1.94,8,262,2482.98,372 Sample Street,38225,Copenhagen,Urban,Syddanmark,3.03,2.69,1.96
+2020-09-28,Q3,H100235,Apartment,Resale,2010,348335,-4.36,6,69,5048.33,480 Sample Street,55853,Odense,Rural,Hovedstaden,0.53,3.05,0.19
+2010-09-11,Q1,H100236,Apartment,Resale,1990,846643,3.7,3,182,4651.88,818 Sample Street,59390,Aalborg,Suburban,Hovedstaden,2.43,2.88,2.2
+2018-09-19,Q2,H100237,Apartment,New Sale,1982,161086,1.79,2,156,1032.6,151 Sample Street,42275,Odense,Urban,Hovedstaden,2.34,2.15,2.73
+2017-01-01,Q2,H100238,Villa,Resale,1999,506285,9.23,7,266,1903.33,141 Sample Street,82379,Copenhagen,Rural,Nordjylland,1.01,1.86,2.41
+2010-04-09,Q2,H100239,Villa,New Sale,2017,464758,-4.09,1,84,5532.83,69 Sample Street,11105,Odense,Rural,Nordjylland,3.54,1.82,1.79
+2016-01-10,Q2,H100240,Condo,New Sale,2020,474528,5.28,3,201,2360.84,260 Sample Street,69896,Aarhus,Rural,Syddanmark,3.66,2.74,2.05
+2018-02-09,Q1,H100241,Townhouse,Resale,1982,488458,-4.63,4,138,3539.55,988 Sample Street,53209,Aarhus,Urban,Syddanmark,3.74,2.23,2.97
+2023-08-14,Q2,H100242,Apartment,Resale,1973,938403,-2.43,1,213,4405.65,846 Sample Street,52487,Odense,Urban,Syddanmark,3.78,3.47,0.36
+2022-02-20,Q2,H100243,Villa,New Sale,2010,668071,1.8,5,227,2943.04,968 Sample Street,28051,Copenhagen,Urban,Hovedstaden,0.5,3.56,2.04
+2020-05-05,Q2,H100244,Villa,Resale,2010,699969,1.82,3,116,6034.22,521 Sample Street,87400,Copenhagen,Suburban,Midtjylland,4.79,1.1,0.92
+2017-11-09,Q2,H100245,Apartment,New Sale,1977,662181,5.29,2,230,2879.05,633 Sample Street,76961,Aarhus,Rural,Nordjylland,4.16,0.98,1.96
+2018-11-09,Q2,H100246,Townhouse,Resale,2007,549797,8.65,3,240,2290.82,371 Sample Street,70156,Copenhagen,Rural,Hovedstaden,4.57,2.71,1.86
+2020-05-19,Q1,H100247,Apartment,Resale,1992,208763,4.59,8,147,1420.16,419 Sample Street,67175,Odense,Suburban,Hovedstaden,0.57,1.55,0.55
+2012-08-14,Q2,H100248,Townhouse,Resale,1990,652248,9.3,6,220,2964.76,101 Sample Street,16849,Aalborg,Suburban,Syddanmark,4.7,0.56,0.7
+2021-02-19,Q3,H100249,Villa,New Sale,1988,920820,8.22,7,71,12969.3,661 Sample Street,28976,Odense,Urban,Syddanmark,4.14,3.61,1.9
+2010-06-10,Q3,H100250,Townhouse,Resale,1998,72601,3.77,6,71,1022.55,954 Sample Street,66866,Aarhus,Urban,Hovedstaden,4.27,1.29,0.47
+2022-04-21,Q4,H100251,Condo,New Sale,1966,461236,7.51,6,46,10026.87,658 Sample Street,57078,Aarhus,Urban,Nordjylland,0.92,3.75,0.87
+2013-07-24,Q4,H100252,Villa,New Sale,2019,189227,4.64,3,287,659.33,865 Sample Street,41113,Aarhus,Urban,Nordjylland,3.82,3.01,2.52
+2023-06-13,Q1,H100253,Condo,New Sale,2019,774479,-3.82,8,92,8418.25,968 Sample Street,25401,Copenhagen,Urban,Hovedstaden,4.82,3.17,1.05
+2020-12-01,Q1,H100254,Apartment,New Sale,2014,742137,6.11,7,91,8155.35,243 Sample Street,22884,Odense,Urban,Midtjylland,3.55,1.21,1.52
+2014-03-08,Q1,H100255,Apartment,Resale,1954,331854,-3.58,7,129,2572.51,753 Sample Street,94360,Aalborg,Suburban,Midtjylland,3.07,1.32,2.83
+2013-05-03,Q4,H100256,Apartment,New Sale,1951,420858,3.91,6,48,8767.88,512 Sample Street,47563,Odense,Suburban,Nordjylland,4.76,2.32,0.76
+2022-04-24,Q3,H100257,Townhouse,New Sale,1971,729892,5.54,5,46,15867.22,849 Sample Street,44414,Aalborg,Suburban,Syddanmark,2.49,1.1,1.23
+2022-12-19,Q4,H100258,Villa,Resale,2006,703015,-4.0,8,275,2556.42,555 Sample Street,26142,Odense,Rural,Midtjylland,3.2,1.57,1.86
+2018-07-02,Q2,H100259,Apartment,New Sale,2015,986105,-1.54,5,280,3521.8,95 Sample Street,81492,Aarhus,Rural,Midtjylland,2.64,1.63,2.29
+2017-06-28,Q3,H100260,Apartment,Resale,1965,637515,8.74,9,110,5795.59,226 Sample Street,89464,Aalborg,Urban,Syddanmark,4.7,1.06,2.71
+2022-06-22,Q3,H100261,Villa,New Sale,2000,710327,4.24,9,68,10445.99,518 Sample Street,85257,Odense,Suburban,Midtjylland,0.84,1.22,2.75
+2012-08-12,Q4,H100262,Apartment,Resale,1988,658577,-1.31,1,65,10131.95,214 Sample Street,86693,Copenhagen,Rural,Hovedstaden,2.76,3.26,2.35
+2022-07-02,Q4,H100263,Condo,New Sale,1989,201094,5.36,6,226,889.8,718 Sample Street,45135,Copenhagen,Rural,Midtjylland,3.59,1.09,0.76
+2019-06-09,Q4,H100264,Villa,Resale,1987,486679,3.95,7,187,2602.56,67 Sample Street,82232,Odense,Suburban,Syddanmark,4.06,0.6,0.17
+2012-11-11,Q2,H100265,Villa,New Sale,2009,780031,2.52,3,233,3347.77,396 Sample Street,37862,Aarhus,Rural,Hovedstaden,3.12,2.7,1.21
+2014-08-21,Q4,H100266,Villa,New Sale,2008,842154,9.64,7,225,3742.91,612 Sample Street,15190,Aalborg,Rural,Midtjylland,4.59,3.92,0.51
+2019-05-30,Q4,H100267,Condo,Resale,1959,732773,5.25,7,245,2990.91,12 Sample Street,80199,Odense,Suburban,Nordjylland,4.74,1.66,2.16
+2011-07-17,Q1,H100268,Villa,Resale,2013,917482,0.63,2,225,4077.7,237 Sample Street,14331,Copenhagen,Rural,Hovedstaden,0.79,0.92,2.02
+2016-10-21,Q2,H100269,Condo,Resale,2012,552648,7.0,7,181,3053.3,834 Sample Street,62186,Aalborg,Suburban,Hovedstaden,2.31,2.5,0.23
+2019-03-09,Q3,H100270,Villa,Resale,1998,808108,8.27,1,43,18793.21,770 Sample Street,54648,Copenhagen,Rural,Nordjylland,0.61,3.67,2.53
+2010-08-14,Q3,H100271,Townhouse,New Sale,2013,811282,-3.12,5,175,4635.9,399 Sample Street,38549,Copenhagen,Suburban,Nordjylland,1.98,3.24,0.82
+2023-05-26,Q1,H100272,Apartment,New Sale,1981,529083,-1.99,9,86,6152.13,407 Sample Street,91782,Odense,Rural,Midtjylland,2.92,2.68,1.35
+2012-08-17,Q4,H100273,Townhouse,Resale,1956,395740,-1.76,7,240,1648.92,925 Sample Street,35761,Copenhagen,Rural,Midtjylland,4.6,1.6,2.04
+2022-06-15,Q1,H100274,Apartment,New Sale,1970,903164,5.37,7,297,3040.96,849 Sample Street,13262,Aalborg,Suburban,Syddanmark,4.31,2.4,1.35
+2018-05-26,Q4,H100275,Condo,Resale,1969,455513,4.05,2,239,1905.91,480 Sample Street,61259,Aarhus,Rural,Syddanmark,1.07,0.82,1.38
+2012-03-26,Q4,H100276,Townhouse,Resale,1975,118323,4.28,8,46,2572.24,647 Sample Street,82572,Odense,Suburban,Hovedstaden,0.92,2.88,0.29
+2023-01-07,Q4,H100277,Villa,New Sale,2017,335960,9.11,3,232,1448.1,222 Sample Street,63472,Aalborg,Suburban,Nordjylland,3.15,3.04,1.26
+2022-09-17,Q2,H100278,Apartment,New Sale,1964,614983,6.64,8,128,4804.55,156 Sample Street,97858,Odense,Rural,Nordjylland,2.89,3.88,2.32
+2018-07-18,Q3,H100279,Apartment,New Sale,1963,462918,-3.08,3,238,1945.03,654 Sample Street,94667,Copenhagen,Urban,Syddanmark,1.7,1.41,2.75
+2010-01-17,Q4,H100280,Townhouse,New Sale,1976,468458,0.21,7,158,2964.92,428 Sample Street,14677,Copenhagen,Rural,Hovedstaden,4.55,0.56,1.3
+2013-05-28,Q1,H100281,Condo,New Sale,1989,105841,1.53,2,281,376.66,158 Sample Street,83508,Aalborg,Urban,Hovedstaden,4.67,2.41,1.33
+2016-01-15,Q4,H100282,Townhouse,New Sale,2007,440642,0.94,4,294,1498.78,977 Sample Street,90865,Aalborg,Urban,Syddanmark,2.31,2.97,2.14
+2016-11-29,Q2,H100283,Condo,New Sale,1977,248784,5.04,6,217,1146.47,416 Sample Street,60617,Aarhus,Rural,Syddanmark,4.51,3.27,2.83
+2012-12-05,Q4,H100284,Condo,Resale,1975,157096,8.38,9,243,646.49,326 Sample Street,96029,Aalborg,Urban,Syddanmark,2.23,1.18,0.87
+2019-06-07,Q4,H100285,Apartment,Resale,2012,142764,-0.41,5,240,594.85,371 Sample Street,28595,Aalborg,Suburban,Midtjylland,3.82,1.42,1.38
+2017-01-09,Q3,H100286,Townhouse,Resale,2015,496790,3.28,9,105,4731.33,344 Sample Street,97459,Odense,Suburban,Hovedstaden,2.64,2.29,2.41
+2012-11-26,Q3,H100287,Townhouse,Resale,1974,660032,6.84,5,177,3728.99,262 Sample Street,70148,Copenhagen,Urban,Hovedstaden,1.05,1.66,1.87
+2016-05-16,Q4,H100288,Condo,Resale,1952,864914,1.24,8,242,3574.02,283 Sample Street,56926,Aalborg,Suburban,Hovedstaden,4.68,3.51,0.42
+2019-05-14,Q2,H100289,Townhouse,New Sale,2021,583459,-2.48,1,138,4227.96,850 Sample Street,85271,Aarhus,Rural,Syddanmark,2.54,2.16,1.92
+2010-10-29,Q2,H100290,Villa,Resale,1993,675043,2.12,7,158,4272.42,856 Sample Street,44457,Aalborg,Suburban,Syddanmark,3.81,3.3,0.64
+2021-09-16,Q1,H100291,Villa,Resale,1991,542148,-4.17,4,39,13901.23,229 Sample Street,52531,Copenhagen,Urban,Syddanmark,2.15,2.53,1.58
+2011-08-30,Q1,H100292,Townhouse,Resale,1955,682413,9.14,5,76,8979.12,888 Sample Street,83263,Aalborg,Rural,Syddanmark,0.58,3.21,1.63
+2018-09-06,Q2,H100293,Townhouse,Resale,1988,967154,-3.88,6,125,7737.23,280 Sample Street,83300,Odense,Suburban,Nordjylland,0.95,1.66,2.64
+2011-12-01,Q3,H100294,Condo,Resale,2001,418226,1.58,5,132,3168.38,870 Sample Street,73171,Copenhagen,Rural,Syddanmark,2.73,3.41,1.44
+2013-02-13,Q2,H100295,Villa,Resale,1972,53696,2.95,1,175,306.83,290 Sample Street,55771,Aalborg,Urban,Midtjylland,3.6,1.46,0.91
+2010-07-10,Q4,H100296,Villa,Resale,1999,176310,9.78,9,56,3148.39,680 Sample Street,76354,Odense,Suburban,Nordjylland,2.01,2.41,0.77
+2016-04-19,Q3,H100297,Apartment,New Sale,1992,987562,-2.51,2,249,3966.11,47 Sample Street,47289,Copenhagen,Rural,Nordjylland,3.63,1.25,2.64
+2012-09-07,Q1,H100298,Condo,New Sale,1968,725673,-3.28,9,47,15439.85,975 Sample Street,43892,Aalborg,Rural,Syddanmark,3.64,2.16,0.6
+2018-02-23,Q2,H100299,Apartment,Resale,2018,855581,-4.87,2,196,4365.21,715 Sample Street,81196,Odense,Suburban,Hovedstaden,3.67,1.61,1.34
+2013-03-30,Q3,H100300,Villa,New Sale,2000,966496,-2.67,9,111,8707.17,214 Sample Street,48409,Aarhus,Rural,Syddanmark,2.72,1.43,0.64
+2019-02-10,Q3,H100301,Condo,New Sale,1960,889953,-1.89,6,101,8811.42,758 Sample Street,44470,Odense,Rural,Hovedstaden,4.62,3.88,2.34
+2019-04-18,Q3,H100302,Townhouse,New Sale,1961,95740,4.46,9,283,338.3,24 Sample Street,28385,Aarhus,Urban,Syddanmark,2.7,1.06,1.48
+2010-05-08,Q1,H100303,Condo,New Sale,1957,156611,-1.7,6,191,819.95,321 Sample Street,33296,Aalborg,Urban,Syddanmark,2.53,3.26,1.12
+2015-08-28,Q2,H100304,Townhouse,Resale,1973,448172,-4.69,6,67,6689.13,274 Sample Street,71716,Odense,Urban,Hovedstaden,1.4,3.94,1.15
+2014-12-22,Q2,H100305,Townhouse,New Sale,1990,518947,7.4,2,230,2256.29,556 Sample Street,99152,Aarhus,Urban,Hovedstaden,1.88,0.57,2.57
+2011-07-24,Q3,H100306,Condo,New Sale,1985,525828,0.48,8,229,2296.19,844 Sample Street,36382,Copenhagen,Urban,Hovedstaden,0.69,2.95,1.71
+2015-03-11,Q3,H100307,Townhouse,New Sale,2021,823210,0.31,3,284,2898.63,313 Sample Street,86675,Odense,Urban,Hovedstaden,3.35,1.39,2.18
+2017-06-26,Q2,H100308,Apartment,Resale,2004,378785,-0.46,7,208,1821.08,363 Sample Street,32419,Aalborg,Suburban,Midtjylland,1.62,0.64,2.7
+2020-07-30,Q2,H100309,Villa,Resale,1958,638099,9.63,5,64,9970.3,668 Sample Street,91238,Copenhagen,Urban,Hovedstaden,1.87,1.91,2.72
+2022-12-05,Q2,H100310,Townhouse,Resale,1996,495376,-2.45,3,111,4462.85,380 Sample Street,49291,Aarhus,Rural,Syddanmark,3.97,3.77,1.05
+2020-12-28,Q1,H100311,Apartment,Resale,1964,756673,8.47,1,249,3038.85,711 Sample Street,22397,Odense,Suburban,Syddanmark,1.97,0.54,2.86
+2017-12-11,Q4,H100312,Townhouse,Resale,1997,637520,6.65,8,187,3409.2,919 Sample Street,67888,Odense,Rural,Midtjylland,1.59,2.56,0.17
+2014-08-14,Q4,H100313,Villa,Resale,1991,851849,-3.85,3,33,25813.61,981 Sample Street,45169,Aalborg,Urban,Hovedstaden,1.26,2.25,1.19
+2018-03-29,Q1,H100314,Apartment,Resale,2009,730089,9.8,2,196,3724.94,674 Sample Street,72182,Copenhagen,Urban,Syddanmark,3.99,3.56,2.7
+2010-06-04,Q4,H100315,Villa,New Sale,2019,162492,-0.93,1,233,697.39,907 Sample Street,52249,Odense,Rural,Midtjylland,1.08,0.79,0.9
+2016-12-12,Q1,H100316,Villa,New Sale,1961,80099,-3.52,4,223,359.19,470 Sample Street,38341,Odense,Rural,Syddanmark,2.54,2.89,0.89
+2013-11-10,Q1,H100317,Apartment,New Sale,1951,803494,7.44,8,264,3043.54,746 Sample Street,85603,Copenhagen,Rural,Midtjylland,2.78,2.88,0.98
+2021-02-09,Q2,H100318,Apartment,Resale,1956,473177,5.6,3,235,2013.52,675 Sample Street,56144,Odense,Suburban,Midtjylland,3.59,2.84,1.88
+2012-02-24,Q2,H100319,Apartment,Resale,1952,980106,4.26,1,179,5475.45,116 Sample Street,71772,Copenhagen,Urban,Nordjylland,3.35,3.8,1.37
+2018-09-11,Q3,H100320,Condo,Resale,1952,692762,-2.66,4,188,3684.9,605 Sample Street,89360,Copenhagen,Rural,Nordjylland,4.15,3.38,2.21
+2021-11-20,Q1,H100321,Apartment,Resale,1976,321400,2.18,9,195,1648.21,42 Sample Street,23444,Copenhagen,Urban,Hovedstaden,0.7,0.65,2.7
+2017-09-07,Q1,H100322,Apartment,Resale,1989,529336,6.71,1,97,5457.07,796 Sample Street,55647,Aalborg,Rural,Nordjylland,1.83,2.15,2.06
+2011-06-22,Q3,H100323,Apartment,New Sale,1982,817876,-0.45,2,117,6990.39,379 Sample Street,20974,Copenhagen,Urban,Midtjylland,1.76,1.89,0.69
+2015-01-16,Q4,H100324,Apartment,New Sale,1950,608969,-0.32,9,246,2475.48,722 Sample Street,48383,Copenhagen,Suburban,Syddanmark,1.16,1.59,2.8
+2016-09-21,Q1,H100325,Townhouse,Resale,1957,141328,-4.95,2,30,4710.93,206 Sample Street,91552,Aarhus,Urban,Syddanmark,1.8,2.08,0.87
+2011-06-09,Q4,H100326,Condo,Resale,1981,792800,-2.39,3,164,4834.15,466 Sample Street,12956,Aarhus,Rural,Hovedstaden,1.89,1.84,0.53
+2018-01-29,Q1,H100327,Villa,Resale,1997,355505,8.13,7,214,1661.24,732 Sample Street,18077,Aalborg,Urban,Nordjylland,2.85,2.01,0.36
+2021-04-24,Q1,H100328,Apartment,Resale,1953,507719,1.63,3,169,3004.25,280 Sample Street,46490,Copenhagen,Suburban,Hovedstaden,3.49,3.93,1.73
+2023-02-02,Q3,H100329,Townhouse,New Sale,2019,84540,9.76,9,135,626.22,648 Sample Street,65612,Aarhus,Suburban,Midtjylland,2.21,0.81,0.43
+2021-04-08,Q1,H100330,Townhouse,Resale,1968,207608,0.94,6,162,1281.53,618 Sample Street,46159,Aarhus,Urban,Nordjylland,3.74,3.73,0.5
+2016-06-26,Q1,H100331,Townhouse,Resale,1981,134700,5.73,3,137,983.21,118 Sample Street,49710,Odense,Rural,Hovedstaden,2.01,2.18,0.97
+2020-07-14,Q1,H100332,Villa,Resale,1958,390676,-0.77,9,207,1887.32,237 Sample Street,93536,Copenhagen,Suburban,Syddanmark,1.81,2.68,0.92
+2022-04-23,Q4,H100333,Apartment,Resale,1961,761935,0.46,1,175,4353.91,309 Sample Street,23806,Aarhus,Suburban,Syddanmark,2.94,3.41,1.85
+2017-05-25,Q1,H100334,Condo,New Sale,1960,439770,-2.14,3,103,4269.61,456 Sample Street,88345,Aalborg,Urban,Hovedstaden,0.61,1.76,2.47
+2012-08-29,Q4,H100335,Condo,Resale,1995,446087,0.21,1,137,3256.11,900 Sample Street,90391,Odense,Suburban,Hovedstaden,0.86,2.01,2.31
+2013-03-12,Q1,H100336,Townhouse,Resale,1965,96002,3.21,2,151,635.77,475 Sample Street,16458,Odense,Suburban,Hovedstaden,2.38,1.93,0.86
+2023-07-01,Q2,H100337,Villa,New Sale,1950,99812,9.88,8,46,2169.83,100 Sample Street,45524,Copenhagen,Rural,Midtjylland,4.74,1.81,0.81
+2017-08-06,Q4,H100338,Villa,New Sale,2012,465842,4.96,7,225,2070.41,261 Sample Street,16853,Copenhagen,Rural,Midtjylland,3.75,3.74,2.9
+2015-06-06,Q4,H100339,Villa,New Sale,1970,765339,-2.01,2,281,2723.63,993 Sample Street,50477,Odense,Rural,Syddanmark,0.9,3.4,0.12
+2012-05-03,Q1,H100340,Condo,Resale,1979,307906,-4.33,2,148,2080.45,305 Sample Street,42222,Aalborg,Urban,Midtjylland,4.31,0.88,2.65
+2021-05-09,Q1,H100341,Townhouse,Resale,1962,158946,-3.1,9,191,832.18,354 Sample Street,28320,Copenhagen,Suburban,Midtjylland,3.8,0.88,0.68
+2020-03-25,Q4,H100342,Apartment,New Sale,1983,116668,3.44,6,227,513.96,286 Sample Street,62243,Copenhagen,Urban,Nordjylland,3.25,2.0,2.85
+2020-04-27,Q3,H100343,Condo,New Sale,1953,149003,6.48,5,74,2013.55,328 Sample Street,55615,Odense,Suburban,Midtjylland,4.19,0.85,1.09
+2011-07-29,Q2,H100344,Townhouse,New Sale,1977,785430,9.11,6,208,3776.11,103 Sample Street,27352,Odense,Suburban,Nordjylland,2.32,2.67,1.38
+2018-12-06,Q2,H100345,Townhouse,New Sale,2008,270462,-4.76,9,73,3704.96,63 Sample Street,82833,Copenhagen,Suburban,Midtjylland,1.5,1.0,2.15
+2013-02-22,Q2,H100346,Apartment,New Sale,1976,879430,2.84,7,107,8218.97,687 Sample Street,13203,Aarhus,Rural,Syddanmark,2.8,2.33,1.8
+2014-09-12,Q3,H100347,Apartment,New Sale,2018,769174,2.06,9,207,3715.82,282 Sample Street,49267,Copenhagen,Urban,Hovedstaden,2.97,0.53,1.02
+2023-01-30,Q1,H100348,Apartment,Resale,1974,678889,4.84,4,32,21215.28,441 Sample Street,47941,Aarhus,Urban,Syddanmark,2.92,1.61,1.71
+2023-07-05,Q1,H100349,Villa,Resale,1952,319956,3.39,2,243,1316.69,293 Sample Street,92809,Odense,Suburban,Midtjylland,3.04,2.87,2.22
+2020-07-21,Q3,H100350,Apartment,Resale,2017,111844,5.31,8,103,1085.86,738 Sample Street,35368,Aarhus,Urban,Hovedstaden,4.77,2.19,0.22
+2016-10-27,Q3,H100351,Townhouse,New Sale,1974,775453,4.87,4,80,9693.16,7 Sample Street,87186,Aalborg,Rural,Hovedstaden,4.56,3.92,0.13
+2017-04-14,Q3,H100352,Apartment,New Sale,1969,445395,-3.24,9,96,4639.53,639 Sample Street,40984,Odense,Urban,Hovedstaden,4.44,3.56,1.43
+2018-07-22,Q1,H100353,Townhouse,New Sale,1983,749158,7.0,4,122,6140.64,936 Sample Street,51941,Copenhagen,Suburban,Nordjylland,4.11,1.76,0.48
+2018-05-10,Q1,H100354,Condo,New Sale,1975,124601,-3.15,8,205,607.81,92 Sample Street,82918,Copenhagen,Rural,Syddanmark,4.75,0.66,2.03
+2010-01-05,Q3,H100355,Villa,New Sale,1954,975779,5.48,9,174,5607.93,935 Sample Street,62683,Odense,Rural,Nordjylland,0.94,3.46,0.72
+2023-05-02,Q4,H100356,Condo,New Sale,2010,360001,1.24,9,36,10000.03,190 Sample Street,10801,Odense,Suburban,Hovedstaden,1.69,3.69,1.36
+2012-05-26,Q3,H100357,Condo,Resale,1958,437699,2.71,4,298,1468.79,871 Sample Street,57965,Aalborg,Urban,Syddanmark,2.73,3.37,0.67
+2012-09-18,Q2,H100358,Townhouse,Resale,1999,544700,8.55,1,33,16506.06,476 Sample Street,95269,Odense,Suburban,Syddanmark,4.31,0.95,1.69
+2021-05-05,Q1,H100359,Condo,New Sale,1955,332844,8.35,3,167,1993.08,511 Sample Street,19969,Copenhagen,Urban,Midtjylland,2.77,3.99,0.44
+2021-12-13,Q1,H100360,Townhouse,Resale,2009,832215,7.27,9,260,3200.83,462 Sample Street,45969,Aalborg,Urban,Nordjylland,3.87,1.41,0.17
+2022-03-24,Q1,H100361,Apartment,New Sale,1993,482680,2.65,4,117,4125.47,53 Sample Street,92269,Copenhagen,Rural,Nordjylland,1.13,3.03,0.25
+2011-09-28,Q2,H100362,Apartment,Resale,1960,223423,6.04,5,46,4857.02,754 Sample Street,42449,Aarhus,Suburban,Midtjylland,1.64,3.68,2.87
+2014-08-21,Q3,H100363,Townhouse,New Sale,2015,143330,2.69,7,81,1769.51,486 Sample Street,35705,Odense,Rural,Nordjylland,3.79,1.32,0.51
+2014-08-10,Q2,H100364,Apartment,New Sale,1996,275391,8.04,5,163,1689.52,644 Sample Street,70303,Aarhus,Suburban,Hovedstaden,1.24,3.68,2.15
+2023-01-05,Q3,H100365,Villa,Resale,2022,263606,1.04,4,240,1098.36,490 Sample Street,38363,Copenhagen,Suburban,Hovedstaden,2.08,1.58,0.3
+2010-04-30,Q2,H100366,Condo,Resale,1952,457085,9.55,2,248,1843.08,978 Sample Street,40720,Aarhus,Rural,Nordjylland,1.69,3.92,0.41
+2012-04-10,Q3,H100367,Villa,New Sale,1979,241387,8.98,2,234,1031.57,364 Sample Street,19972,Aarhus,Suburban,Midtjylland,2.07,1.48,1.58
+2020-01-24,Q4,H100368,Condo,New Sale,1970,291133,6.12,4,240,1213.05,112 Sample Street,43351,Copenhagen,Suburban,Syddanmark,3.69,3.84,1.45
+2013-10-01,Q1,H100369,Apartment,Resale,1977,536904,-0.81,9,53,10130.26,409 Sample Street,46145,Copenhagen,Urban,Nordjylland,2.16,0.69,2.86
+2012-01-11,Q1,H100370,Villa,Resale,2011,464170,-3.03,8,33,14065.76,7 Sample Street,97948,Odense,Suburban,Syddanmark,3.0,2.98,2.84
+2010-04-27,Q1,H100371,Apartment,New Sale,1982,736915,7.82,3,181,4071.35,742 Sample Street,99614,Aarhus,Suburban,Midtjylland,0.95,2.36,2.36
+2017-10-09,Q2,H100372,Condo,Resale,1984,375497,-2.52,9,288,1303.81,668 Sample Street,98116,Aalborg,Rural,Syddanmark,4.12,2.17,1.85
+2013-02-24,Q1,H100373,Townhouse,New Sale,2001,525406,7.81,5,197,2667.04,197 Sample Street,66235,Aalborg,Rural,Midtjylland,2.16,1.28,1.42
+2015-04-16,Q2,H100374,Townhouse,New Sale,1983,488242,2.36,3,205,2381.67,835 Sample Street,24855,Copenhagen,Suburban,Midtjylland,3.42,2.97,1.13
+2012-10-09,Q1,H100375,Villa,New Sale,1990,412916,1.1,5,85,4857.84,876 Sample Street,46169,Copenhagen,Urban,Hovedstaden,3.76,1.17,2.85
+2014-07-23,Q3,H100376,Apartment,New Sale,2000,228048,8.55,4,137,1664.58,735 Sample Street,56404,Aarhus,Urban,Hovedstaden,1.44,2.43,1.85
+2012-12-17,Q4,H100377,Apartment,Resale,1996,403646,4.06,8,170,2374.39,367 Sample Street,29569,Copenhagen,Rural,Midtjylland,4.48,1.39,1.78
+2022-12-13,Q4,H100378,Villa,Resale,2007,426087,3.65,5,184,2315.69,250 Sample Street,64437,Aalborg,Suburban,Nordjylland,3.27,3.84,0.77
+2011-05-28,Q3,H100379,Townhouse,Resale,2006,421994,3.38,8,291,1450.15,916 Sample Street,58506,Odense,Suburban,Hovedstaden,2.43,0.6,0.24
+2017-10-20,Q1,H100380,Condo,Resale,1972,619383,0.57,9,261,2373.11,595 Sample Street,35738,Odense,Urban,Midtjylland,1.32,1.2,2.84
+2011-07-14,Q1,H100381,Villa,Resale,1997,195342,6.78,4,270,723.49,240 Sample Street,16772,Aarhus,Urban,Syddanmark,4.74,1.35,1.01
+2020-01-21,Q1,H100382,Condo,Resale,1971,736268,-1.21,7,287,2565.39,380 Sample Street,29731,Odense,Urban,Syddanmark,3.9,1.95,1.38
+2022-07-20,Q1,H100383,Townhouse,Resale,1966,851955,9.08,2,278,3064.59,907 Sample Street,20131,Copenhagen,Rural,Nordjylland,1.44,1.31,0.43
+2023-09-02,Q1,H100384,Apartment,New Sale,2018,112433,8.41,6,106,1060.69,872 Sample Street,76324,Copenhagen,Suburban,Syddanmark,2.02,2.22,2.53
+2019-02-26,Q2,H100385,Townhouse,Resale,1960,594279,0.06,8,209,2843.44,835 Sample Street,64097,Copenhagen,Rural,Syddanmark,4.14,3.55,0.18
+2021-02-22,Q1,H100386,Villa,Resale,1964,322919,5.94,7,95,3399.15,471 Sample Street,91720,Copenhagen,Suburban,Midtjylland,3.63,2.99,2.52
+2023-02-21,Q2,H100387,Apartment,New Sale,1984,521017,3.6,7,200,2605.08,775 Sample Street,12889,Aarhus,Rural,Syddanmark,3.95,2.53,0.51
+2014-01-10,Q2,H100388,Villa,Resale,1982,397139,0.06,8,51,7787.04,919 Sample Street,19569,Odense,Suburban,Syddanmark,2.49,0.81,2.67
+2011-08-04,Q1,H100389,Villa,Resale,1965,197745,9.83,7,136,1454.01,701 Sample Street,97193,Aalborg,Urban,Syddanmark,3.72,2.93,2.22
+2016-04-13,Q4,H100390,Townhouse,New Sale,1983,697096,-4.62,5,256,2723.03,455 Sample Street,85677,Odense,Urban,Syddanmark,2.24,1.08,0.58
+2018-08-14,Q3,H100391,Villa,Resale,2015,732416,-1.21,7,245,2989.45,366 Sample Street,95192,Copenhagen,Urban,Midtjylland,1.45,3.25,1.74
+2021-08-20,Q2,H100392,Townhouse,Resale,1989,187686,2.8,3,98,1915.16,290 Sample Street,97154,Aalborg,Rural,Syddanmark,3.35,1.38,1.01
+2014-08-07,Q3,H100393,Apartment,Resale,1977,57415,2.83,5,113,508.1,874 Sample Street,87470,Aarhus,Urban,Nordjylland,4.89,1.96,0.62
+2019-08-08,Q3,H100394,Townhouse,New Sale,1996,820326,3.83,7,132,6214.59,403 Sample Street,98822,Copenhagen,Suburban,Hovedstaden,1.9,1.73,2.59
+2017-07-07,Q3,H100395,Apartment,Resale,1988,487100,6.28,9,68,7163.24,58 Sample Street,17612,Copenhagen,Rural,Nordjylland,2.57,3.51,1.27
+2019-03-11,Q3,H100396,Townhouse,Resale,2019,984468,4.35,2,42,23439.71,521 Sample Street,61644,Aalborg,Suburban,Hovedstaden,3.53,0.94,1.26
+2021-01-28,Q3,H100397,Condo,New Sale,2022,828493,4.0,4,210,3945.2,304 Sample Street,42069,Aarhus,Rural,Nordjylland,2.94,2.48,0.59
+2013-05-28,Q3,H100398,Condo,Resale,1969,349188,-4.2,7,297,1175.72,115 Sample Street,91741,Aalborg,Suburban,Hovedstaden,4.3,1.0,1.21
+2018-07-16,Q4,H100399,Villa,New Sale,1950,762509,0.65,1,42,18154.98,210 Sample Street,37331,Aarhus,Suburban,Hovedstaden,3.93,2.97,2.63
+2015-11-12,Q4,H100400,Townhouse,New Sale,2021,218616,-1.52,2,149,1467.22,41 Sample Street,65897,Copenhagen,Rural,Hovedstaden,0.76,3.67,1.15
+2018-05-18,Q1,H100401,Townhouse,Resale,2012,99976,-1.02,9,86,1162.51,816 Sample Street,23934,Odense,Rural,Hovedstaden,4.99,2.02,2.86
+2022-06-15,Q4,H100402,Apartment,New Sale,2016,475468,3.32,7,69,6890.84,173 Sample Street,20095,Copenhagen,Urban,Midtjylland,3.89,2.21,2.84
+2018-02-07,Q1,H100403,Villa,New Sale,1953,315976,-2.01,7,157,2012.59,234 Sample Street,28706,Odense,Urban,Nordjylland,4.39,3.75,0.52
+2016-03-15,Q3,H100404,Townhouse,Resale,2007,271883,-0.59,6,202,1345.96,793 Sample Street,53516,Odense,Suburban,Hovedstaden,3.43,2.32,0.61
+2016-10-15,Q2,H100405,Villa,New Sale,1974,261509,-1.44,3,64,4086.08,884 Sample Street,44629,Aarhus,Suburban,Nordjylland,4.35,2.21,2.6
+2022-09-21,Q1,H100406,Condo,New Sale,1996,546965,9.23,3,288,1899.18,590 Sample Street,56910,Aalborg,Suburban,Syddanmark,1.01,2.52,1.24
+2014-06-24,Q4,H100407,Townhouse,Resale,1987,870580,9.17,2,34,25605.29,620 Sample Street,98540,Aarhus,Rural,Hovedstaden,2.06,2.91,0.11
+2014-10-24,Q2,H100408,Townhouse,Resale,1964,813529,4.15,6,247,3293.64,793 Sample Street,30431,Copenhagen,Rural,Nordjylland,4.44,0.87,0.89
+2022-03-11,Q4,H100409,Villa,Resale,2012,568823,8.87,4,40,14220.58,403 Sample Street,66733,Aalborg,Urban,Midtjylland,1.41,3.37,1.83
+2015-09-02,Q4,H100410,Townhouse,New Sale,1970,269526,6.79,5,146,1846.07,39 Sample Street,50088,Odense,Suburban,Nordjylland,0.85,2.02,2.42
+2017-10-20,Q3,H100411,Villa,Resale,2006,948662,3.85,3,213,4453.81,119 Sample Street,54135,Odense,Urban,Hovedstaden,4.05,0.75,0.49
+2018-11-26,Q1,H100412,Townhouse,New Sale,2002,397220,-4.9,6,145,2739.45,335 Sample Street,48015,Copenhagen,Rural,Syddanmark,4.26,3.25,0.42
+2020-03-19,Q3,H100413,Apartment,New Sale,1995,874834,6.59,3,191,4580.28,336 Sample Street,41385,Aalborg,Rural,Nordjylland,1.23,1.82,2.77
+2016-10-25,Q3,H100414,Villa,New Sale,1963,763087,5.54,8,96,7948.82,539 Sample Street,80199,Copenhagen,Rural,Syddanmark,4.34,0.85,2.28
+2014-06-20,Q1,H100415,Townhouse,New Sale,1966,88578,4.23,9,229,386.8,616 Sample Street,48677,Copenhagen,Urban,Midtjylland,3.59,2.72,1.81
+2017-09-17,Q2,H100416,Condo,New Sale,1988,664741,6.41,4,60,11079.02,74 Sample Street,22818,Aarhus,Rural,Nordjylland,2.84,3.58,2.33
+2012-10-12,Q3,H100417,Townhouse,New Sale,1958,465534,2.69,9,104,4476.29,191 Sample Street,98222,Copenhagen,Suburban,Nordjylland,4.24,3.61,1.34
+2013-09-10,Q2,H100418,Condo,New Sale,1955,912147,5.56,7,266,3429.12,324 Sample Street,73001,Aalborg,Urban,Midtjylland,2.39,3.85,2.3
+2022-08-17,Q3,H100419,Condo,Resale,1972,258859,9.03,3,95,2724.83,147 Sample Street,33977,Copenhagen,Rural,Midtjylland,1.37,3.54,1.18
+2018-06-15,Q1,H100420,Apartment,Resale,2008,161435,0.64,7,99,1630.66,767 Sample Street,59832,Aalborg,Urban,Midtjylland,1.78,0.51,0.81
+2017-10-10,Q2,H100421,Villa,New Sale,1995,790389,5.62,1,49,16130.39,284 Sample Street,50931,Odense,Urban,Hovedstaden,2.77,1.83,2.21
+2010-12-02,Q2,H100422,Townhouse,New Sale,1987,201538,2.14,3,255,790.35,213 Sample Street,93990,Copenhagen,Rural,Hovedstaden,2.89,3.36,1.32
+2022-07-29,Q2,H100423,Apartment,Resale,1963,932174,5.12,6,228,4088.48,635 Sample Street,88894,Aalborg,Rural,Nordjylland,4.13,1.78,2.95
+2012-06-14,Q3,H100424,Townhouse,New Sale,2021,95475,6.44,4,68,1404.04,718 Sample Street,82204,Odense,Urban,Nordjylland,4.06,2.61,1.11
+2019-09-17,Q3,H100425,Condo,Resale,2011,896574,-4.32,7,174,5152.72,929 Sample Street,55784,Aalborg,Urban,Nordjylland,3.12,2.62,2.77
+2012-05-01,Q1,H100426,Villa,Resale,1984,790520,4.7,3,74,10682.7,752 Sample Street,19921,Odense,Rural,Syddanmark,4.01,1.78,2.81
+2014-08-15,Q1,H100427,Townhouse,Resale,1968,207636,-1.6,1,120,1730.3,394 Sample Street,44959,Aarhus,Suburban,Midtjylland,1.36,3.67,0.8
+2015-04-16,Q1,H100428,Townhouse,New Sale,1979,203484,5.05,9,267,762.11,339 Sample Street,42328,Copenhagen,Urban,Nordjylland,0.73,2.26,2.41
+2020-04-04,Q1,H100429,Condo,New Sale,1974,143526,2.02,6,99,1449.76,798 Sample Street,18859,Copenhagen,Urban,Midtjylland,4.43,2.13,1.36
+2016-08-24,Q4,H100430,Townhouse,Resale,1989,101001,6.6,8,195,517.95,22 Sample Street,99506,Odense,Suburban,Hovedstaden,0.84,3.99,2.76
+2014-04-18,Q1,H100431,Townhouse,Resale,1963,894081,-3.15,3,159,5623.15,771 Sample Street,84408,Aarhus,Rural,Midtjylland,1.61,2.23,1.41
+2020-12-14,Q2,H100432,Condo,Resale,1975,242029,4.39,8,243,996.0,869 Sample Street,94766,Aalborg,Rural,Syddanmark,3.63,1.12,2.26
+2017-07-01,Q1,H100433,Apartment,Resale,1971,478733,-0.82,2,118,4057.06,105 Sample Street,36708,Aarhus,Suburban,Syddanmark,2.34,2.3,1.45
+2019-07-31,Q4,H100434,Condo,Resale,1997,718516,7.79,4,281,2557.0,466 Sample Street,28847,Aalborg,Rural,Midtjylland,4.44,3.35,0.76
+2020-09-18,Q3,H100435,Apartment,New Sale,2000,990568,8.93,3,101,9807.6,459 Sample Street,65989,Aalborg,Rural,Syddanmark,1.84,3.22,0.68
+2012-12-02,Q4,H100436,Villa,Resale,1952,599999,9.95,1,194,3092.78,432 Sample Street,14922,Copenhagen,Urban,Syddanmark,0.55,3.26,1.33
+2021-12-29,Q3,H100437,Apartment,New Sale,1991,604394,6.94,7,78,7748.64,770 Sample Street,79928,Odense,Urban,Hovedstaden,1.85,2.98,2.29
+2016-09-10,Q2,H100438,Apartment,Resale,1968,901890,6.31,2,81,11134.44,716 Sample Street,62335,Copenhagen,Urban,Nordjylland,3.1,1.39,1.85
+2021-03-31,Q1,H100439,Villa,New Sale,2022,984093,-1.77,4,143,6881.77,822 Sample Street,23541,Copenhagen,Suburban,Syddanmark,2.19,3.52,2.1
+2019-03-28,Q4,H100440,Apartment,New Sale,1977,532488,0.04,9,268,1986.9,774 Sample Street,29551,Copenhagen,Rural,Nordjylland,2.91,3.63,0.92
+2020-11-13,Q4,H100441,Condo,New Sale,1994,442573,1.99,6,162,2731.93,619 Sample Street,29381,Aalborg,Rural,Midtjylland,4.44,1.18,1.5
+2016-12-21,Q1,H100442,Apartment,New Sale,2020,267583,6.6,8,195,1372.22,763 Sample Street,65673,Copenhagen,Urban,Midtjylland,4.61,0.96,0.23
+2012-01-24,Q1,H100443,Villa,New Sale,2012,413898,8.72,2,272,1521.68,936 Sample Street,32948,Aalborg,Urban,Syddanmark,1.7,3.91,2.47
+2015-09-14,Q3,H100444,Condo,New Sale,2022,188286,-2.16,7,167,1127.46,221 Sample Street,69072,Odense,Suburban,Midtjylland,2.58,3.54,2.97
+2017-08-06,Q1,H100445,Villa,Resale,1968,277189,8.84,6,108,2566.56,379 Sample Street,77560,Aalborg,Rural,Hovedstaden,2.97,3.63,1.28
+2017-12-06,Q4,H100446,Villa,New Sale,1996,176479,5.43,9,199,886.83,222 Sample Street,92249,Aalborg,Suburban,Syddanmark,4.77,3.6,0.13
+2021-06-17,Q1,H100447,Townhouse,Resale,1963,470343,4.16,7,152,3094.36,258 Sample Street,12486,Aarhus,Rural,Syddanmark,4.99,2.4,0.59
+2012-02-15,Q2,H100448,Townhouse,New Sale,1987,186213,-2.0,1,205,908.36,713 Sample Street,76691,Copenhagen,Suburban,Syddanmark,1.56,2.76,1.99
+2014-06-14,Q4,H100449,Villa,New Sale,2002,603172,-4.17,8,111,5433.98,367 Sample Street,20082,Copenhagen,Urban,Midtjylland,3.77,2.41,1.88
+2018-05-28,Q3,H100450,Villa,Resale,2010,314852,3.53,3,116,2714.24,770 Sample Street,94105,Copenhagen,Suburban,Midtjylland,2.2,0.68,2.38
+2011-02-22,Q3,H100451,Villa,New Sale,1985,854807,4.77,2,254,3365.38,349 Sample Street,17086,Copenhagen,Suburban,Syddanmark,0.54,3.11,0.84
+2010-04-25,Q4,H100452,Townhouse,Resale,1989,589376,-1.84,3,45,13097.24,225 Sample Street,77853,Aarhus,Urban,Nordjylland,0.54,2.27,2.31
+2011-09-09,Q4,H100453,Townhouse,Resale,1979,369759,3.35,6,192,1925.83,714 Sample Street,80027,Aarhus,Rural,Midtjylland,2.57,2.77,2.1
+2020-11-18,Q2,H100454,Apartment,Resale,1958,422282,7.85,3,127,3325.06,738 Sample Street,25916,Aarhus,Rural,Midtjylland,2.7,2.26,1.04
+2018-12-12,Q2,H100455,Apartment,Resale,2013,750406,7.53,5,185,4056.25,236 Sample Street,25248,Aarhus,Urban,Syddanmark,0.6,2.22,1.68
+2012-04-05,Q1,H100456,Villa,New Sale,1982,322158,8.91,6,31,10392.19,183 Sample Street,78047,Copenhagen,Suburban,Nordjylland,3.59,1.1,0.53
+2014-02-25,Q1,H100457,Condo,New Sale,2001,769785,0.49,8,198,3887.8,712 Sample Street,34226,Aalborg,Suburban,Syddanmark,1.82,1.48,1.41
+2018-08-13,Q3,H100458,Condo,Resale,1963,446489,-0.23,7,121,3689.99,869 Sample Street,35025,Odense,Suburban,Midtjylland,3.02,1.06,2.66
+2011-02-17,Q1,H100459,Townhouse,New Sale,2002,752495,6.24,8,210,3583.31,758 Sample Street,58380,Aarhus,Rural,Syddanmark,1.85,1.18,1.32
+2011-12-30,Q4,H100460,Townhouse,New Sale,2008,414986,1.47,3,260,1596.1,444 Sample Street,17848,Aalborg,Suburban,Syddanmark,1.25,3.91,2.53
+2019-03-03,Q2,H100461,Townhouse,Resale,1990,998385,-3.69,4,177,5640.59,865 Sample Street,24274,Aarhus,Rural,Syddanmark,2.33,1.04,1.81
+2017-09-09,Q3,H100462,Villa,New Sale,2017,540238,-0.76,6,218,2478.16,623 Sample Street,64545,Copenhagen,Suburban,Nordjylland,1.55,1.44,0.66
+2011-11-07,Q1,H100463,Condo,Resale,2017,128077,1.28,7,157,815.78,6 Sample Street,45233,Copenhagen,Urban,Syddanmark,2.91,2.57,1.79
+2019-06-28,Q3,H100464,Apartment,Resale,1957,189784,-0.61,9,36,5271.78,236 Sample Street,26304,Aalborg,Urban,Midtjylland,1.39,2.64,1.57
+2016-11-09,Q3,H100465,Villa,New Sale,1951,255776,-0.02,1,76,3365.47,127 Sample Street,21294,Aalborg,Rural,Syddanmark,2.79,1.04,1.26
+2018-02-15,Q4,H100466,Apartment,New Sale,1990,365018,-0.59,8,82,4451.44,104 Sample Street,36425,Aalborg,Rural,Nordjylland,1.21,3.28,0.45
+2017-08-18,Q2,H100467,Apartment,New Sale,2004,119087,-4.38,8,216,551.33,749 Sample Street,78711,Copenhagen,Urban,Hovedstaden,3.52,3.25,1.31
+2013-01-27,Q1,H100468,Villa,Resale,1965,848729,4.56,6,67,12667.6,915 Sample Street,19425,Copenhagen,Urban,Nordjylland,3.89,1.33,0.31
+2021-03-03,Q2,H100469,Apartment,Resale,2011,814629,3.96,4,255,3194.62,480 Sample Street,54990,Odense,Suburban,Syddanmark,1.0,1.51,0.39
+2014-04-21,Q2,H100470,Condo,New Sale,1997,863560,4.8,3,82,10531.22,155 Sample Street,83746,Aalborg,Urban,Hovedstaden,2.61,3.78,1.31
+2015-11-14,Q1,H100471,Apartment,New Sale,1979,642656,-2.12,3,253,2540.14,257 Sample Street,78295,Odense,Rural,Syddanmark,0.82,3.39,0.99
+2014-08-15,Q1,H100472,Condo,New Sale,1961,793859,-0.57,6,183,4338.03,235 Sample Street,26091,Aarhus,Urban,Nordjylland,3.19,2.94,2.78
+2021-04-25,Q2,H100473,Condo,New Sale,1984,391102,4.29,8,77,5079.25,500 Sample Street,10002,Odense,Rural,Hovedstaden,1.69,0.79,1.19
+2020-07-18,Q2,H100474,Condo,Resale,1960,345064,3.99,7,176,1960.59,289 Sample Street,60411,Aarhus,Rural,Hovedstaden,2.87,1.96,2.3
+2019-06-03,Q3,H100475,Townhouse,New Sale,2013,301514,2.59,1,93,3242.09,510 Sample Street,50958,Aarhus,Suburban,Syddanmark,2.83,2.46,1.64
+2020-04-24,Q4,H100476,Apartment,Resale,1999,978660,0.26,6,211,4638.2,552 Sample Street,30707,Odense,Suburban,Syddanmark,4.66,1.16,2.14
+2016-05-15,Q2,H100477,Villa,Resale,1970,192180,8.69,7,154,1247.92,800 Sample Street,25248,Aalborg,Suburban,Nordjylland,2.97,2.07,0.85
+2017-12-24,Q4,H100478,Villa,New Sale,2018,999349,0.1,7,208,4804.56,709 Sample Street,81309,Aarhus,Suburban,Syddanmark,3.12,2.6,2.83
+2023-08-09,Q1,H100479,Apartment,New Sale,1997,970304,1.83,9,68,14269.18,785 Sample Street,88322,Aalborg,Urban,Hovedstaden,2.31,1.65,1.64
+2020-10-27,Q1,H100480,Townhouse,New Sale,1969,834192,5.17,5,289,2886.48,894 Sample Street,61720,Copenhagen,Suburban,Midtjylland,4.77,3.23,2.51
+2011-08-19,Q4,H100481,Townhouse,Resale,2016,485928,3.15,1,32,15185.25,776 Sample Street,25037,Aarhus,Urban,Midtjylland,4.0,3.44,1.16
+2011-12-30,Q4,H100482,Condo,New Sale,1993,970114,0.2,2,93,10431.33,569 Sample Street,77421,Copenhagen,Suburban,Nordjylland,1.78,1.63,0.39
+2013-09-27,Q3,H100483,Apartment,New Sale,1982,651891,1.53,4,58,11239.5,298 Sample Street,91867,Odense,Suburban,Syddanmark,4.3,3.44,2.05
+2022-04-20,Q3,H100484,Apartment,Resale,2022,83872,6.92,5,40,2096.8,610 Sample Street,50612,Aalborg,Rural,Nordjylland,2.45,0.86,0.12
+2011-11-30,Q2,H100485,Villa,New Sale,2010,322872,-0.83,9,126,2562.48,137 Sample Street,98031,Odense,Urban,Midtjylland,4.23,3.43,1.48
+2011-01-31,Q3,H100486,Apartment,Resale,1958,407246,-2.87,1,232,1755.37,376 Sample Street,23450,Aarhus,Rural,Midtjylland,4.2,1.03,0.66
+2021-06-03,Q3,H100487,Townhouse,New Sale,2017,538535,-0.3,3,50,10770.7,87 Sample Street,19491,Copenhagen,Suburban,Syddanmark,1.35,0.79,1.92
+2021-12-09,Q3,H100488,Apartment,Resale,1984,434193,7.74,5,68,6385.19,419 Sample Street,84804,Aarhus,Urban,Hovedstaden,3.66,2.75,2.94
+2016-11-07,Q2,H100489,Villa,New Sale,2014,857015,-3.67,3,252,3400.85,754 Sample Street,16791,Odense,Suburban,Syddanmark,1.81,2.15,1.45
+2014-12-25,Q4,H100490,Condo,New Sale,1957,135774,9.88,4,131,1036.44,199 Sample Street,38314,Aalborg,Rural,Midtjylland,1.84,3.68,2.47
+2011-12-19,Q2,H100491,Villa,Resale,1994,974767,3.12,3,75,12996.89,463 Sample Street,61883,Aalborg,Urban,Hovedstaden,1.83,1.77,1.57
+2017-08-14,Q2,H100492,Villa,Resale,1996,438518,9.77,4,95,4615.98,437 Sample Street,97086,Aarhus,Rural,Nordjylland,3.77,1.51,1.54
+2023-07-18,Q4,H100493,Condo,New Sale,1989,248522,9.08,1,120,2071.02,310 Sample Street,75629,Aarhus,Suburban,Midtjylland,1.53,2.25,2.8
+2019-10-18,Q1,H100494,Villa,Resale,2003,270357,1.79,8,193,1400.81,596 Sample Street,19967,Copenhagen,Suburban,Nordjylland,0.5,2.1,2.68
+2010-05-24,Q4,H100495,Villa,Resale,1995,462672,-2.02,4,140,3304.8,754 Sample Street,91754,Odense,Suburban,Hovedstaden,3.72,1.71,2.38
+2023-08-21,Q4,H100496,Apartment,Resale,1996,927550,-2.53,7,152,6102.3,281 Sample Street,53220,Aarhus,Urban,Nordjylland,1.27,2.93,0.96
+2018-08-07,Q2,H100497,Apartment,Resale,1964,115942,-1.4,2,222,522.26,323 Sample Street,84163,Copenhagen,Rural,Midtjylland,0.97,3.16,1.68
+2022-04-19,Q1,H100498,Condo,New Sale,1968,587977,5.65,2,128,4593.57,764 Sample Street,14947,Aarhus,Rural,Syddanmark,1.57,3.49,0.75
+2018-01-17,Q2,H100499,Apartment,New Sale,1975,607564,-0.91,6,188,3231.72,702 Sample Street,49419,Aalborg,Suburban,Nordjylland,2.21,3.9,1.39
+2019-12-16,Q1,H100500,Apartment,Resale,2001,559565,0.12,2,132,4239.13,951 Sample Street,66131,Copenhagen,Rural,Midtjylland,2.64,1.43,1.5
+2018-10-28,Q4,H100501,Villa,Resale,1971,572552,1.73,6,72,7952.11,942 Sample Street,98714,Copenhagen,Urban,Midtjylland,0.7,3.01,2.51
+2013-03-13,Q1,H100502,Townhouse,Resale,1970,676256,8.7,2,113,5984.57,152 Sample Street,38876,Aarhus,Suburban,Hovedstaden,4.87,1.88,2.7
+2017-03-01,Q4,H100503,Apartment,Resale,2000,463089,-2.16,4,220,2104.95,994 Sample Street,98444,Odense,Suburban,Midtjylland,3.72,2.87,1.3
+2012-11-28,Q1,H100504,Townhouse,New Sale,1987,849482,-4.92,7,80,10618.52,302 Sample Street,29971,Aalborg,Suburban,Syddanmark,1.95,2.17,0.15
+2015-11-27,Q3,H100505,Apartment,New Sale,1969,640504,-4.1,8,239,2679.93,278 Sample Street,72539,Odense,Urban,Syddanmark,1.93,3.98,2.6
+2018-03-02,Q3,H100506,Apartment,Resale,1978,789804,8.57,3,155,5095.51,651 Sample Street,59228,Copenhagen,Suburban,Nordjylland,2.52,3.05,0.61
+2019-01-08,Q1,H100507,Condo,Resale,2000,396184,4.71,9,98,4042.69,688 Sample Street,84495,Odense,Suburban,Nordjylland,3.32,3.83,1.9
+2022-12-13,Q2,H100508,Condo,Resale,1953,595932,-0.9,2,294,2026.98,8 Sample Street,38261,Copenhagen,Suburban,Nordjylland,1.16,3.42,0.17
+2013-03-02,Q3,H100509,Condo,New Sale,2004,112021,-2.34,8,287,390.32,807 Sample Street,71260,Odense,Suburban,Nordjylland,1.35,3.66,1.26
+2012-01-03,Q3,H100510,Townhouse,Resale,2020,742485,-0.59,8,217,3421.59,235 Sample Street,91371,Aarhus,Rural,Syddanmark,4.37,3.35,2.96
+2021-11-09,Q1,H100511,Villa,New Sale,1977,510115,-3.28,4,259,1969.56,675 Sample Street,94793,Odense,Suburban,Hovedstaden,1.65,2.11,0.39
+2023-04-09,Q1,H100512,Apartment,Resale,1953,92291,9.12,1,218,423.35,561 Sample Street,13346,Copenhagen,Urban,Nordjylland,2.21,1.38,1.33
+2012-08-11,Q2,H100513,Apartment,New Sale,1971,478276,6.76,1,39,12263.49,302 Sample Street,66176,Aalborg,Suburban,Hovedstaden,4.42,1.8,0.99
+2016-12-14,Q1,H100514,Apartment,Resale,1994,444754,1.94,2,143,3110.17,38 Sample Street,62300,Aalborg,Suburban,Midtjylland,3.48,0.57,2.72
+2019-02-07,Q1,H100515,Townhouse,New Sale,2016,353664,7.97,9,105,3368.23,136 Sample Street,21340,Aalborg,Rural,Midtjylland,2.04,2.33,2.62
+2019-01-15,Q3,H100516,Condo,Resale,2015,75675,-1.26,2,193,392.1,822 Sample Street,43012,Copenhagen,Suburban,Nordjylland,3.58,2.27,0.79
+2014-03-23,Q2,H100517,Villa,Resale,1983,723647,5.76,2,114,6347.78,421 Sample Street,45393,Odense,Rural,Midtjylland,0.59,2.34,0.34
+2013-04-06,Q2,H100518,Townhouse,Resale,2004,312318,7.84,6,78,4004.08,219 Sample Street,85133,Aalborg,Urban,Hovedstaden,3.81,3.91,1.92
+2018-03-13,Q3,H100519,Condo,New Sale,1950,142268,0.35,7,206,690.62,348 Sample Street,35557,Aalborg,Rural,Hovedstaden,2.69,3.69,1.08
+2017-05-05,Q1,H100520,Townhouse,Resale,2021,347142,6.36,7,247,1405.43,808 Sample Street,74204,Aalborg,Suburban,Midtjylland,4.16,1.07,2.05
+2013-05-02,Q2,H100521,Villa,New Sale,1987,758672,-0.57,9,218,3480.15,546 Sample Street,83273,Aarhus,Urban,Nordjylland,4.8,1.79,0.19
+2014-03-21,Q4,H100522,Condo,New Sale,1955,979616,-0.52,6,259,3782.3,864 Sample Street,27276,Copenhagen,Suburban,Hovedstaden,4.67,1.98,0.49
+2018-11-11,Q3,H100523,Townhouse,Resale,1974,679698,-3.39,8,284,2393.3,79 Sample Street,64639,Copenhagen,Rural,Hovedstaden,4.59,1.76,2.09
+2016-07-14,Q1,H100524,Villa,Resale,1966,387369,1.6,6,265,1461.77,748 Sample Street,17310,Copenhagen,Urban,Syddanmark,2.8,3.29,0.72
+2020-03-08,Q4,H100525,Apartment,Resale,2010,881246,5.95,2,55,16022.65,895 Sample Street,45167,Copenhagen,Urban,Nordjylland,2.12,2.33,2.59
+2013-10-20,Q3,H100526,Villa,New Sale,1961,397235,9.1,1,101,3933.02,273 Sample Street,94880,Copenhagen,Rural,Syddanmark,2.59,2.5,0.27
+2015-01-31,Q4,H100527,Apartment,Resale,1955,362863,4.06,5,290,1251.25,161 Sample Street,20391,Aarhus,Rural,Midtjylland,3.6,3.49,0.72
+2013-09-27,Q3,H100528,Townhouse,New Sale,1976,179887,7.95,9,283,635.64,687 Sample Street,60621,Odense,Urban,Midtjylland,4.48,3.32,3.0
+2011-05-15,Q4,H100529,Condo,New Sale,1957,346063,7.34,8,152,2276.73,878 Sample Street,20892,Aarhus,Urban,Syddanmark,1.43,0.96,1.36
+2014-08-08,Q2,H100530,Condo,Resale,2014,385299,-2.4,4,173,2227.16,308 Sample Street,86733,Aalborg,Rural,Nordjylland,4.63,3.0,2.14
+2011-05-26,Q3,H100531,Townhouse,Resale,2006,383713,2.29,5,286,1341.65,374 Sample Street,88586,Aarhus,Suburban,Hovedstaden,4.17,2.02,0.63
+2021-10-22,Q1,H100532,Condo,Resale,1989,877760,-3.25,5,173,5073.76,976 Sample Street,46142,Copenhagen,Urban,Midtjylland,4.9,1.53,1.87
+2013-08-17,Q3,H100533,Condo,Resale,1963,251554,5.23,6,288,873.45,733 Sample Street,55679,Aarhus,Rural,Nordjylland,4.46,0.68,2.21
+2013-03-01,Q1,H100534,Apartment,Resale,1984,861050,9.25,3,76,11329.61,9 Sample Street,51615,Copenhagen,Suburban,Nordjylland,1.76,2.21,1.01
+2015-01-02,Q2,H100535,Townhouse,Resale,1997,608963,-2.94,5,42,14499.12,801 Sample Street,57553,Aarhus,Urban,Midtjylland,0.98,1.74,2.5
+2018-08-08,Q3,H100536,Villa,New Sale,2005,545010,6.01,2,237,2299.62,444 Sample Street,89071,Copenhagen,Urban,Midtjylland,1.01,1.38,1.85
+2019-07-19,Q3,H100537,Apartment,New Sale,1998,855351,4.48,1,264,3239.97,113 Sample Street,51002,Aalborg,Rural,Nordjylland,1.81,2.93,1.23
+2014-12-16,Q1,H100538,Townhouse,New Sale,1962,840605,3.75,1,178,4722.5,989 Sample Street,80658,Copenhagen,Suburban,Hovedstaden,3.26,3.19,1.72
+2018-01-02,Q1,H100539,Apartment,Resale,2010,421513,0.85,7,184,2290.83,205 Sample Street,19852,Aarhus,Urban,Syddanmark,4.12,1.36,1.77
+2016-01-24,Q3,H100540,Villa,New Sale,1998,862832,0.33,2,195,4424.78,405 Sample Street,15387,Aalborg,Suburban,Midtjylland,4.55,0.67,0.58
+2021-06-18,Q4,H100541,Villa,New Sale,1995,231517,-4.32,4,119,1945.52,698 Sample Street,49994,Aarhus,Suburban,Syddanmark,3.31,3.47,1.27
+2011-12-15,Q1,H100542,Townhouse,New Sale,2011,120305,-1.73,5,215,559.56,853 Sample Street,43725,Aalborg,Urban,Nordjylland,0.53,0.53,1.1
+2019-11-12,Q1,H100543,Villa,New Sale,1957,742924,-4.77,7,203,3659.72,197 Sample Street,82682,Odense,Suburban,Syddanmark,1.34,3.78,1.26
+2021-04-27,Q1,H100544,Apartment,New Sale,1992,489030,3.72,2,246,1987.93,778 Sample Street,10560,Odense,Urban,Hovedstaden,0.95,2.7,2.31
+2019-08-24,Q4,H100545,Villa,Resale,1969,522963,-3.41,6,293,1784.86,774 Sample Street,66565,Odense,Suburban,Nordjylland,2.13,1.63,1.5
+2021-09-08,Q4,H100546,Apartment,Resale,1988,663079,8.1,1,126,5262.53,760 Sample Street,11312,Aarhus,Urban,Hovedstaden,2.76,1.36,2.83
+2023-01-01,Q2,H100547,Apartment,New Sale,1998,209034,2.85,7,146,1431.74,115 Sample Street,28205,Aarhus,Rural,Nordjylland,0.7,0.53,0.95
+2023-04-12,Q3,H100548,Villa,New Sale,2013,528108,5.5,9,228,2316.26,121 Sample Street,21595,Aalborg,Urban,Hovedstaden,2.07,1.32,1.31
+2013-05-28,Q4,H100549,Townhouse,New Sale,2011,644821,1.16,5,50,12896.42,653 Sample Street,97566,Aalborg,Urban,Nordjylland,1.31,0.98,2.38
+2020-02-27,Q3,H100550,Condo,Resale,2003,237256,3.41,5,229,1036.05,65 Sample Street,31329,Aalborg,Urban,Hovedstaden,3.41,2.64,1.68
+2012-12-17,Q3,H100551,Villa,Resale,1958,526128,9.14,4,277,1899.38,276 Sample Street,78187,Aalborg,Suburban,Nordjylland,2.59,1.08,1.69
+2011-04-01,Q3,H100552,Apartment,New Sale,1986,940023,-3.76,3,293,3208.27,825 Sample Street,85542,Copenhagen,Rural,Hovedstaden,2.73,2.35,0.25
+2023-06-26,Q3,H100553,Apartment,Resale,1998,715938,-1.19,9,87,8229.17,239 Sample Street,45645,Odense,Suburban,Nordjylland,2.42,2.57,1.26
+2012-06-13,Q1,H100554,Villa,Resale,1990,705348,6.7,5,60,11755.8,302 Sample Street,97502,Copenhagen,Suburban,Hovedstaden,4.8,1.54,0.89
+2013-10-16,Q3,H100555,Townhouse,New Sale,1966,723984,-3.52,8,278,2604.26,392 Sample Street,97310,Copenhagen,Urban,Midtjylland,1.47,0.62,3.0
+2015-05-13,Q1,H100556,Townhouse,Resale,1970,875626,-3.87,9,122,7177.26,522 Sample Street,79619,Copenhagen,Suburban,Syddanmark,2.82,0.63,0.99
+2018-05-31,Q4,H100557,Apartment,Resale,2000,422047,0.42,5,294,1435.53,969 Sample Street,43513,Copenhagen,Urban,Nordjylland,3.81,0.59,2.67
+2015-06-20,Q1,H100558,Apartment,New Sale,2008,443605,-3.62,9,123,3606.54,369 Sample Street,18749,Odense,Rural,Hovedstaden,3.01,3.09,2.06
+2021-09-25,Q3,H100559,Townhouse,Resale,1988,411447,3.78,2,183,2248.34,233 Sample Street,40783,Copenhagen,Suburban,Midtjylland,4.68,1.61,1.09
+2011-05-20,Q4,H100560,Condo,Resale,2004,292188,-1.61,9,109,2680.62,195 Sample Street,70645,Aalborg,Suburban,Nordjylland,2.2,3.29,1.68
+2013-04-29,Q1,H100561,Villa,New Sale,1990,426047,8.44,4,113,3770.33,907 Sample Street,92861,Aarhus,Suburban,Nordjylland,2.59,2.01,2.54
+2014-03-12,Q3,H100562,Apartment,Resale,1988,903823,6.75,6,66,13694.29,12 Sample Street,63175,Aalborg,Urban,Nordjylland,0.9,2.09,2.66
+2019-06-03,Q4,H100563,Apartment,Resale,1962,287501,5.5,6,261,1101.54,906 Sample Street,94216,Aarhus,Urban,Syddanmark,3.24,2.3,0.57
+2012-04-03,Q3,H100564,Townhouse,New Sale,2013,981298,4.25,6,122,8043.43,921 Sample Street,72709,Aalborg,Suburban,Hovedstaden,1.8,3.0,1.08
+2012-07-17,Q2,H100565,Villa,New Sale,1960,370146,7.95,2,131,2825.54,689 Sample Street,27323,Aalborg,Suburban,Hovedstaden,1.22,1.46,1.07
+2010-05-14,Q2,H100566,Townhouse,New Sale,1968,347675,-1.65,7,195,1782.95,177 Sample Street,60762,Aarhus,Rural,Nordjylland,2.95,0.93,0.22
+2015-10-07,Q4,H100567,Villa,Resale,1960,758175,8.1,6,188,4032.85,217 Sample Street,98220,Odense,Rural,Nordjylland,2.9,2.45,1.83
+2019-12-07,Q4,H100568,Villa,New Sale,1995,579274,6.84,1,43,13471.49,11 Sample Street,74222,Copenhagen,Rural,Nordjylland,0.84,1.64,2.58
+2023-02-02,Q3,H100569,Villa,Resale,1994,868730,6.22,2,254,3420.2,446 Sample Street,44493,Aalborg,Rural,Midtjylland,3.64,2.05,1.21
+2015-01-27,Q1,H100570,Apartment,New Sale,1950,313625,3.42,7,102,3074.75,630 Sample Street,68328,Odense,Rural,Nordjylland,3.31,2.76,2.25
+2023-06-12,Q3,H100571,Condo,Resale,1989,892840,-1.31,1,278,3211.65,164 Sample Street,22213,Copenhagen,Urban,Syddanmark,1.35,2.23,1.92
+2021-06-07,Q4,H100572,Townhouse,New Sale,1968,250339,1.35,1,120,2086.16,551 Sample Street,56930,Odense,Rural,Hovedstaden,2.61,2.67,1.19
+2018-01-12,Q4,H100573,Condo,New Sale,2021,696238,6.9,1,245,2841.79,53 Sample Street,37713,Odense,Rural,Syddanmark,3.74,2.4,0.51
+2018-12-29,Q2,H100574,Townhouse,New Sale,2021,984339,-4.52,8,119,8271.76,218 Sample Street,82723,Copenhagen,Suburban,Nordjylland,2.88,3.09,2.16
+2021-10-08,Q1,H100575,Villa,New Sale,2010,175355,6.73,4,58,3023.36,718 Sample Street,42583,Aalborg,Urban,Midtjylland,2.28,2.97,2.58
+2017-09-12,Q1,H100576,Apartment,Resale,1961,77798,-1.4,4,249,312.44,824 Sample Street,89944,Odense,Rural,Nordjylland,1.95,2.37,2.09
+2013-06-04,Q4,H100577,Condo,New Sale,2010,665937,-2.84,2,244,2729.25,360 Sample Street,32369,Aalborg,Rural,Nordjylland,3.25,2.88,0.15
+2019-08-14,Q2,H100578,Apartment,New Sale,1982,377031,-3.26,1,250,1508.12,385 Sample Street,57928,Aalborg,Rural,Nordjylland,4.73,3.56,0.73
+2013-06-10,Q2,H100579,Townhouse,Resale,1994,69477,-4.59,9,71,978.55,56 Sample Street,78950,Aalborg,Suburban,Nordjylland,3.52,2.01,0.3
+2019-03-31,Q2,H100580,Apartment,New Sale,2018,460482,2.85,7,164,2807.82,118 Sample Street,29510,Copenhagen,Suburban,Nordjylland,0.84,1.94,1.75
+2019-07-19,Q3,H100581,Apartment,Resale,1957,267400,-1.73,4,71,3766.2,900 Sample Street,22120,Aarhus,Suburban,Hovedstaden,2.57,3.17,2.29
+2019-10-25,Q2,H100582,Condo,New Sale,1974,267060,9.84,6,193,1383.73,253 Sample Street,15295,Aalborg,Rural,Syddanmark,4.51,2.54,0.42
+2013-10-28,Q1,H100583,Villa,New Sale,1995,439959,3.62,2,87,5057.0,798 Sample Street,30460,Aarhus,Suburban,Midtjylland,0.93,0.75,2.53
+2019-12-17,Q1,H100584,Apartment,New Sale,1979,561181,-2.93,7,54,10392.24,780 Sample Street,24963,Aarhus,Rural,Nordjylland,4.95,3.62,1.71
+2019-02-13,Q4,H100585,Villa,Resale,1996,557831,5.33,2,102,5468.93,803 Sample Street,87116,Odense,Urban,Midtjylland,4.77,0.61,2.1
+2017-05-27,Q3,H100586,Townhouse,New Sale,1998,963858,8.47,8,158,6100.37,845 Sample Street,97822,Aalborg,Rural,Hovedstaden,0.85,3.12,2.92
+2011-04-16,Q3,H100587,Apartment,New Sale,1996,455105,6.18,8,116,3923.32,180 Sample Street,37328,Aalborg,Suburban,Syddanmark,4.7,3.16,0.34
+2013-09-15,Q1,H100588,Condo,New Sale,1967,336479,-3.85,1,182,1848.79,415 Sample Street,94629,Aalborg,Urban,Nordjylland,2.13,3.84,2.71
+2017-08-15,Q2,H100589,Townhouse,Resale,2015,978758,8.44,8,211,4638.66,870 Sample Street,31605,Aarhus,Rural,Hovedstaden,4.3,0.69,0.47
+2017-10-02,Q1,H100590,Townhouse,Resale,2017,398754,6.91,2,154,2589.31,235 Sample Street,54813,Copenhagen,Urban,Hovedstaden,2.38,2.59,1.24
+2010-12-24,Q2,H100591,Condo,New Sale,1982,323586,-2.63,6,96,3370.69,855 Sample Street,56371,Aarhus,Urban,Syddanmark,2.48,2.0,2.57
+2018-04-08,Q3,H100592,Apartment,Resale,1985,882721,-4.22,1,35,25220.6,708 Sample Street,57598,Aalborg,Urban,Nordjylland,3.35,1.66,2.73
+2011-10-30,Q3,H100593,Apartment,New Sale,1968,890179,3.36,5,154,5780.38,820 Sample Street,70776,Aalborg,Rural,Syddanmark,3.99,0.82,1.57
+2022-03-27,Q4,H100594,Townhouse,New Sale,1977,873759,-2.66,7,82,10655.6,80 Sample Street,82258,Aalborg,Suburban,Syddanmark,0.65,2.47,1.82
+2013-02-19,Q3,H100595,Apartment,New Sale,1989,983703,7.52,1,95,10354.77,647 Sample Street,50969,Aarhus,Rural,Midtjylland,3.17,2.18,2.15
+2021-06-17,Q4,H100596,Villa,New Sale,1964,384971,0.38,2,111,3468.21,22 Sample Street,46912,Aalborg,Suburban,Midtjylland,1.34,0.87,2.52
+2020-03-08,Q3,H100597,Condo,New Sale,1990,680752,8.69,7,116,5868.55,477 Sample Street,48374,Odense,Rural,Syddanmark,2.06,2.64,0.45
+2017-07-08,Q2,H100598,Villa,New Sale,1988,181184,3.49,6,31,5844.65,843 Sample Street,82302,Aalborg,Rural,Midtjylland,2.07,3.08,2.45
+2011-06-24,Q1,H100599,Apartment,New Sale,1951,137051,-2.26,3,233,588.2,440 Sample Street,72784,Copenhagen,Rural,Hovedstaden,2.61,3.19,1.5
+2017-08-11,Q4,H100600,Townhouse,Resale,2012,200653,-2.91,2,179,1120.97,737 Sample Street,59882,Odense,Suburban,Syddanmark,2.0,3.67,1.41
+2023-08-05,Q2,H100601,Condo,Resale,1978,295300,3.65,4,132,2237.12,570 Sample Street,25928,Aalborg,Rural,Nordjylland,0.98,1.93,1.33
+2021-04-29,Q1,H100602,Apartment,Resale,2015,634010,6.43,3,53,11962.45,93 Sample Street,31274,Odense,Urban,Nordjylland,1.16,3.84,1.58
+2023-03-29,Q1,H100603,Apartment,Resale,2000,142036,6.72,7,241,589.36,192 Sample Street,44416,Aalborg,Rural,Hovedstaden,0.65,3.53,2.84
+2020-05-03,Q2,H100604,Townhouse,Resale,1959,802922,-0.86,8,94,8541.72,103 Sample Street,96148,Copenhagen,Urban,Nordjylland,2.62,1.54,1.69
+2016-11-13,Q4,H100605,Townhouse,Resale,1963,197595,-1.94,2,238,830.23,396 Sample Street,70998,Aalborg,Suburban,Nordjylland,4.8,1.06,2.86
+2017-08-11,Q3,H100606,Villa,Resale,2000,903392,-4.75,7,280,3226.4,7 Sample Street,39047,Odense,Suburban,Syddanmark,1.02,2.02,0.62
+2012-07-13,Q1,H100607,Condo,New Sale,2022,822997,5.19,8,146,5636.97,640 Sample Street,53356,Copenhagen,Rural,Hovedstaden,4.76,1.91,2.2
+2018-02-04,Q3,H100608,Condo,New Sale,1988,331696,-3.85,6,145,2287.56,567 Sample Street,47134,Aarhus,Rural,Syddanmark,3.8,2.52,2.46
+2014-05-01,Q2,H100609,Townhouse,New Sale,1977,566612,1.31,6,266,2130.12,231 Sample Street,77042,Copenhagen,Rural,Hovedstaden,3.37,2.54,2.07
+2019-02-07,Q3,H100610,Villa,New Sale,1952,191880,4.03,1,134,1431.94,874 Sample Street,61310,Copenhagen,Urban,Syddanmark,3.4,3.12,1.86
+2022-04-13,Q3,H100611,Condo,Resale,2019,285419,9.06,4,288,991.04,574 Sample Street,90758,Copenhagen,Suburban,Syddanmark,4.22,2.28,1.74
+2010-09-13,Q2,H100612,Townhouse,Resale,1976,204692,-0.32,1,75,2729.23,240 Sample Street,22363,Odense,Urban,Midtjylland,0.98,0.87,2.6
+2023-02-26,Q2,H100613,Apartment,New Sale,1951,313031,-1.25,4,245,1277.68,90 Sample Street,95149,Copenhagen,Urban,Nordjylland,2.77,3.5,2.48
+2015-01-13,Q1,H100614,Condo,New Sale,1987,343946,4.81,2,53,6489.55,232 Sample Street,54563,Aalborg,Rural,Hovedstaden,3.64,1.58,0.45
+2015-04-29,Q3,H100615,Villa,Resale,1952,659312,4.29,5,64,10301.75,457 Sample Street,40628,Copenhagen,Rural,Nordjylland,3.14,3.9,2.56
+2010-01-10,Q1,H100616,Villa,New Sale,1965,538765,-0.02,9,53,10165.38,233 Sample Street,79672,Copenhagen,Urban,Midtjylland,4.25,0.91,1.3
+2017-11-11,Q2,H100617,Villa,New Sale,1989,820097,8.92,3,57,14387.67,354 Sample Street,56246,Aalborg,Urban,Hovedstaden,0.83,3.85,0.84
+2012-03-08,Q2,H100618,Apartment,New Sale,1951,692927,7.67,8,45,15398.38,333 Sample Street,21161,Aalborg,Rural,Midtjylland,3.61,0.82,2.62
+2023-08-13,Q3,H100619,Condo,New Sale,1990,954680,-1.64,3,88,10848.64,439 Sample Street,99110,Aarhus,Rural,Nordjylland,2.9,1.31,1.35
+2012-10-12,Q4,H100620,Condo,Resale,1961,656226,-1.41,6,272,2412.6,375 Sample Street,12810,Copenhagen,Urban,Syddanmark,2.21,0.66,2.44
+2014-12-30,Q4,H100621,Apartment,New Sale,1984,267813,2.68,4,236,1134.8,292 Sample Street,69860,Odense,Rural,Midtjylland,2.03,2.97,0.86
+2022-03-28,Q4,H100622,Condo,New Sale,2014,826388,6.6,8,278,2972.62,345 Sample Street,87199,Copenhagen,Rural,Midtjylland,3.29,3.48,0.11
+2018-08-03,Q2,H100623,Apartment,Resale,2004,434890,-4.34,6,296,1469.22,664 Sample Street,81688,Copenhagen,Urban,Syddanmark,4.51,2.02,1.54
+2016-01-03,Q4,H100624,Apartment,Resale,1994,862481,5.4,8,222,3885.05,428 Sample Street,75548,Aalborg,Urban,Nordjylland,2.73,3.75,0.39
+2010-08-12,Q1,H100625,Apartment,New Sale,2011,389933,4.72,1,247,1578.68,657 Sample Street,72363,Aarhus,Suburban,Midtjylland,4.21,2.57,2.29
+2023-07-20,Q4,H100626,Villa,Resale,1998,658814,-1.53,6,144,4575.1,130 Sample Street,21162,Copenhagen,Urban,Nordjylland,2.31,2.71,0.9
+2021-05-21,Q4,H100627,Condo,New Sale,1974,451062,5.22,1,97,4650.12,141 Sample Street,97858,Odense,Rural,Syddanmark,0.96,3.46,1.39
+2020-09-30,Q1,H100628,Apartment,New Sale,1972,533779,9.1,1,104,5132.49,415 Sample Street,83535,Copenhagen,Urban,Hovedstaden,0.78,1.54,0.35
+2023-02-06,Q4,H100629,Condo,Resale,1973,547952,-4.3,8,132,4151.15,93 Sample Street,17219,Odense,Urban,Midtjylland,0.73,1.74,0.93
+2020-12-14,Q4,H100630,Villa,New Sale,1987,620508,-0.21,7,207,2997.62,626 Sample Street,80864,Aalborg,Urban,Nordjylland,2.21,3.67,2.37
+2014-06-22,Q3,H100631,Apartment,New Sale,1977,882595,1.57,3,244,3617.19,284 Sample Street,13621,Aarhus,Suburban,Syddanmark,2.02,3.65,0.54
+2015-11-23,Q3,H100632,Townhouse,New Sale,1970,446981,8.49,6,68,6573.25,956 Sample Street,99792,Copenhagen,Suburban,Syddanmark,3.73,3.92,1.98
+2011-05-26,Q4,H100633,Villa,New Sale,2003,429270,9.43,9,288,1490.52,923 Sample Street,54433,Aarhus,Rural,Midtjylland,3.84,3.66,2.76
+2011-01-20,Q4,H100634,Townhouse,Resale,1967,917918,1.66,7,233,3939.56,655 Sample Street,86850,Copenhagen,Suburban,Hovedstaden,0.73,0.95,2.07
+2011-02-09,Q2,H100635,Condo,Resale,1985,125277,6.25,3,36,3479.92,223 Sample Street,76188,Odense,Urban,Midtjylland,1.5,3.38,2.45
+2022-08-19,Q2,H100636,Condo,New Sale,1994,569570,2.97,6,78,7302.18,744 Sample Street,64951,Aarhus,Suburban,Nordjylland,1.73,1.93,0.42
+2022-07-08,Q1,H100637,Villa,Resale,2022,533455,3.07,4,55,9699.18,463 Sample Street,91718,Copenhagen,Urban,Syddanmark,2.96,3.97,0.83
+2015-06-24,Q2,H100638,Condo,New Sale,2002,940677,-0.83,3,190,4950.93,545 Sample Street,46558,Aalborg,Suburban,Hovedstaden,1.15,2.15,2.69
+2017-07-19,Q4,H100639,Townhouse,New Sale,1979,172332,-1.75,9,205,840.64,276 Sample Street,25659,Odense,Suburban,Nordjylland,1.1,2.44,2.17
+2014-07-27,Q2,H100640,Apartment,New Sale,2009,284231,-0.68,2,108,2631.77,682 Sample Street,44413,Aarhus,Suburban,Midtjylland,4.75,2.35,1.95
+2013-12-31,Q1,H100641,Apartment,New Sale,1981,597219,3.34,1,31,19265.13,140 Sample Street,20435,Copenhagen,Urban,Syddanmark,4.12,1.63,2.02
+2019-12-16,Q3,H100642,Apartment,New Sale,2016,139116,-4.56,2,161,864.07,357 Sample Street,63911,Aarhus,Suburban,Midtjylland,1.31,0.76,1.3
+2017-06-17,Q4,H100643,Villa,Resale,2016,301671,8.61,7,146,2066.24,713 Sample Street,38067,Copenhagen,Urban,Hovedstaden,2.33,3.63,0.23
+2023-03-03,Q1,H100644,Condo,New Sale,1977,892065,-2.66,1,193,4622.1,23 Sample Street,97794,Odense,Urban,Hovedstaden,2.1,3.31,2.37
+2021-06-10,Q2,H100645,Townhouse,Resale,1993,523918,-1.7,6,57,9191.54,968 Sample Street,79224,Aalborg,Rural,Hovedstaden,4.06,0.99,2.07
+2015-08-11,Q4,H100646,Condo,Resale,1990,626201,2.77,7,30,20873.37,736 Sample Street,83225,Odense,Suburban,Hovedstaden,2.8,3.22,1.47
+2021-05-09,Q2,H100647,Condo,New Sale,2012,824504,5.65,9,217,3799.56,880 Sample Street,11379,Aarhus,Rural,Hovedstaden,1.08,2.69,2.71
+2023-02-02,Q3,H100648,Condo,New Sale,1972,669064,-3.56,8,85,7871.34,270 Sample Street,37624,Aarhus,Rural,Midtjylland,3.83,1.93,1.07
+2011-12-18,Q2,H100649,Apartment,New Sale,1997,75991,-0.23,6,64,1187.36,859 Sample Street,98427,Copenhagen,Urban,Hovedstaden,2.29,1.39,0.95
+2022-06-11,Q4,H100650,Townhouse,New Sale,1981,564265,9.53,3,141,4001.88,665 Sample Street,67745,Odense,Suburban,Hovedstaden,1.68,3.51,2.63
+2023-08-17,Q3,H100651,Townhouse,New Sale,2006,760205,-1.06,8,65,11695.46,333 Sample Street,61805,Copenhagen,Urban,Syddanmark,2.19,2.95,2.41
+2022-07-20,Q4,H100652,Condo,Resale,1982,678380,-0.3,7,246,2757.64,85 Sample Street,22516,Odense,Urban,Hovedstaden,2.74,2.42,1.59
+2014-12-29,Q1,H100653,Apartment,New Sale,1973,279577,7.55,3,109,2564.93,621 Sample Street,89422,Aarhus,Suburban,Syddanmark,2.04,2.63,0.48
+2015-09-13,Q1,H100654,Apartment,New Sale,1988,760672,-4.25,9,112,6791.71,31 Sample Street,95843,Copenhagen,Urban,Syddanmark,1.59,0.82,0.72
+2019-05-13,Q2,H100655,Townhouse,Resale,1983,453777,1.97,2,94,4827.41,741 Sample Street,34843,Copenhagen,Suburban,Syddanmark,2.29,2.16,2.0
+2014-04-24,Q2,H100656,Apartment,Resale,2005,984405,0.69,3,157,6270.1,240 Sample Street,15912,Odense,Suburban,Midtjylland,0.59,1.18,1.22
+2010-09-07,Q4,H100657,Apartment,New Sale,1977,811401,-0.25,2,51,15909.82,890 Sample Street,31514,Aalborg,Urban,Midtjylland,3.98,1.23,2.53
+2011-11-05,Q4,H100658,Apartment,Resale,1986,145556,-0.71,1,245,594.11,363 Sample Street,97359,Odense,Urban,Nordjylland,1.27,2.81,2.85
+2022-05-31,Q2,H100659,Villa,New Sale,1956,899307,-3.63,4,136,6612.55,822 Sample Street,67032,Aalborg,Rural,Nordjylland,0.7,3.69,2.44
+2015-12-06,Q4,H100660,Condo,Resale,2017,206989,-0.28,5,138,1499.92,389 Sample Street,38797,Odense,Urban,Syddanmark,3.44,1.91,1.19
+2012-02-10,Q3,H100661,Townhouse,Resale,1986,374264,-4.35,6,210,1782.21,653 Sample Street,16449,Aarhus,Suburban,Midtjylland,3.98,1.23,2.39
+2020-11-06,Q2,H100662,Townhouse,New Sale,2005,445204,6.71,5,193,2306.76,668 Sample Street,11725,Copenhagen,Rural,Hovedstaden,4.16,2.77,1.12
+2021-12-12,Q2,H100663,Villa,Resale,2014,556961,0.97,1,97,5741.87,299 Sample Street,91406,Odense,Suburban,Nordjylland,2.72,3.55,0.58
+2015-06-08,Q3,H100664,Condo,Resale,2014,946473,1.66,3,209,4528.58,857 Sample Street,19304,Aarhus,Rural,Midtjylland,1.42,3.12,0.2
+2012-12-13,Q4,H100665,Townhouse,Resale,1996,702755,8.4,1,210,3346.45,371 Sample Street,83058,Odense,Urban,Hovedstaden,3.82,3.54,1.22
+2010-08-24,Q2,H100666,Apartment,Resale,1969,570616,4.87,5,198,2881.9,99 Sample Street,23663,Copenhagen,Urban,Hovedstaden,3.65,2.38,2.72
+2011-01-24,Q3,H100667,Townhouse,Resale,1968,457472,-4.88,5,51,8970.04,47 Sample Street,80320,Odense,Urban,Midtjylland,1.61,3.13,0.79
+2018-04-26,Q3,H100668,Apartment,Resale,1978,430634,9.15,6,95,4532.99,839 Sample Street,85008,Aalborg,Suburban,Nordjylland,4.57,0.99,0.7
+2023-04-21,Q3,H100669,Villa,New Sale,2009,793088,-1.44,8,50,15861.76,422 Sample Street,85591,Copenhagen,Rural,Midtjylland,0.97,1.72,2.91
+2015-01-23,Q2,H100670,Apartment,New Sale,1967,700443,-3.39,1,129,5429.79,480 Sample Street,22676,Aalborg,Suburban,Nordjylland,4.92,1.86,0.17
+2022-12-03,Q3,H100671,Townhouse,Resale,1984,340374,6.52,4,132,2578.59,579 Sample Street,35192,Aarhus,Rural,Syddanmark,4.37,2.29,2.38
+2017-09-15,Q1,H100672,Townhouse,New Sale,1992,548682,2.51,1,76,7219.5,62 Sample Street,34722,Aarhus,Urban,Midtjylland,3.6,3.75,1.03
+2019-03-29,Q2,H100673,Townhouse,New Sale,1960,109778,1.51,9,68,1614.38,109 Sample Street,17446,Odense,Suburban,Midtjylland,4.72,3.56,0.21
+2018-12-23,Q3,H100674,Villa,New Sale,1998,95833,-1.26,7,119,805.32,679 Sample Street,14725,Aalborg,Urban,Nordjylland,3.75,0.97,2.76
+2013-06-06,Q4,H100675,Villa,Resale,1987,859057,3.21,7,114,7535.59,549 Sample Street,95597,Aalborg,Suburban,Nordjylland,1.36,1.1,0.5
+2020-11-25,Q3,H100676,Condo,New Sale,2013,606376,-0.88,5,217,2794.36,119 Sample Street,98207,Copenhagen,Urban,Midtjylland,2.49,1.75,1.7
+2022-10-18,Q2,H100677,Townhouse,Resale,2018,785010,8.52,7,188,4175.59,598 Sample Street,67632,Aalborg,Suburban,Hovedstaden,0.82,1.52,0.89
+2015-10-24,Q2,H100678,Apartment,New Sale,1957,416081,-1.77,2,272,1529.71,382 Sample Street,76945,Aalborg,Suburban,Hovedstaden,2.25,2.65,0.29
+2022-05-28,Q2,H100679,Villa,Resale,1983,514507,8.27,4,102,5044.19,392 Sample Street,83741,Copenhagen,Rural,Hovedstaden,3.84,3.66,0.24
+2015-11-21,Q1,H100680,Townhouse,Resale,1997,246375,3.39,7,78,3158.65,977 Sample Street,26365,Copenhagen,Urban,Syddanmark,2.24,3.87,0.44
+2023-04-22,Q2,H100681,Townhouse,New Sale,2005,126361,7.43,3,130,972.01,52 Sample Street,75792,Aalborg,Rural,Syddanmark,1.99,2.79,0.31
+2013-08-22,Q4,H100682,Villa,New Sale,2014,400373,5.69,2,31,12915.26,603 Sample Street,74857,Odense,Rural,Nordjylland,3.18,3.43,2.31
+2013-09-20,Q2,H100683,Condo,Resale,1980,185189,5.45,2,273,678.35,289 Sample Street,25704,Copenhagen,Urban,Syddanmark,4.42,2.34,1.51
+2016-10-18,Q3,H100684,Villa,New Sale,1953,664553,-0.13,1,205,3241.72,337 Sample Street,60575,Copenhagen,Suburban,Hovedstaden,0.71,1.23,1.09
+2022-06-09,Q1,H100685,Villa,New Sale,1999,572154,-1.49,5,267,2142.9,810 Sample Street,39902,Aalborg,Rural,Midtjylland,2.23,2.34,1.31
+2015-07-11,Q4,H100686,Apartment,New Sale,2018,672006,-1.84,6,88,7636.43,204 Sample Street,11195,Aalborg,Urban,Syddanmark,1.21,2.44,2.79
+2013-08-24,Q4,H100687,Apartment,Resale,1979,372854,7.86,6,128,2912.92,880 Sample Street,63517,Copenhagen,Suburban,Syddanmark,3.63,3.1,2.74
+2021-11-23,Q1,H100688,Condo,Resale,2008,669164,7.31,9,31,21585.94,238 Sample Street,44012,Aalborg,Rural,Hovedstaden,0.98,1.27,2.18
+2021-09-01,Q1,H100689,Townhouse,New Sale,2016,80949,1.61,4,272,297.61,382 Sample Street,21415,Copenhagen,Rural,Syddanmark,3.49,1.79,2.67
+2013-09-20,Q3,H100690,Villa,New Sale,1994,990051,-3.01,1,240,4125.21,667 Sample Street,49534,Odense,Rural,Nordjylland,1.79,1.77,1.03
+2022-09-12,Q3,H100691,Condo,New Sale,1953,787242,0.73,6,152,5179.22,752 Sample Street,31686,Odense,Suburban,Midtjylland,1.4,3.86,1.21
+2023-04-17,Q2,H100692,Apartment,Resale,1975,904568,4.29,5,258,3506.08,136 Sample Street,87198,Copenhagen,Rural,Hovedstaden,4.71,2.05,1.88
+2018-09-13,Q2,H100693,Villa,Resale,1976,161541,1.82,6,111,1455.32,407 Sample Street,38743,Copenhagen,Suburban,Nordjylland,0.58,3.14,1.91
+2015-10-30,Q3,H100694,Townhouse,New Sale,1995,769979,6.7,3,173,4450.75,508 Sample Street,42161,Aarhus,Rural,Hovedstaden,2.47,3.13,1.5
+2015-12-21,Q2,H100695,Apartment,New Sale,2013,111842,9.96,2,169,661.79,362 Sample Street,71313,Aarhus,Urban,Nordjylland,0.6,1.43,1.26
+2023-05-25,Q2,H100696,Apartment,New Sale,2000,538019,-2.13,6,58,9276.19,381 Sample Street,12402,Aalborg,Rural,Midtjylland,2.68,2.5,2.96
+2010-05-18,Q1,H100697,Apartment,New Sale,1999,282930,1.89,1,299,946.25,881 Sample Street,73190,Aalborg,Urban,Midtjylland,2.75,3.63,2.48
+2019-07-05,Q3,H100698,Condo,New Sale,1955,339134,1.46,7,276,1228.75,576 Sample Street,62551,Copenhagen,Urban,Nordjylland,1.95,2.16,1.36
+2017-10-03,Q2,H100699,Townhouse,New Sale,2008,721553,-0.43,7,41,17598.85,635 Sample Street,23275,Copenhagen,Urban,Nordjylland,1.09,3.81,2.21
+2019-10-20,Q1,H100700,Villa,Resale,1964,342253,-2.03,7,135,2535.21,254 Sample Street,38182,Aarhus,Suburban,Nordjylland,2.19,1.25,0.88
+2018-04-20,Q4,H100701,Condo,New Sale,1979,180356,-4.01,1,61,2956.66,477 Sample Street,24915,Aarhus,Urban,Nordjylland,3.53,0.76,0.39
+2021-05-27,Q1,H100702,Condo,Resale,1991,986737,8.31,4,103,9579.97,114 Sample Street,10909,Copenhagen,Rural,Nordjylland,4.02,3.62,1.12
+2017-02-06,Q2,H100703,Condo,New Sale,1986,818917,1.3,7,200,4094.58,20 Sample Street,75908,Odense,Suburban,Nordjylland,2.89,3.47,1.27
+2021-10-10,Q4,H100704,Apartment,New Sale,1991,787090,2.45,9,98,8031.53,528 Sample Street,32620,Odense,Urban,Midtjylland,3.15,3.97,0.15
+2020-06-15,Q1,H100705,Townhouse,Resale,1984,964565,8.75,5,166,5810.63,145 Sample Street,44112,Aalborg,Suburban,Nordjylland,1.4,2.88,2.46
+2021-05-01,Q2,H100706,Condo,Resale,1955,739870,6.64,2,129,5735.43,208 Sample Street,84051,Copenhagen,Suburban,Syddanmark,1.79,3.78,1.14
+2020-06-20,Q1,H100707,Villa,Resale,2017,837738,-3.04,7,175,4787.07,531 Sample Street,12431,Copenhagen,Suburban,Midtjylland,1.23,3.39,1.78
+2021-01-25,Q1,H100708,Townhouse,Resale,1967,53849,3.48,1,38,1417.08,376 Sample Street,96590,Aalborg,Rural,Hovedstaden,1.62,3.46,0.31
+2015-03-22,Q1,H100709,Villa,New Sale,2022,62360,1.63,7,91,685.27,504 Sample Street,72175,Aarhus,Urban,Midtjylland,1.51,2.49,0.61
+2012-01-31,Q4,H100710,Townhouse,Resale,1978,423216,6.96,6,214,1977.64,904 Sample Street,42624,Aarhus,Suburban,Hovedstaden,2.84,1.84,2.68
+2019-06-08,Q2,H100711,Villa,New Sale,2008,827567,5.86,7,58,14268.4,166 Sample Street,86121,Odense,Suburban,Hovedstaden,3.03,3.77,1.87
+2012-06-18,Q2,H100712,Apartment,Resale,1996,669055,5.36,3,143,4678.71,550 Sample Street,71264,Copenhagen,Suburban,Syddanmark,4.75,2.01,2.86
+2022-03-14,Q2,H100713,Condo,New Sale,1966,311445,0.11,3,172,1810.73,181 Sample Street,41958,Aarhus,Urban,Nordjylland,1.38,2.39,3.0
+2018-01-26,Q4,H100714,Villa,New Sale,1971,751160,7.07,7,149,5041.34,861 Sample Street,11695,Odense,Suburban,Nordjylland,3.39,2.06,1.18
+2014-09-16,Q4,H100715,Townhouse,New Sale,2017,571658,-4.21,2,199,2872.65,617 Sample Street,59932,Odense,Suburban,Midtjylland,4.18,2.48,0.97
+2010-10-08,Q2,H100716,Condo,New Sale,2018,480179,-2.61,1,186,2581.61,612 Sample Street,54225,Odense,Rural,Nordjylland,3.02,2.15,2.59
+2018-12-11,Q4,H100717,Condo,New Sale,1986,104330,0.03,9,289,361.0,602 Sample Street,11403,Aarhus,Urban,Syddanmark,1.65,0.67,3.0
+2015-03-03,Q3,H100718,Townhouse,New Sale,1998,101707,-3.85,9,111,916.28,927 Sample Street,93346,Aarhus,Rural,Midtjylland,1.68,3.59,1.93
+2018-12-11,Q4,H100719,Villa,Resale,1962,330833,-1.48,7,271,1220.79,812 Sample Street,84391,Copenhagen,Urban,Midtjylland,0.68,2.06,2.41
+2011-10-29,Q2,H100720,Apartment,New Sale,1983,603372,7.45,7,201,3001.85,444 Sample Street,48636,Copenhagen,Urban,Midtjylland,1.87,2.56,2.37
+2021-06-20,Q2,H100721,Apartment,Resale,2002,90387,9.22,3,260,347.64,332 Sample Street,20839,Odense,Urban,Nordjylland,3.85,0.99,1.13
+2011-11-03,Q2,H100722,Villa,Resale,2000,911248,-0.43,2,237,3844.93,503 Sample Street,75546,Odense,Rural,Nordjylland,0.71,0.51,1.77
+2015-05-24,Q2,H100723,Condo,New Sale,1952,576930,-1.03,7,104,5547.4,913 Sample Street,57829,Aarhus,Rural,Nordjylland,1.49,1.36,2.52
+2021-05-19,Q2,H100724,Condo,Resale,1991,878569,-0.8,9,299,2938.36,79 Sample Street,19230,Aarhus,Rural,Midtjylland,3.68,2.97,2.1
+2018-07-20,Q4,H100725,Condo,New Sale,1981,523048,-0.83,1,143,3657.68,585 Sample Street,61977,Copenhagen,Rural,Midtjylland,4.02,0.85,0.16
+2022-11-13,Q1,H100726,Condo,Resale,2000,236633,-4.46,4,91,2600.36,935 Sample Street,50232,Copenhagen,Suburban,Hovedstaden,2.55,3.68,1.08
+2023-01-30,Q4,H100727,Villa,New Sale,1995,898692,8.9,6,131,6860.24,938 Sample Street,35651,Aalborg,Suburban,Hovedstaden,3.64,1.25,0.52
+2020-09-05,Q1,H100728,Condo,Resale,1970,720798,-1.79,7,239,3015.89,688 Sample Street,49963,Copenhagen,Suburban,Nordjylland,2.25,1.22,0.78
+2011-06-08,Q4,H100729,Townhouse,New Sale,1993,884874,1.3,7,284,3115.75,396 Sample Street,65872,Aarhus,Urban,Midtjylland,1.22,1.14,2.73
+2016-07-21,Q4,H100730,Condo,New Sale,1960,939493,-4.85,2,49,19173.33,608 Sample Street,89198,Odense,Suburban,Nordjylland,2.29,0.55,0.21
+2018-07-15,Q2,H100731,Apartment,New Sale,2017,446210,7.87,4,87,5128.85,857 Sample Street,23739,Aalborg,Urban,Nordjylland,3.11,3.2,0.74
+2017-02-06,Q2,H100732,Condo,New Sale,1950,828799,5.97,5,141,5878.01,103 Sample Street,73294,Copenhagen,Rural,Hovedstaden,4.77,3.56,1.0
+2015-05-23,Q2,H100733,Villa,Resale,2012,437988,9.2,1,225,1946.61,402 Sample Street,58356,Copenhagen,Urban,Syddanmark,0.81,2.65,1.89
+2014-10-20,Q2,H100734,Apartment,New Sale,1973,411719,6.72,1,121,3402.64,975 Sample Street,11789,Aarhus,Urban,Nordjylland,2.78,1.16,1.65
+2016-04-15,Q1,H100735,Villa,Resale,1962,838245,-0.29,3,81,10348.7,224 Sample Street,29420,Aalborg,Suburban,Syddanmark,1.98,1.5,0.73
+2016-03-11,Q2,H100736,Villa,Resale,1960,929459,-1.28,3,37,25120.51,518 Sample Street,99297,Copenhagen,Rural,Syddanmark,2.79,2.17,0.58
+2016-04-05,Q1,H100737,Apartment,Resale,2000,959921,5.47,8,127,7558.43,634 Sample Street,47606,Odense,Rural,Midtjylland,0.61,3.84,0.79
+2021-07-04,Q1,H100738,Villa,New Sale,1966,134381,0.46,9,265,507.1,236 Sample Street,48640,Aarhus,Suburban,Midtjylland,1.91,1.37,1.56
+2017-11-18,Q1,H100739,Villa,Resale,1973,824168,3.49,1,98,8409.88,427 Sample Street,54135,Aalborg,Rural,Nordjylland,4.19,3.06,0.89
+2021-05-06,Q2,H100740,Condo,Resale,1968,891708,-4.91,2,74,12050.11,116 Sample Street,47067,Copenhagen,Rural,Hovedstaden,2.99,2.04,2.85
+2019-12-24,Q3,H100741,Townhouse,Resale,1986,877675,-4.07,2,166,5287.2,163 Sample Street,68420,Copenhagen,Rural,Hovedstaden,2.53,1.54,1.45
+2022-02-19,Q3,H100742,Villa,New Sale,1957,243984,3.03,4,263,927.7,226 Sample Street,27357,Aalborg,Suburban,Nordjylland,1.78,2.1,0.27
+2015-08-18,Q4,H100743,Villa,New Sale,1977,110272,3.49,2,61,1807.74,230 Sample Street,49851,Aarhus,Rural,Nordjylland,1.84,0.75,2.21
+2022-12-04,Q2,H100744,Villa,Resale,1954,545916,6.27,7,155,3522.04,182 Sample Street,48262,Aalborg,Urban,Hovedstaden,2.22,3.3,1.05
+2013-06-30,Q2,H100745,Condo,New Sale,1966,747411,-3.02,9,96,7785.53,249 Sample Street,86853,Aalborg,Urban,Syddanmark,4.26,1.35,2.0
+2017-07-29,Q3,H100746,Townhouse,New Sale,1985,788096,2.7,7,59,13357.56,318 Sample Street,68643,Aarhus,Rural,Nordjylland,4.85,3.04,0.91
+2010-10-30,Q2,H100747,Apartment,Resale,1968,303091,-2.08,6,143,2119.52,965 Sample Street,31534,Copenhagen,Suburban,Syddanmark,2.47,0.74,1.76
+2011-10-01,Q1,H100748,Condo,Resale,2013,902050,-3.6,1,233,3871.46,210 Sample Street,42872,Odense,Suburban,Nordjylland,2.27,3.84,2.34
+2010-02-25,Q1,H100749,Condo,New Sale,1960,314064,1.16,9,58,5414.9,656 Sample Street,17689,Aarhus,Suburban,Nordjylland,4.31,1.18,2.79
+2023-03-15,Q1,H100750,Townhouse,Resale,2003,156121,-2.55,5,160,975.76,392 Sample Street,79103,Odense,Rural,Syddanmark,2.42,3.59,0.86
+2011-06-10,Q4,H100751,Townhouse,New Sale,1994,520435,-1.67,5,214,2431.94,857 Sample Street,96268,Copenhagen,Rural,Syddanmark,2.98,3.33,1.07
+2022-07-06,Q4,H100752,Condo,New Sale,1996,651160,-0.24,6,282,2309.08,96 Sample Street,96310,Aalborg,Urban,Hovedstaden,1.54,3.89,1.45
+2021-04-16,Q3,H100753,Apartment,New Sale,1961,917564,-1.11,9,91,10083.12,894 Sample Street,98731,Odense,Suburban,Nordjylland,3.85,2.17,2.79
+2015-10-27,Q1,H100754,Condo,New Sale,1970,314237,-3.69,8,32,9819.91,858 Sample Street,47412,Copenhagen,Urban,Midtjylland,2.89,3.05,2.71
+2019-01-01,Q3,H100755,Townhouse,New Sale,1960,325049,-3.65,8,97,3351.02,756 Sample Street,57734,Copenhagen,Urban,Midtjylland,4.14,1.8,0.36
+2010-12-31,Q4,H100756,Apartment,New Sale,1954,696047,-2.1,8,54,12889.76,86 Sample Street,97793,Aalborg,Suburban,Nordjylland,4.01,1.15,0.48
+2022-08-27,Q1,H100757,Townhouse,Resale,2005,467567,-4.24,1,208,2247.92,415 Sample Street,79930,Aalborg,Rural,Nordjylland,1.47,2.05,1.54
+2023-08-19,Q2,H100758,Apartment,Resale,1969,343125,4.4,1,170,2018.38,394 Sample Street,32228,Copenhagen,Rural,Nordjylland,3.72,1.08,0.41
+2014-07-05,Q4,H100759,Villa,New Sale,1990,910335,-0.69,8,260,3501.29,696 Sample Street,87924,Copenhagen,Urban,Syddanmark,4.1,3.94,1.1
+2012-07-07,Q2,H100760,Townhouse,New Sale,1995,907253,-0.8,5,192,4725.28,633 Sample Street,21319,Odense,Urban,Midtjylland,2.06,0.84,0.53
+2017-08-29,Q3,H100761,Townhouse,New Sale,1961,421344,-0.02,9,159,2649.96,844 Sample Street,16475,Copenhagen,Urban,Midtjylland,1.28,2.56,1.94
+2014-03-12,Q2,H100762,Condo,Resale,2019,132289,4.94,2,275,481.05,501 Sample Street,93694,Copenhagen,Urban,Midtjylland,0.51,2.69,2.85
+2019-02-28,Q1,H100763,Townhouse,New Sale,1966,690794,8.06,9,201,3436.79,604 Sample Street,24728,Odense,Suburban,Nordjylland,2.53,2.38,2.99
+2015-03-22,Q2,H100764,Townhouse,Resale,1968,652801,6.39,8,93,7019.37,582 Sample Street,39545,Aarhus,Urban,Syddanmark,2.09,2.82,1.19
+2018-06-14,Q3,H100765,Villa,New Sale,1975,463090,5.91,9,60,7718.17,916 Sample Street,91686,Odense,Urban,Nordjylland,3.0,0.91,1.84
+2022-07-17,Q1,H100766,Townhouse,New Sale,1997,756291,2.27,4,76,9951.2,133 Sample Street,71756,Odense,Rural,Hovedstaden,1.35,2.44,2.58
+2015-09-07,Q1,H100767,Villa,Resale,2001,450890,5.41,1,159,2835.79,791 Sample Street,78775,Aalborg,Rural,Hovedstaden,4.37,1.51,0.44
+2011-12-15,Q4,H100768,Villa,Resale,2019,362660,3.29,1,139,2609.06,649 Sample Street,48699,Odense,Rural,Midtjylland,1.66,3.79,2.1
+2012-11-28,Q4,H100769,Villa,New Sale,2004,309480,-1.76,5,98,3157.96,314 Sample Street,46821,Copenhagen,Suburban,Nordjylland,1.52,3.17,1.29
+2015-05-31,Q4,H100770,Villa,New Sale,1982,836331,-1.87,2,87,9613.0,699 Sample Street,40615,Copenhagen,Suburban,Hovedstaden,2.66,3.9,0.7
+2013-07-20,Q2,H100771,Apartment,New Sale,2011,766046,-0.55,8,135,5674.41,221 Sample Street,23746,Copenhagen,Rural,Hovedstaden,2.74,0.63,1.27
+2010-05-06,Q2,H100772,Condo,Resale,1972,538067,8.66,5,285,1887.95,976 Sample Street,96457,Aarhus,Rural,Nordjylland,1.47,1.5,0.32
+2022-09-07,Q2,H100773,Apartment,Resale,1964,381356,3.21,5,200,1906.78,438 Sample Street,32745,Copenhagen,Urban,Syddanmark,1.72,1.18,2.12
+2019-11-06,Q1,H100774,Townhouse,Resale,1976,183498,6.01,2,191,960.72,46 Sample Street,11245,Aarhus,Urban,Nordjylland,1.26,0.54,0.83
+2018-12-28,Q4,H100775,Apartment,Resale,2013,304024,0.2,7,100,3040.24,790 Sample Street,34853,Copenhagen,Suburban,Nordjylland,3.73,1.35,1.0
+2014-05-23,Q1,H100776,Apartment,Resale,2000,705258,1.12,8,284,2483.3,192 Sample Street,37632,Odense,Suburban,Syddanmark,3.97,2.88,0.45
+2010-03-08,Q4,H100777,Townhouse,Resale,2002,140009,-3.12,1,84,1666.77,520 Sample Street,22856,Aalborg,Urban,Midtjylland,2.58,1.31,2.61
+2010-08-21,Q1,H100778,Townhouse,New Sale,2000,773858,-2.43,2,32,24183.06,379 Sample Street,66893,Copenhagen,Rural,Midtjylland,3.71,2.28,1.53
+2015-11-27,Q2,H100779,Townhouse,New Sale,1996,473159,7.41,4,55,8602.89,788 Sample Street,80641,Aarhus,Urban,Midtjylland,3.81,3.61,1.76
+2013-03-15,Q4,H100780,Apartment,Resale,1953,771755,3.77,5,155,4979.06,691 Sample Street,78049,Aarhus,Suburban,Syddanmark,1.12,2.93,1.75
+2015-11-29,Q2,H100781,Apartment,New Sale,1956,94816,0.06,2,82,1156.29,334 Sample Street,68182,Aalborg,Suburban,Hovedstaden,4.85,1.88,1.29
+2021-07-08,Q1,H100782,Townhouse,New Sale,1984,54138,7.04,1,227,238.49,39 Sample Street,12801,Copenhagen,Urban,Syddanmark,4.19,1.8,0.66
+2014-02-02,Q3,H100783,Condo,Resale,1997,141176,-1.3,9,217,650.58,293 Sample Street,89431,Odense,Urban,Nordjylland,1.42,2.1,2.26
+2022-12-02,Q2,H100784,Condo,New Sale,2022,388089,9.64,1,215,1805.07,690 Sample Street,49749,Copenhagen,Urban,Syddanmark,1.34,1.12,0.47
+2020-12-21,Q1,H100785,Villa,Resale,2021,840449,0.17,4,233,3607.08,162 Sample Street,83757,Copenhagen,Suburban,Hovedstaden,1.07,2.72,0.4
+2016-10-08,Q2,H100786,Townhouse,Resale,1994,846883,0.06,2,40,21172.08,331 Sample Street,65654,Aalborg,Rural,Hovedstaden,1.12,1.77,2.16
+2017-04-14,Q1,H100787,Villa,New Sale,2021,768316,-0.32,4,175,4390.38,886 Sample Street,81574,Copenhagen,Urban,Nordjylland,3.87,3.48,0.71
+2017-07-02,Q1,H100788,Condo,Resale,1968,406007,-3.17,8,114,3561.46,104 Sample Street,65381,Odense,Suburban,Midtjylland,2.61,3.15,0.99
+2014-10-28,Q3,H100789,Villa,Resale,2012,846710,-3.33,8,129,6563.64,161 Sample Street,68601,Aarhus,Suburban,Hovedstaden,4.02,2.64,1.48
+2019-08-16,Q4,H100790,Townhouse,Resale,1987,271552,4.72,9,133,2041.74,799 Sample Street,25082,Aalborg,Suburban,Hovedstaden,3.86,1.77,1.4
+2015-05-30,Q4,H100791,Townhouse,Resale,2016,93764,8.13,5,75,1250.19,635 Sample Street,24648,Odense,Urban,Hovedstaden,3.22,1.23,2.15
+2016-06-20,Q4,H100792,Townhouse,Resale,2008,173030,6.86,7,73,2370.27,54 Sample Street,10364,Aarhus,Urban,Nordjylland,3.59,3.22,1.91
+2012-05-26,Q3,H100793,Apartment,Resale,2018,968638,-2.88,3,210,4612.56,940 Sample Street,44568,Aalborg,Rural,Hovedstaden,0.58,2.2,1.97
+2020-06-09,Q4,H100794,Villa,Resale,1962,899375,3.18,4,216,4163.77,34 Sample Street,89646,Aalborg,Suburban,Midtjylland,1.9,1.29,2.17
+2019-06-11,Q3,H100795,Condo,Resale,1996,669955,-3.42,9,143,4685.0,242 Sample Street,81494,Aarhus,Urban,Nordjylland,3.37,1.18,0.95
+2013-08-05,Q4,H100796,Condo,New Sale,2010,366462,-4.32,1,284,1290.36,967 Sample Street,84632,Aarhus,Suburban,Midtjylland,0.54,1.08,1.03
+2013-12-31,Q1,H100797,Condo,New Sale,1980,939855,4.85,2,59,15929.75,890 Sample Street,17436,Odense,Suburban,Hovedstaden,0.65,3.22,1.37
+2017-06-02,Q2,H100798,Apartment,New Sale,1971,416142,3.03,5,293,1420.28,113 Sample Street,96713,Copenhagen,Rural,Hovedstaden,4.33,1.3,0.99
+2016-05-13,Q2,H100799,Apartment,Resale,1992,110128,-3.77,3,127,867.15,318 Sample Street,36754,Copenhagen,Urban,Midtjylland,3.58,2.34,2.96
+2014-09-30,Q3,H100800,Townhouse,Resale,2016,269128,-4.48,2,144,1868.94,23 Sample Street,70194,Copenhagen,Urban,Nordjylland,1.69,2.08,2.46
+2014-05-25,Q2,H100801,Condo,New Sale,2003,858301,9.85,1,290,2959.66,558 Sample Street,34544,Copenhagen,Suburban,Nordjylland,3.6,2.53,0.58
+2017-01-07,Q2,H100802,Apartment,New Sale,1959,283540,-4.55,3,236,1201.44,824 Sample Street,70180,Copenhagen,Suburban,Midtjylland,4.07,3.57,0.12
+2019-05-15,Q4,H100803,Townhouse,New Sale,1991,55039,1.67,1,240,229.33,647 Sample Street,73295,Odense,Rural,Hovedstaden,1.88,3.54,0.22
+2019-08-19,Q1,H100804,Condo,Resale,2013,202353,2.57,1,244,829.32,118 Sample Street,22638,Aalborg,Rural,Syddanmark,0.66,2.08,0.81
+2016-07-25,Q2,H100805,Villa,New Sale,1970,162935,-3.24,1,69,2361.38,985 Sample Street,75715,Odense,Rural,Midtjylland,4.7,0.55,0.43
+2020-03-24,Q1,H100806,Townhouse,New Sale,2015,584730,-2.46,8,55,10631.45,701 Sample Street,79409,Odense,Rural,Midtjylland,2.05,1.99,1.65
+2017-11-10,Q2,H100807,Apartment,Resale,1990,910220,0.28,3,56,16253.93,643 Sample Street,93106,Odense,Rural,Midtjylland,0.98,2.62,2.59
+2013-03-06,Q1,H100808,Apartment,New Sale,1973,956161,6.43,1,219,4366.03,934 Sample Street,27157,Aalborg,Rural,Hovedstaden,2.71,2.45,2.24
+2023-04-17,Q3,H100809,Townhouse,Resale,1984,339730,2.61,7,112,3033.3,212 Sample Street,55565,Odense,Suburban,Nordjylland,3.96,2.78,0.73
+2010-08-31,Q4,H100810,Townhouse,Resale,2005,103053,4.57,3,199,517.85,418 Sample Street,79996,Odense,Rural,Hovedstaden,1.5,1.04,1.26
+2017-02-03,Q1,H100811,Apartment,Resale,1979,231561,9.78,8,196,1181.43,113 Sample Street,75888,Aalborg,Suburban,Midtjylland,1.71,2.76,1.57
+2012-11-29,Q2,H100812,Villa,New Sale,2006,788464,6.52,4,217,3633.47,44 Sample Street,66095,Odense,Suburban,Hovedstaden,1.59,1.14,2.45
+2021-11-03,Q4,H100813,Condo,New Sale,1996,136346,1.52,4,198,688.62,128 Sample Street,74947,Copenhagen,Urban,Hovedstaden,4.96,3.13,2.53
+2017-02-08,Q3,H100814,Villa,Resale,1984,379231,1.7,5,258,1469.89,876 Sample Street,97122,Aarhus,Suburban,Midtjylland,1.39,1.69,2.74
+2012-07-08,Q4,H100815,Townhouse,New Sale,1968,455841,4.28,6,126,3617.79,158 Sample Street,80880,Odense,Suburban,Hovedstaden,3.09,2.98,1.58
+2010-01-06,Q2,H100816,Villa,New Sale,1957,608685,4.98,7,45,13526.33,785 Sample Street,14507,Aarhus,Rural,Syddanmark,4.66,0.67,2.11
+2011-04-13,Q1,H100817,Apartment,New Sale,1975,370815,2.51,4,164,2261.07,827 Sample Street,53988,Odense,Suburban,Hovedstaden,1.16,1.93,0.42
+2021-06-02,Q4,H100818,Townhouse,New Sale,2020,166214,4.67,8,55,3022.07,394 Sample Street,26865,Odense,Rural,Hovedstaden,4.87,2.97,1.74
+2010-01-04,Q2,H100819,Condo,Resale,1979,535001,-4.65,6,41,13048.8,867 Sample Street,37213,Copenhagen,Rural,Nordjylland,4.76,1.29,0.82
+2011-10-08,Q4,H100820,Apartment,New Sale,1956,903329,1.44,1,101,8943.85,852 Sample Street,65954,Aalborg,Rural,Nordjylland,4.48,3.28,1.35
+2010-04-28,Q2,H100821,Apartment,Resale,2016,731509,-0.82,1,162,4515.49,512 Sample Street,67450,Aarhus,Urban,Midtjylland,1.47,2.71,1.94
+2018-01-07,Q3,H100822,Condo,Resale,2014,448499,-3.06,9,135,3322.21,914 Sample Street,14477,Aalborg,Rural,Midtjylland,3.35,2.56,0.85
+2016-12-26,Q1,H100823,Condo,New Sale,1985,450826,-3.51,6,249,1810.55,45 Sample Street,72222,Copenhagen,Suburban,Nordjylland,3.92,1.74,0.25
+2021-09-29,Q4,H100824,Villa,Resale,1974,486542,4.05,8,206,2361.85,108 Sample Street,16533,Copenhagen,Rural,Syddanmark,4.94,2.19,0.13
+2012-04-26,Q2,H100825,Townhouse,New Sale,1986,327068,2.85,7,162,2018.94,219 Sample Street,59395,Aarhus,Rural,Hovedstaden,1.31,2.59,0.16
+2017-07-25,Q4,H100826,Condo,New Sale,1950,687431,-1.2,6,51,13479.04,443 Sample Street,33396,Aalborg,Rural,Syddanmark,3.95,2.15,0.12
+2013-02-15,Q2,H100827,Condo,Resale,1964,422397,2.06,4,298,1417.44,830 Sample Street,22755,Copenhagen,Urban,Syddanmark,2.02,2.94,0.42
+2014-12-16,Q3,H100828,Townhouse,Resale,1986,412441,2.38,7,190,2170.74,315 Sample Street,10865,Odense,Suburban,Nordjylland,1.29,2.02,0.79
+2011-12-25,Q2,H100829,Condo,Resale,1962,837301,-2.07,9,136,6156.62,177 Sample Street,21173,Odense,Urban,Midtjylland,2.4,1.21,0.74
+2010-08-13,Q1,H100830,Condo,Resale,1957,933520,4.78,7,264,3536.06,228 Sample Street,68905,Odense,Suburban,Hovedstaden,4.07,1.25,2.96
+2022-09-02,Q2,H100831,Villa,New Sale,1954,837446,6.71,1,47,17818.0,703 Sample Street,48097,Aalborg,Urban,Midtjylland,2.59,0.52,0.99
+2021-07-10,Q3,H100832,Apartment,New Sale,2009,584391,6.87,9,271,2156.42,983 Sample Street,43371,Odense,Suburban,Syddanmark,2.92,1.55,0.47
+2022-09-29,Q2,H100833,Apartment,New Sale,2022,525738,4.04,4,146,3600.95,672 Sample Street,21254,Odense,Urban,Syddanmark,4.98,3.12,1.68
+2015-08-11,Q1,H100834,Apartment,Resale,1950,946749,2.67,3,173,5472.54,906 Sample Street,14018,Copenhagen,Rural,Midtjylland,2.3,3.28,2.59
+2023-01-02,Q4,H100835,Apartment,Resale,1985,476674,-4.08,4,234,2037.07,267 Sample Street,15192,Copenhagen,Urban,Midtjylland,3.27,1.21,2.07
+2022-02-02,Q2,H100836,Condo,Resale,1984,132409,-0.68,4,68,1947.19,870 Sample Street,12015,Odense,Urban,Nordjylland,2.14,3.86,0.96
+2014-04-23,Q2,H100837,Townhouse,New Sale,2015,73248,-3.6,2,183,400.26,838 Sample Street,78916,Odense,Rural,Midtjylland,2.27,2.26,1.73
+2015-01-03,Q1,H100838,Townhouse,Resale,2012,532376,9.46,1,205,2596.96,379 Sample Street,38343,Copenhagen,Rural,Midtjylland,3.63,3.71,2.17
+2015-04-02,Q3,H100839,Villa,New Sale,1972,748876,-2.97,1,270,2773.61,489 Sample Street,79306,Aarhus,Suburban,Nordjylland,4.72,2.97,2.21
+2021-08-05,Q3,H100840,Villa,Resale,1958,996565,-2.72,8,163,6113.9,702 Sample Street,15829,Aalborg,Suburban,Midtjylland,2.94,3.03,2.03
+2015-07-20,Q3,H100841,Condo,New Sale,1983,729530,8.34,2,75,9727.07,687 Sample Street,44381,Aalborg,Suburban,Syddanmark,3.96,0.8,2.63
+2020-04-02,Q4,H100842,Townhouse,New Sale,1995,58024,9.16,5,79,734.48,290 Sample Street,91081,Copenhagen,Urban,Midtjylland,0.9,1.27,2.62
+2012-06-20,Q1,H100843,Townhouse,Resale,1953,525430,6.49,4,195,2694.51,996 Sample Street,28263,Aalborg,Suburban,Hovedstaden,1.45,0.53,1.78
+2023-02-07,Q4,H100844,Apartment,Resale,1979,284864,-4.92,8,135,2110.1,357 Sample Street,63260,Copenhagen,Urban,Syddanmark,2.76,3.01,1.35
+2015-08-02,Q4,H100845,Condo,New Sale,2021,922379,-4.98,2,245,3764.81,657 Sample Street,53306,Copenhagen,Urban,Nordjylland,0.59,1.71,1.96
+2010-01-10,Q4,H100846,Condo,New Sale,1952,224875,0.67,9,175,1285.0,744 Sample Street,68418,Copenhagen,Suburban,Syddanmark,1.64,3.25,2.47
+2010-09-18,Q3,H100847,Apartment,Resale,1963,986800,-2.85,7,101,9770.3,872 Sample Street,10148,Copenhagen,Suburban,Nordjylland,2.83,1.69,0.12
+2014-08-01,Q2,H100848,Condo,Resale,2009,403973,-4.72,7,276,1463.67,950 Sample Street,11754,Aarhus,Urban,Hovedstaden,0.57,3.37,2.98
+2016-01-29,Q4,H100849,Condo,New Sale,1994,929140,1.96,1,215,4321.58,204 Sample Street,36745,Odense,Rural,Hovedstaden,1.69,0.96,0.63
+2015-08-23,Q1,H100850,Villa,Resale,1983,923096,9.15,2,99,9324.2,213 Sample Street,82914,Odense,Rural,Syddanmark,2.81,1.11,1.46
+2020-03-02,Q1,H100851,Townhouse,New Sale,1994,461473,-0.14,4,179,2578.06,552 Sample Street,65833,Aarhus,Urban,Midtjylland,3.08,1.69,2.63
+2014-06-08,Q3,H100852,Condo,New Sale,2010,193927,4.92,4,275,705.19,787 Sample Street,30140,Aalborg,Suburban,Syddanmark,4.67,1.93,0.75
+2010-11-17,Q4,H100853,Villa,Resale,1965,135178,4.78,3,291,464.53,323 Sample Street,84907,Aalborg,Urban,Syddanmark,3.4,1.72,1.48
+2013-09-04,Q3,H100854,Townhouse,Resale,2015,937553,-1.23,7,55,17046.42,594 Sample Street,70653,Odense,Urban,Hovedstaden,2.37,3.17,0.48
+2016-07-04,Q2,H100855,Apartment,Resale,1989,566540,4.76,8,169,3352.31,181 Sample Street,71521,Aalborg,Suburban,Nordjylland,4.69,0.84,1.25
+2017-10-03,Q1,H100856,Villa,Resale,1966,856457,-1.81,2,128,6691.07,499 Sample Street,88315,Odense,Rural,Syddanmark,4.03,1.73,0.61
+2017-09-25,Q1,H100857,Villa,Resale,1983,447674,-3.17,4,80,5595.92,320 Sample Street,41075,Odense,Urban,Midtjylland,1.4,3.43,1.15
+2015-06-18,Q3,H100858,Townhouse,New Sale,1965,113610,5.52,3,180,631.17,83 Sample Street,40697,Aarhus,Rural,Hovedstaden,1.09,0.73,1.18
+2018-02-06,Q3,H100859,Apartment,New Sale,2009,645131,-3.3,2,133,4850.61,303 Sample Street,64544,Aalborg,Rural,Syddanmark,3.54,3.8,2.98
+2015-08-01,Q4,H100860,Villa,Resale,2015,681525,9.95,6,118,5775.64,262 Sample Street,19795,Aarhus,Suburban,Syddanmark,3.02,3.95,2.98
+2019-07-23,Q3,H100861,Condo,Resale,2015,527177,-2.25,4,170,3101.04,784 Sample Street,74555,Odense,Urban,Midtjylland,4.05,0.81,0.43
+2020-01-26,Q1,H100862,Condo,Resale,1962,755191,3.91,6,242,3120.62,200 Sample Street,62204,Odense,Urban,Syddanmark,3.82,1.52,2.21
+2013-01-23,Q4,H100863,Condo,New Sale,2005,748787,1.17,2,262,2857.97,240 Sample Street,79754,Odense,Rural,Syddanmark,3.31,1.8,0.25
+2014-05-24,Q3,H100864,Apartment,Resale,1980,537025,-3.1,4,212,2533.14,914 Sample Street,74860,Copenhagen,Rural,Syddanmark,4.94,3.22,0.19
+2021-01-10,Q4,H100865,Villa,Resale,1983,704587,-4.58,6,280,2516.38,692 Sample Street,61529,Copenhagen,Suburban,Syddanmark,2.9,2.59,0.41
+2010-08-24,Q3,H100866,Condo,New Sale,1988,481722,4.34,5,38,12676.89,944 Sample Street,21672,Copenhagen,Rural,Midtjylland,1.01,2.76,2.9
+2015-05-24,Q3,H100867,Apartment,New Sale,2016,55668,7.1,3,108,515.44,683 Sample Street,64238,Aarhus,Suburban,Syddanmark,4.23,3.15,2.83
+2022-02-16,Q2,H100868,Condo,Resale,1957,272542,7.63,8,81,3364.72,295 Sample Street,45950,Odense,Urban,Syddanmark,1.63,0.91,0.66
+2015-03-24,Q3,H100869,Townhouse,Resale,2004,228267,2.24,7,298,766.0,512 Sample Street,21009,Aalborg,Suburban,Syddanmark,4.0,3.42,0.57
+2011-01-11,Q4,H100870,Villa,Resale,1976,909665,6.66,3,255,3567.31,689 Sample Street,57096,Aarhus,Rural,Hovedstaden,4.81,2.97,0.8
+2019-09-01,Q3,H100871,Villa,New Sale,2002,205489,5.09,6,80,2568.61,881 Sample Street,29544,Aarhus,Urban,Midtjylland,3.64,2.52,1.6
+2017-03-20,Q2,H100872,Apartment,Resale,1988,394126,5.86,4,215,1833.14,396 Sample Street,65728,Aarhus,Suburban,Hovedstaden,3.18,3.61,1.75
+2014-04-20,Q3,H100873,Apartment,Resale,2014,680421,2.39,5,63,10800.33,749 Sample Street,39381,Aalborg,Urban,Hovedstaden,2.57,2.95,0.74
+2017-01-04,Q4,H100874,Villa,Resale,1966,847183,4.5,5,259,3270.98,138 Sample Street,35287,Odense,Suburban,Midtjylland,2.14,1.21,2.29
+2019-04-15,Q2,H100875,Condo,New Sale,1979,358362,7.08,7,160,2239.76,839 Sample Street,74610,Copenhagen,Rural,Hovedstaden,2.09,2.0,1.0
+2018-02-13,Q2,H100876,Condo,New Sale,2002,963081,0.97,5,149,6463.63,878 Sample Street,78122,Odense,Rural,Hovedstaden,3.36,2.23,2.77
+2019-12-23,Q3,H100877,Townhouse,Resale,1962,843784,7.09,3,276,3057.19,823 Sample Street,78184,Odense,Urban,Hovedstaden,3.88,0.69,2.0
+2020-07-17,Q4,H100878,Condo,Resale,1970,784412,3.88,5,221,3549.38,129 Sample Street,50081,Aarhus,Urban,Midtjylland,3.55,3.84,1.37
+2012-05-22,Q3,H100879,Apartment,New Sale,1968,138835,-2.51,7,239,580.9,49 Sample Street,93637,Aarhus,Urban,Syddanmark,1.39,0.95,2.39
+2013-06-06,Q3,H100880,Apartment,New Sale,2002,671781,-4.63,5,132,5089.25,676 Sample Street,55312,Aarhus,Suburban,Nordjylland,2.72,2.94,2.47
+2013-08-07,Q1,H100881,Condo,New Sale,1968,865359,0.44,5,162,5341.72,789 Sample Street,97228,Copenhagen,Rural,Nordjylland,4.06,2.27,0.94
+2023-03-14,Q3,H100882,Apartment,New Sale,2006,746454,3.2,9,168,4443.18,293 Sample Street,82943,Copenhagen,Urban,Midtjylland,2.64,0.59,1.09
+2017-12-08,Q4,H100883,Villa,New Sale,1974,151948,7.6,3,150,1012.99,628 Sample Street,92790,Copenhagen,Urban,Nordjylland,2.91,3.74,2.81
+2010-03-19,Q3,H100884,Villa,New Sale,1980,235194,-3.09,6,123,1912.15,536 Sample Street,90770,Odense,Urban,Midtjylland,3.97,3.48,0.58
+2017-03-06,Q1,H100885,Condo,New Sale,2004,603781,7.0,1,158,3821.4,311 Sample Street,62726,Aarhus,Suburban,Midtjylland,3.48,2.33,0.22
+2021-07-29,Q3,H100886,Villa,New Sale,1972,516755,7.95,5,120,4306.29,537 Sample Street,32211,Aalborg,Urban,Nordjylland,2.34,1.3,1.42
+2011-08-24,Q2,H100887,Villa,New Sale,1981,343851,-2.74,8,121,2841.74,903 Sample Street,39480,Odense,Urban,Hovedstaden,4.53,0.93,2.42
+2012-12-01,Q4,H100888,Townhouse,Resale,2011,774174,7.77,5,92,8414.93,639 Sample Street,57780,Copenhagen,Suburban,Syddanmark,1.23,1.77,2.34
+2015-11-07,Q2,H100889,Townhouse,Resale,1959,188368,9.87,9,58,3247.72,234 Sample Street,67138,Aalborg,Suburban,Nordjylland,4.98,1.39,2.77
+2016-09-15,Q2,H100890,Villa,Resale,2021,206470,5.9,6,239,863.89,209 Sample Street,52503,Aalborg,Urban,Nordjylland,1.03,2.27,1.65
+2016-06-01,Q2,H100891,Condo,New Sale,2003,347986,6.77,8,41,8487.46,605 Sample Street,67893,Aarhus,Urban,Nordjylland,0.57,3.88,0.39
+2015-02-07,Q3,H100892,Townhouse,Resale,2001,63261,9.92,8,159,397.87,94 Sample Street,56193,Aalborg,Suburban,Nordjylland,4.51,2.51,1.81
+2013-08-11,Q3,H100893,Apartment,New Sale,1969,126709,4.08,3,202,627.27,327 Sample Street,71358,Copenhagen,Rural,Midtjylland,1.6,3.61,2.36
+2022-11-25,Q1,H100894,Apartment,New Sale,1981,670273,-0.38,7,237,2828.16,225 Sample Street,90857,Aarhus,Suburban,Midtjylland,3.78,2.78,0.37
+2019-11-07,Q1,H100895,Apartment,Resale,1963,418760,7.56,7,53,7901.13,967 Sample Street,88182,Aalborg,Rural,Syddanmark,4.15,2.16,0.6
+2020-04-20,Q2,H100896,Condo,New Sale,1999,903605,4.22,6,128,7059.41,890 Sample Street,32117,Aarhus,Urban,Syddanmark,4.37,3.49,0.14
+2022-10-15,Q3,H100897,Villa,Resale,1977,343925,3.72,7,168,2047.17,792 Sample Street,69056,Aalborg,Urban,Nordjylland,4.96,2.15,1.82
+2015-12-31,Q4,H100898,Apartment,Resale,2002,325796,-1.2,2,203,1604.91,11 Sample Street,68706,Odense,Rural,Nordjylland,1.82,3.54,2.67
+2012-09-19,Q4,H100899,Condo,Resale,1973,317247,6.35,9,58,5469.78,329 Sample Street,80429,Odense,Suburban,Nordjylland,3.7,1.52,2.04
+2017-06-05,Q1,H100900,Townhouse,New Sale,1971,337644,-3.77,1,172,1963.05,12 Sample Street,19476,Copenhagen,Urban,Syddanmark,1.02,0.95,2.95
+2016-01-02,Q2,H100901,Villa,Resale,1979,820692,8.86,1,71,11559.04,35 Sample Street,92806,Odense,Rural,Nordjylland,2.33,3.49,0.28
+2013-06-02,Q2,H100902,Townhouse,New Sale,2012,674624,-0.11,3,237,2846.51,447 Sample Street,65006,Odense,Suburban,Hovedstaden,4.32,2.56,2.72
+2018-05-13,Q3,H100903,Condo,Resale,1953,478745,-3.08,3,221,2166.27,452 Sample Street,97238,Odense,Rural,Syddanmark,2.15,3.61,2.46
+2022-08-04,Q2,H100904,Apartment,Resale,2008,687787,1.64,1,189,3639.08,740 Sample Street,79918,Aalborg,Suburban,Hovedstaden,3.16,3.78,1.01
+2021-01-16,Q4,H100905,Apartment,Resale,1957,723812,-4.36,7,93,7782.92,220 Sample Street,73155,Aalborg,Suburban,Nordjylland,2.77,0.69,2.92
+2015-06-21,Q2,H100906,Condo,New Sale,1961,885825,5.27,4,272,3256.71,441 Sample Street,77321,Aarhus,Suburban,Midtjylland,3.41,2.25,0.94
+2023-06-18,Q1,H100907,Apartment,New Sale,1980,474390,8.54,2,287,1652.93,653 Sample Street,55798,Aalborg,Suburban,Hovedstaden,4.88,1.81,2.68
+2020-02-05,Q3,H100908,Villa,New Sale,1983,507666,7.56,5,181,2804.78,535 Sample Street,87271,Odense,Rural,Syddanmark,0.75,2.69,2.65
+2015-11-22,Q2,H100909,Condo,Resale,1998,740796,-3.09,6,244,3036.05,595 Sample Street,40177,Aalborg,Rural,Hovedstaden,3.08,3.28,2.3
+2021-01-01,Q2,H100910,Townhouse,Resale,2006,359550,-3.11,9,195,1843.85,229 Sample Street,92215,Copenhagen,Rural,Syddanmark,4.38,1.48,1.73
+2018-07-08,Q1,H100911,Condo,New Sale,1975,375203,7.2,4,60,6253.38,935 Sample Street,53013,Aarhus,Rural,Nordjylland,2.67,2.45,0.45
+2015-05-25,Q2,H100912,Villa,New Sale,1967,721314,8.86,2,261,2763.66,344 Sample Street,92600,Aarhus,Rural,Hovedstaden,0.85,2.98,1.64
+2010-07-17,Q3,H100913,Villa,New Sale,1987,394866,1.91,5,58,6808.03,80 Sample Street,63450,Aalborg,Suburban,Midtjylland,3.02,0.97,1.13
+2017-03-11,Q1,H100914,Condo,New Sale,1999,825107,2.48,3,224,3683.51,353 Sample Street,57928,Odense,Urban,Hovedstaden,1.99,3.35,2.4
+2013-04-17,Q1,H100915,Condo,New Sale,1957,586644,-0.23,2,285,2058.4,396 Sample Street,55382,Aarhus,Urban,Midtjylland,1.2,2.62,2.3
+2015-07-29,Q4,H100916,Apartment,New Sale,1990,702416,8.41,1,116,6055.31,290 Sample Street,95038,Copenhagen,Rural,Syddanmark,4.32,3.82,2.74
+2011-04-23,Q1,H100917,Villa,Resale,1955,52187,4.67,2,178,293.19,455 Sample Street,10760,Copenhagen,Rural,Nordjylland,2.85,1.69,0.14
+2013-06-08,Q2,H100918,Condo,New Sale,2018,913675,-0.68,6,278,3286.6,843 Sample Street,34142,Aarhus,Urban,Nordjylland,4.7,0.88,2.45
+2012-07-11,Q4,H100919,Condo,Resale,1993,871530,-0.52,8,227,3839.34,671 Sample Street,27290,Odense,Suburban,Midtjylland,4.13,2.27,2.82
+2011-02-24,Q2,H100920,Villa,Resale,2013,535687,8.37,3,73,7338.18,989 Sample Street,81035,Odense,Rural,Syddanmark,3.62,0.8,2.39
+2016-01-14,Q4,H100921,Condo,New Sale,1978,726585,-4.8,9,57,12747.11,128 Sample Street,10364,Aalborg,Suburban,Nordjylland,0.52,3.89,0.48
+2017-02-10,Q4,H100922,Apartment,New Sale,1977,708966,-0.16,9,46,15412.3,702 Sample Street,66921,Aalborg,Urban,Syddanmark,2.43,0.64,0.34
+2013-01-25,Q3,H100923,Villa,Resale,1960,894052,3.32,2,156,5731.1,909 Sample Street,29797,Aarhus,Urban,Midtjylland,1.39,3.14,0.16
+2018-05-27,Q1,H100924,Apartment,New Sale,2014,476044,-2.78,8,197,2416.47,543 Sample Street,42535,Aalborg,Rural,Midtjylland,4.6,2.34,1.92
+2012-08-08,Q1,H100925,Apartment,New Sale,1968,176270,-3.62,5,273,645.68,898 Sample Street,56300,Aalborg,Suburban,Hovedstaden,1.29,1.79,1.93
+2016-05-25,Q4,H100926,Apartment,Resale,1958,993993,7.23,4,105,9466.6,359 Sample Street,57176,Aalborg,Rural,Nordjylland,1.79,0.73,2.96
+2016-02-22,Q4,H100927,Apartment,Resale,1976,850819,8.42,5,260,3272.38,527 Sample Street,26105,Copenhagen,Urban,Nordjylland,2.83,2.68,1.25
+2017-03-30,Q2,H100928,Villa,Resale,1983,381607,7.35,4,233,1637.8,313 Sample Street,17939,Aalborg,Suburban,Hovedstaden,1.69,2.55,1.06
+2015-02-01,Q1,H100929,Apartment,New Sale,1993,817286,8.48,8,277,2950.49,75 Sample Street,89472,Aarhus,Rural,Midtjylland,1.44,1.48,1.91
+2022-08-18,Q2,H100930,Apartment,Resale,2017,970095,3.3,4,243,3992.16,546 Sample Street,52029,Odense,Rural,Midtjylland,3.2,3.69,2.49
+2015-02-09,Q2,H100931,Condo,New Sale,1964,815791,7.18,6,244,3343.41,871 Sample Street,25863,Aalborg,Rural,Midtjylland,0.9,1.56,2.82
+2017-12-22,Q1,H100932,Villa,Resale,2000,403827,0.76,2,187,2159.5,196 Sample Street,88097,Odense,Urban,Midtjylland,0.76,2.07,2.43
+2017-10-24,Q4,H100933,Villa,Resale,1962,636349,4.99,5,98,6493.36,843 Sample Street,20447,Aalborg,Rural,Syddanmark,2.18,2.4,1.34
+2023-06-12,Q2,H100934,Townhouse,Resale,1998,809785,9.83,6,114,7103.38,29 Sample Street,56940,Aarhus,Suburban,Nordjylland,3.74,0.85,1.94
+2018-11-03,Q2,H100935,Villa,New Sale,2019,131257,-1.61,5,296,443.44,706 Sample Street,87947,Copenhagen,Rural,Nordjylland,3.0,3.76,2.58
+2020-03-08,Q2,H100936,Villa,New Sale,2005,111753,0.85,2,98,1140.34,16 Sample Street,95001,Aarhus,Urban,Midtjylland,2.4,1.81,1.52
+2018-11-03,Q1,H100937,Townhouse,Resale,2000,921206,2.2,7,128,7196.92,423 Sample Street,29642,Copenhagen,Rural,Midtjylland,3.05,0.78,0.73
+2016-06-29,Q4,H100938,Villa,Resale,1986,454303,-2.93,4,245,1854.3,589 Sample Street,77643,Aalborg,Urban,Midtjylland,2.14,1.86,0.59
+2017-12-01,Q4,H100939,Villa,Resale,1966,474032,-3.78,8,190,2494.91,805 Sample Street,17928,Aalborg,Urban,Nordjylland,4.71,2.6,0.1
+2020-04-14,Q3,H100940,Villa,New Sale,2007,73408,7.45,7,123,596.81,593 Sample Street,58002,Copenhagen,Suburban,Nordjylland,0.75,2.3,2.18
+2021-07-27,Q1,H100941,Villa,Resale,1978,174116,9.65,7,203,857.71,405 Sample Street,94853,Aarhus,Suburban,Midtjylland,3.53,2.93,0.42
+2010-04-05,Q2,H100942,Townhouse,New Sale,1982,705496,1.07,9,194,3636.58,940 Sample Street,35017,Aarhus,Rural,Syddanmark,4.51,0.69,0.81
+2017-04-28,Q2,H100943,Villa,Resale,2009,67413,-3.69,1,144,468.15,636 Sample Street,89064,Copenhagen,Urban,Hovedstaden,4.12,1.5,0.96
+2015-05-10,Q3,H100944,Villa,Resale,2004,687938,-4.01,6,249,2762.8,531 Sample Street,23313,Aalborg,Urban,Hovedstaden,1.33,3.37,1.73
+2012-03-04,Q1,H100945,Townhouse,Resale,1959,109500,8.37,6,60,1825.0,967 Sample Street,11559,Copenhagen,Suburban,Hovedstaden,1.83,0.78,1.25
+2015-01-09,Q2,H100946,Condo,Resale,1996,920946,1.96,6,40,23023.65,614 Sample Street,60893,Aalborg,Suburban,Nordjylland,3.73,3.49,2.06
+2015-10-18,Q2,H100947,Apartment,Resale,1972,106358,-0.2,6,159,668.92,904 Sample Street,25167,Copenhagen,Rural,Nordjylland,0.88,0.82,0.26
+2021-03-30,Q3,H100948,Condo,Resale,1970,116197,2.15,7,134,867.14,77 Sample Street,90879,Aalborg,Urban,Hovedstaden,4.15,3.42,0.46
+2019-02-08,Q2,H100949,Townhouse,New Sale,1962,543992,-0.23,6,56,9714.14,229 Sample Street,48598,Copenhagen,Suburban,Hovedstaden,3.74,1.76,1.55
+2017-12-29,Q4,H100950,Apartment,Resale,1982,798149,2.34,1,256,3117.77,962 Sample Street,17523,Odense,Rural,Syddanmark,3.78,2.64,1.08
+2017-02-10,Q3,H100951,Townhouse,New Sale,1973,273492,7.89,3,31,8822.32,297 Sample Street,59777,Aalborg,Urban,Nordjylland,0.95,1.04,0.96
+2018-10-11,Q2,H100952,Townhouse,Resale,1960,835833,3.88,2,130,6429.48,510 Sample Street,38439,Aarhus,Urban,Nordjylland,3.73,0.73,0.29
+2023-03-01,Q4,H100953,Villa,Resale,1966,476070,5.42,6,50,9521.4,715 Sample Street,91060,Copenhagen,Suburban,Hovedstaden,3.56,1.26,2.7
+2012-03-25,Q1,H100954,Apartment,New Sale,2017,126240,0.47,8,87,1451.03,984 Sample Street,23285,Aarhus,Rural,Syddanmark,4.24,0.95,2.11
+2010-12-12,Q1,H100955,Villa,Resale,1996,285595,6.08,3,209,1366.48,966 Sample Street,20973,Copenhagen,Suburban,Syddanmark,0.69,1.59,0.45
+2016-06-07,Q1,H100956,Apartment,New Sale,1974,572710,5.0,8,49,11687.96,573 Sample Street,32694,Aarhus,Rural,Hovedstaden,0.6,2.3,0.29
+2010-12-29,Q2,H100957,Townhouse,New Sale,2022,795423,-3.21,8,284,2800.79,538 Sample Street,45774,Aarhus,Urban,Hovedstaden,2.18,2.56,2.93
+2016-09-09,Q3,H100958,Townhouse,Resale,1970,328466,3.59,5,67,4902.48,583 Sample Street,14302,Copenhagen,Rural,Nordjylland,1.17,3.26,2.08
+2016-03-15,Q3,H100959,Condo,New Sale,1961,949485,-1.15,8,177,5364.32,615 Sample Street,32391,Copenhagen,Rural,Hovedstaden,3.01,2.8,1.31
+2015-12-29,Q3,H100960,Apartment,New Sale,1986,56968,7.06,6,54,1054.96,979 Sample Street,14611,Aarhus,Rural,Midtjylland,4.63,2.63,2.14
+2018-03-25,Q2,H100961,Villa,Resale,1991,339662,1.39,5,150,2264.41,326 Sample Street,19372,Aarhus,Rural,Syddanmark,2.26,1.94,2.29
+2018-12-26,Q3,H100962,Condo,New Sale,1966,888357,9.92,9,55,16151.95,363 Sample Street,34312,Aarhus,Rural,Hovedstaden,4.3,2.16,2.36
+2012-09-11,Q3,H100963,Condo,Resale,1997,240920,-3.61,7,198,1216.77,669 Sample Street,24080,Aalborg,Suburban,Midtjylland,0.5,1.95,1.49
+2014-06-28,Q3,H100964,Condo,Resale,1977,948332,6.71,8,254,3733.59,875 Sample Street,90618,Aalborg,Rural,Syddanmark,1.26,3.45,1.35
+2012-04-07,Q2,H100965,Villa,Resale,1990,929854,5.11,1,30,30995.13,359 Sample Street,30874,Odense,Rural,Midtjylland,0.64,1.31,0.13
+2017-06-23,Q3,H100966,Condo,Resale,1996,313844,6.51,2,290,1082.22,706 Sample Street,72537,Aalborg,Urban,Midtjylland,1.98,0.52,2.79
+2019-09-02,Q1,H100967,Villa,New Sale,1967,930214,-0.39,8,42,22147.95,787 Sample Street,83914,Aalborg,Rural,Hovedstaden,4.59,2.78,1.85
+2022-03-10,Q4,H100968,Condo,Resale,2020,282076,2.38,9,77,3663.32,324 Sample Street,11597,Copenhagen,Urban,Syddanmark,0.94,1.21,0.69
+2018-01-14,Q2,H100969,Villa,Resale,1962,73199,6.95,4,123,595.11,698 Sample Street,21600,Odense,Suburban,Midtjylland,3.23,3.62,2.77
+2020-08-12,Q3,H100970,Townhouse,New Sale,1962,487805,-1.51,9,290,1682.09,326 Sample Street,13747,Odense,Suburban,Nordjylland,2.53,3.51,2.75
+2010-05-07,Q2,H100971,Townhouse,Resale,1980,213187,-1.61,4,234,911.06,625 Sample Street,89415,Aalborg,Rural,Syddanmark,4.72,0.77,2.97
+2018-09-13,Q2,H100972,Townhouse,Resale,1951,505150,3.27,9,214,2360.51,825 Sample Street,88553,Copenhagen,Suburban,Nordjylland,1.05,0.87,2.63
+2018-05-15,Q1,H100973,Townhouse,New Sale,1965,559551,2.85,7,204,2742.9,165 Sample Street,34815,Copenhagen,Rural,Hovedstaden,1.45,2.23,2.99
+2011-08-27,Q3,H100974,Townhouse,New Sale,1958,563942,-0.77,2,98,5754.51,573 Sample Street,94500,Odense,Suburban,Nordjylland,0.63,2.63,0.81
+2019-06-12,Q4,H100975,Condo,New Sale,2022,759676,-0.53,9,133,5711.85,604 Sample Street,34714,Copenhagen,Rural,Syddanmark,2.45,1.46,2.54
+2021-05-09,Q3,H100976,Condo,New Sale,1987,55520,-0.83,4,275,201.89,798 Sample Street,28890,Aarhus,Rural,Midtjylland,1.75,3.01,2.49
+2019-09-04,Q3,H100977,Condo,New Sale,2003,684102,6.57,8,190,3600.54,455 Sample Street,71509,Aalborg,Urban,Midtjylland,4.41,2.58,0.77
+2019-03-22,Q3,H100978,Villa,New Sale,2005,217527,4.78,7,229,949.9,969 Sample Street,71824,Aarhus,Urban,Syddanmark,3.22,1.64,0.39
+2019-03-23,Q2,H100979,Villa,New Sale,1994,820644,7.49,7,245,3349.57,153 Sample Street,14725,Odense,Urban,Midtjylland,3.26,0.59,2.94
+2020-05-25,Q1,H100980,Villa,Resale,1983,697652,9.63,8,241,2894.82,737 Sample Street,53205,Odense,Urban,Nordjylland,2.89,3.13,0.96
+2014-11-28,Q1,H100981,Villa,New Sale,1958,589243,2.11,1,45,13094.29,127 Sample Street,30684,Copenhagen,Rural,Midtjylland,0.91,1.25,2.63
+2017-11-01,Q2,H100982,Townhouse,New Sale,1957,225121,-4.0,5,234,962.06,193 Sample Street,67911,Copenhagen,Suburban,Midtjylland,2.5,3.42,0.11
+2019-07-09,Q1,H100983,Townhouse,New Sale,1956,719277,-4.28,2,68,10577.6,627 Sample Street,23092,Odense,Rural,Nordjylland,5.0,1.97,0.16
+2019-05-11,Q2,H100984,Townhouse,Resale,1985,521797,-0.57,2,118,4422.01,774 Sample Street,49770,Odense,Urban,Nordjylland,4.26,2.52,1.45
+2014-07-04,Q1,H100985,Apartment,Resale,1967,300144,8.99,1,285,1053.14,530 Sample Street,35457,Aarhus,Urban,Nordjylland,4.52,3.56,0.79
+2013-04-20,Q3,H100986,Condo,New Sale,1952,114925,2.85,5,283,406.1,10 Sample Street,81667,Aarhus,Suburban,Hovedstaden,4.2,3.52,2.1
+2018-04-19,Q1,H100987,Villa,New Sale,1977,419360,-0.92,2,245,1711.67,92 Sample Street,72894,Copenhagen,Urban,Nordjylland,0.96,1.8,1.74
+2017-11-12,Q1,H100988,Villa,New Sale,2019,644557,0.99,4,201,3206.75,139 Sample Street,71305,Aarhus,Rural,Nordjylland,1.52,1.23,0.32
+2018-05-31,Q3,H100989,Townhouse,Resale,1993,998458,3.98,3,166,6014.81,481 Sample Street,22612,Copenhagen,Rural,Hovedstaden,0.51,3.21,0.57
+2015-01-29,Q4,H100990,Villa,Resale,1970,353602,4.79,3,207,1708.22,449 Sample Street,88627,Copenhagen,Rural,Midtjylland,1.87,2.02,1.23
+2021-01-04,Q4,H100991,Villa,New Sale,1977,401181,-2.69,2,106,3784.73,333 Sample Street,47089,Aalborg,Rural,Nordjylland,0.99,1.17,0.64
+2022-10-07,Q4,H100992,Condo,Resale,2003,726473,9.66,6,217,3347.8,869 Sample Street,62137,Copenhagen,Rural,Syddanmark,2.63,3.67,2.4
+2017-06-01,Q3,H100993,Townhouse,New Sale,2003,149977,3.17,2,44,3408.57,340 Sample Street,10559,Aarhus,Suburban,Nordjylland,3.55,1.19,1.31
+2019-08-04,Q3,H100994,Condo,Resale,2014,555838,-2.96,8,243,2287.4,961 Sample Street,76249,Odense,Rural,Nordjylland,4.44,0.59,0.37
+2013-08-25,Q2,H100995,Apartment,Resale,1970,569163,8.4,8,237,2401.53,52 Sample Street,47361,Odense,Urban,Hovedstaden,3.87,0.57,1.5
+2010-07-21,Q2,H100996,Apartment,New Sale,1962,533442,-3.88,5,198,2694.15,707 Sample Street,90720,Aarhus,Urban,Syddanmark,4.72,2.68,0.36
+2019-08-09,Q4,H100997,Apartment,New Sale,2006,880371,8.62,7,175,5030.69,466 Sample Street,25261,Odense,Urban,Midtjylland,0.74,2.82,0.47
+2021-07-14,Q1,H100998,Townhouse,New Sale,1998,79345,9.95,4,292,271.73,718 Sample Street,30372,Copenhagen,Urban,Midtjylland,0.55,1.59,0.79
+2011-07-29,Q3,H100999,Villa,New Sale,2003,829976,5.51,1,33,25150.79,799 Sample Street,65355,Odense,Suburban,Syddanmark,3.48,1.62,2.59
